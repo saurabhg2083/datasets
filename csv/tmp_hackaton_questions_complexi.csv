@@ -1,0 +1,4473 @@
+Source,PassageName,QuestionId,Grade,Complexity
+mocktest,bluebird,1,3,3
+mocktest,bluebird,2,3,4
+mocktest,bluebird,3,3,5
+mocktest,bluebird,4,3,3
+mocktest,bluebird,5,3,4
+mocktest,bluebird,6,3,5
+mocktest,bluebird,7,3,4
+mocktest,bluebird,8,3,5
+mocktest,bluebird,9,3,5
+mocktest,bluebird,10,3,3
+mocktest,bluebird,11,3,4
+mocktest,bluebird,12,3,5
+mocktest,bluebird,13,3,4
+mocktest,bluebird,14,3,4
+mocktest,bluebird,15,3,5
+mocktest,bluebird,16,3,5
+mocktest,bluebird,17,3,5
+mocktest,bluebird,18,3,4
+mocktest,bluebird,19,3,5
+mocktest,bluebird,20,3,5
+mocktest,bluebird,21,3,5
+mocktest,bluebird,22,3,5
+mocktest,bluebird,23,3,5
+mocktest,bluebird,24,3,4
+mocktest,bluebird,25,3,5
+mocktest,bluebird,1,4,2
+mocktest,bluebird,2,4,3
+mocktest,bluebird,3,4,4
+mocktest,bluebird,4,4,3
+mocktest,bluebird,5,4,3
+mocktest,bluebird,6,4,4
+mocktest,bluebird,7,4,4
+mocktest,bluebird,8,4,5
+mocktest,bluebird,9,4,5
+mocktest,bluebird,10,4,3
+mocktest,bluebird,11,4,4
+mocktest,bluebird,12,4,4
+mocktest,bluebird,13,4,3
+mocktest,bluebird,14,4,3
+mocktest,bluebird,15,4,4
+mocktest,bluebird,16,4,5
+mocktest,bluebird,17,4,4
+mocktest,bluebird,18,4,4
+mocktest,bluebird,19,4,5
+mocktest,bluebird,20,4,5
+mocktest,bluebird,21,4,5
+mocktest,bluebird,22,4,4
+mocktest,bluebird,23,4,5
+mocktest,bluebird,24,4,4
+mocktest,bluebird,25,4,4
+mocktest,bluebird,1,5,2
+mocktest,bluebird,2,5,3
+mocktest,bluebird,3,5,4
+mocktest,bluebird,4,5,2
+mocktest,bluebird,5,5,3
+mocktest,bluebird,6,5,4
+mocktest,bluebird,7,5,3
+mocktest,bluebird,8,5,4
+mocktest,bluebird,9,5,4
+mocktest,bluebird,10,5,2
+mocktest,bluebird,11,5,3
+mocktest,bluebird,12,5,4
+mocktest,bluebird,13,5,3
+mocktest,bluebird,14,5,3
+mocktest,bluebird,15,5,4
+mocktest,bluebird,16,5,4
+mocktest,bluebird,17,5,4
+mocktest,bluebird,18,5,3
+mocktest,bluebird,19,5,4
+mocktest,bluebird,20,5,4
+mocktest,bluebird,21,5,4
+mocktest,bluebird,22,5,4
+mocktest,bluebird,23,5,4
+mocktest,bluebird,24,5,3
+mocktest,bluebird,25,5,4
+mocktest,bluebird,1,6,2
+mocktest,bluebird,2,6,3
+mocktest,bluebird,3,6,3
+mocktest,bluebird,4,6,2
+mocktest,bluebird,5,6,2
+mocktest,bluebird,6,6,3
+mocktest,bluebird,7,6,3
+mocktest,bluebird,8,6,4
+mocktest,bluebird,9,6,4
+mocktest,bluebird,10,6,2
+mocktest,bluebird,11,6,3
+mocktest,bluebird,12,6,3
+mocktest,bluebird,13,6,2
+mocktest,bluebird,14,6,3
+mocktest,bluebird,15,6,4
+mocktest,bluebird,16,6,4
+mocktest,bluebird,17,6,3
+mocktest,bluebird,18,6,3
+mocktest,bluebird,19,6,4
+mocktest,bluebird,20,6,4
+mocktest,bluebird,21,6,4
+mocktest,bluebird,22,6,3
+mocktest,bluebird,23,6,4
+mocktest,bluebird,24,6,3
+mocktest,bluebird,25,6,3
+mocktest,dorian gray,1,3,3
+mocktest,dorian gray,2,3,4
+mocktest,dorian gray,3,3,5
+mocktest,dorian gray,4,3,5
+mocktest,dorian gray,5,3,4
+mocktest,dorian gray,6,3,2
+mocktest,dorian gray,7,3,3
+mocktest,dorian gray,8,3,5
+mocktest,dorian gray,9,3,4
+mocktest,dorian gray,10,3,4
+mocktest,dorian gray,11,3,5
+mocktest,dorian gray,12,3,3
+mocktest,dorian gray,13,3,4
+mocktest,dorian gray,14,3,5
+mocktest,dorian gray,15,3,5
+mocktest,dorian gray,16,3,5
+mocktest,dorian gray,17,3,5
+mocktest,dorian gray,18,3,5
+mocktest,dorian gray,19,3,3
+mocktest,dorian gray,20,3,5
+mocktest,dorian gray,21,3,3
+mocktest,dorian gray,22,3,4
+mocktest,dorian gray,23,3,3
+mocktest,dorian gray,24,3,4
+mocktest,dorian gray,25,3,5
+mocktest,dorian gray,26,3,5
+mocktest,dorian gray,27,3,5
+mocktest,dorian gray,28,3,4
+mocktest,dorian gray,1,4,3
+mocktest,dorian gray,2,4,4
+mocktest,dorian gray,3,4,4
+mocktest,dorian gray,4,4,4
+mocktest,dorian gray,5,4,3
+mocktest,dorian gray,6,4,2
+mocktest,dorian gray,7,4,3
+mocktest,dorian gray,8,4,4
+mocktest,dorian gray,9,4,4
+mocktest,dorian gray,10,4,4
+mocktest,dorian gray,11,4,4
+mocktest,dorian gray,12,4,3
+mocktest,dorian gray,13,4,4
+mocktest,dorian gray,14,4,5
+mocktest,dorian gray,15,4,5
+mocktest,dorian gray,16,4,5
+mocktest,dorian gray,17,4,5
+mocktest,dorian gray,18,4,5
+mocktest,dorian gray,19,4,3
+mocktest,dorian gray,20,4,5
+mocktest,dorian gray,21,4,3
+mocktest,dorian gray,22,4,4
+mocktest,dorian gray,23,4,3
+mocktest,dorian gray,24,4,4
+mocktest,dorian gray,25,4,5
+mocktest,dorian gray,26,4,5
+mocktest,dorian gray,27,4,5
+mocktest,dorian gray,28,4,4
+mocktest,dorian gray,1,5,2
+mocktest,dorian gray,2,5,3
+mocktest,dorian gray,3,5,4
+mocktest,dorian gray,4,5,4
+mocktest,dorian gray,5,5,3
+mocktest,dorian gray,6,5,2
+mocktest,dorian gray,7,5,2
+mocktest,dorian gray,8,5,4
+mocktest,dorian gray,9,5,3
+mocktest,dorian gray,10,5,3
+mocktest,dorian gray,11,5,4
+mocktest,dorian gray,12,5,3
+mocktest,dorian gray,13,5,3
+mocktest,dorian gray,14,5,4
+mocktest,dorian gray,15,5,4
+mocktest,dorian gray,16,5,5
+mocktest,dorian gray,17,5,4
+mocktest,dorian gray,18,5,4
+mocktest,dorian gray,19,5,3
+mocktest,dorian gray,20,5,4
+mocktest,dorian gray,21,5,2
+mocktest,dorian gray,22,5,3
+mocktest,dorian gray,23,5,3
+mocktest,dorian gray,24,5,3
+mocktest,dorian gray,25,5,4
+mocktest,dorian gray,26,5,5
+mocktest,dorian gray,27,5,4
+mocktest,dorian gray,28,5,3
+mocktest,dorian gray,1,6,2
+mocktest,dorian gray,2,6,3
+mocktest,dorian gray,3,6,3
+mocktest,dorian gray,4,6,3
+mocktest,dorian gray,5,6,3
+mocktest,dorian gray,6,6,2
+mocktest,dorian gray,7,6,2
+mocktest,dorian gray,8,6,3
+mocktest,dorian gray,9,6,3
+mocktest,dorian gray,10,6,3
+mocktest,dorian gray,11,6,3
+mocktest,dorian gray,12,6,2
+mocktest,dorian gray,13,6,3
+mocktest,dorian gray,14,6,4
+mocktest,dorian gray,15,6,4
+mocktest,dorian gray,16,6,4
+mocktest,dorian gray,17,6,4
+mocktest,dorian gray,18,6,4
+mocktest,dorian gray,19,6,2
+mocktest,dorian gray,20,6,4
+mocktest,dorian gray,21,6,2
+mocktest,dorian gray,22,6,3
+mocktest,dorian gray,23,6,2
+mocktest,dorian gray,24,6,3
+mocktest,dorian gray,25,6,4
+mocktest,dorian gray,26,6,4
+mocktest,dorian gray,27,6,4
+mocktest,dorian gray,28,6,3
+mocktest,jane eyre,1,3,1
+mocktest,jane eyre,2,3,3
+mocktest,jane eyre,3,3,3
+mocktest,jane eyre,4,3,3
+mocktest,jane eyre,5,3,4
+mocktest,jane eyre,6,3,5
+mocktest,jane eyre,7,3,4
+mocktest,jane eyre,8,3,5
+mocktest,jane eyre,9,3,5
+mocktest,jane eyre,10,3,4
+mocktest,jane eyre,11,3,5
+mocktest,jane eyre,12,3,5
+mocktest,jane eyre,13,3,5
+mocktest,jane eyre,14,3,3
+mocktest,jane eyre,15,3,5
+mocktest,jane eyre,16,3,5
+mocktest,jane eyre,17,3,5
+mocktest,jane eyre,18,3,3
+mocktest,jane eyre,19,3,4
+mocktest,jane eyre,20,3,2
+mocktest,jane eyre,21,3,4
+mocktest,jane eyre,22,3,3
+mocktest,jane eyre,23,3,4
+mocktest,jane eyre,24,3,4
+mocktest,jane eyre,25,3,3
+mocktest,jane eyre,26,3,4
+mocktest,jane eyre,27,3,5
+mocktest,jane eyre,28,3,3
+mocktest,jane eyre,29,3,3
+mocktest,jane eyre,1,4,1
+mocktest,jane eyre,2,4,2
+mocktest,jane eyre,3,4,3
+mocktest,jane eyre,4,4,3
+mocktest,jane eyre,5,4,3
+mocktest,jane eyre,6,4,4
+mocktest,jane eyre,7,4,4
+mocktest,jane eyre,8,4,5
+mocktest,jane eyre,9,4,5
+mocktest,jane eyre,10,4,4
+mocktest,jane eyre,11,4,5
+mocktest,jane eyre,12,4,5
+mocktest,jane eyre,13,4,5
+mocktest,jane eyre,14,4,3
+mocktest,jane eyre,15,4,5
+mocktest,jane eyre,16,4,5
+mocktest,jane eyre,17,4,5
+mocktest,jane eyre,18,4,3
+mocktest,jane eyre,19,4,4
+mocktest,jane eyre,20,4,2
+mocktest,jane eyre,21,4,4
+mocktest,jane eyre,22,4,3
+mocktest,jane eyre,23,4,4
+mocktest,jane eyre,24,4,4
+mocktest,jane eyre,25,4,3
+mocktest,jane eyre,26,4,4
+mocktest,jane eyre,27,4,5
+mocktest,jane eyre,28,4,3
+mocktest,jane eyre,29,4,3
+mocktest,jane eyre,1,5,1
+mocktest,jane eyre,2,5,2
+mocktest,jane eyre,3,5,2
+mocktest,jane eyre,4,5,2
+mocktest,jane eyre,5,5,3
+mocktest,jane eyre,6,5,3
+mocktest,jane eyre,7,5,4
+mocktest,jane eyre,8,5,4
+mocktest,jane eyre,9,5,4
+mocktest,jane eyre,10,5,3
+mocktest,jane eyre,11,5,4
+mocktest,jane eyre,12,5,4
+mocktest,jane eyre,13,5,5
+mocktest,jane eyre,14,5,2
+mocktest,jane eyre,15,5,4
+mocktest,jane eyre,16,5,5
+mocktest,jane eyre,17,5,5
+mocktest,jane eyre,18,5,2
+mocktest,jane eyre,19,5,3
+mocktest,jane eyre,20,5,2
+mocktest,jane eyre,21,5,3
+mocktest,jane eyre,22,5,3
+mocktest,jane eyre,23,5,3
+mocktest,jane eyre,24,5,4
+mocktest,jane eyre,25,5,3
+mocktest,jane eyre,26,5,3
+mocktest,jane eyre,27,5,4
+mocktest,jane eyre,28,5,3
+mocktest,jane eyre,29,5,2
+mocktest,jane eyre,1,6,1
+mocktest,jane eyre,2,6,2
+mocktest,jane eyre,3,6,2
+mocktest,jane eyre,4,6,2
+mocktest,jane eyre,5,6,3
+mocktest,jane eyre,6,6,3
+mocktest,jane eyre,7,6,3
+mocktest,jane eyre,8,6,4
+mocktest,jane eyre,9,6,4
+mocktest,jane eyre,10,6,3
+mocktest,jane eyre,11,6,4
+mocktest,jane eyre,12,6,4
+mocktest,jane eyre,13,6,5
+mocktest,jane eyre,14,6,2
+mocktest,jane eyre,15,6,4
+mocktest,jane eyre,16,6,5
+mocktest,jane eyre,17,6,4
+mocktest,jane eyre,18,6,2
+mocktest,jane eyre,19,6,3
+mocktest,jane eyre,20,6,1
+mocktest,jane eyre,21,6,3
+mocktest,jane eyre,22,6,2
+mocktest,jane eyre,23,6,3
+mocktest,jane eyre,24,6,3
+mocktest,jane eyre,25,6,2
+mocktest,jane eyre,26,6,3
+mocktest,jane eyre,27,6,4
+mocktest,jane eyre,28,6,2
+mocktest,jane eyre,29,6,2
+mocktest,metamorphosis,1,3,5
+mocktest,metamorphosis,2,3,5
+mocktest,metamorphosis,3,3,5
+mocktest,metamorphosis,4,3,5
+mocktest,metamorphosis,5,3,5
+mocktest,metamorphosis,6,3,5
+mocktest,metamorphosis,7,3,5
+mocktest,metamorphosis,8,3,5
+mocktest,metamorphosis,9,3,5
+mocktest,metamorphosis,10,3,3
+mocktest,metamorphosis,11,3,4
+mocktest,metamorphosis,12,3,4
+mocktest,metamorphosis,13,3,5
+mocktest,metamorphosis,14,3,4
+mocktest,metamorphosis,15,3,4
+mocktest,metamorphosis,16,3,4
+mocktest,metamorphosis,17,3,4
+mocktest,metamorphosis,18,3,4
+mocktest,metamorphosis,19,3,4
+mocktest,metamorphosis,20,3,5
+mocktest,metamorphosis,21,3,5
+mocktest,metamorphosis,22,3,5
+mocktest,metamorphosis,23,3,5
+mocktest,metamorphosis,24,3,5
+mocktest,metamorphosis,25,3,5
+mocktest,metamorphosis,1,4,5
+mocktest,metamorphosis,2,4,5
+mocktest,metamorphosis,3,4,5
+mocktest,metamorphosis,4,4,5
+mocktest,metamorphosis,5,4,5
+mocktest,metamorphosis,6,4,5
+mocktest,metamorphosis,7,4,5
+mocktest,metamorphosis,8,4,5
+mocktest,metamorphosis,9,4,5
+mocktest,metamorphosis,10,4,3
+mocktest,metamorphosis,11,4,3
+mocktest,metamorphosis,12,4,3
+mocktest,metamorphosis,13,4,4
+mocktest,metamorphosis,14,4,3
+mocktest,metamorphosis,15,4,3
+mocktest,metamorphosis,16,4,3
+mocktest,metamorphosis,17,4,3
+mocktest,metamorphosis,18,4,3
+mocktest,metamorphosis,19,4,3
+mocktest,metamorphosis,20,4,4
+mocktest,metamorphosis,21,4,4
+mocktest,metamorphosis,22,4,4
+mocktest,metamorphosis,23,4,5
+mocktest,metamorphosis,24,4,4
+mocktest,metamorphosis,25,4,4
+mocktest,metamorphosis,1,5,5
+mocktest,metamorphosis,2,5,5
+mocktest,metamorphosis,3,5,5
+mocktest,metamorphosis,4,5,5
+mocktest,metamorphosis,5,5,5
+mocktest,metamorphosis,6,5,5
+mocktest,metamorphosis,7,5,5
+mocktest,metamorphosis,8,5,5
+mocktest,metamorphosis,9,5,5
+mocktest,metamorphosis,10,5,3
+mocktest,metamorphosis,11,5,3
+mocktest,metamorphosis,12,5,3
+mocktest,metamorphosis,13,5,4
+mocktest,metamorphosis,14,5,3
+mocktest,metamorphosis,15,5,3
+mocktest,metamorphosis,16,5,3
+mocktest,metamorphosis,17,5,3
+mocktest,metamorphosis,18,5,3
+mocktest,metamorphosis,19,5,3
+mocktest,metamorphosis,20,5,4
+mocktest,metamorphosis,21,5,4
+mocktest,metamorphosis,22,5,4
+mocktest,metamorphosis,23,5,4
+mocktest,metamorphosis,24,5,4
+mocktest,metamorphosis,25,5,4
+mocktest,metamorphosis,1,6,5
+mocktest,metamorphosis,2,6,5
+mocktest,metamorphosis,3,6,5
+mocktest,metamorphosis,4,6,5
+mocktest,metamorphosis,5,6,5
+mocktest,metamorphosis,6,6,5
+mocktest,metamorphosis,7,6,5
+mocktest,metamorphosis,8,6,5
+mocktest,metamorphosis,9,6,5
+mocktest,metamorphosis,10,6,2
+mocktest,metamorphosis,11,6,2
+mocktest,metamorphosis,12,6,2
+mocktest,metamorphosis,13,6,3
+mocktest,metamorphosis,14,6,2
+mocktest,metamorphosis,15,6,2
+mocktest,metamorphosis,16,6,2
+mocktest,metamorphosis,17,6,2
+mocktest,metamorphosis,18,6,2
+mocktest,metamorphosis,19,6,2
+mocktest,metamorphosis,20,6,3
+mocktest,metamorphosis,21,6,3
+mocktest,metamorphosis,22,6,3
+mocktest,metamorphosis,23,6,4
+mocktest,metamorphosis,24,6,3
+mocktest,metamorphosis,25,6,3
+mocktest,notre-dame,1,3,4
+mocktest,notre-dame,2,3,5
+mocktest,notre-dame,3,3,4
+mocktest,notre-dame,4,3,5
+mocktest,notre-dame,5,3,5
+mocktest,notre-dame,6,3,5
+mocktest,notre-dame,7,3,5
+mocktest,notre-dame,8,3,5
+mocktest,notre-dame,9,3,5
+mocktest,notre-dame,10,3,5
+mocktest,notre-dame,11,3,5
+mocktest,notre-dame,12,3,5
+mocktest,notre-dame,13,3,5
+mocktest,notre-dame,14,3,5
+mocktest,notre-dame,15,3,5
+mocktest,notre-dame,16,3,5
+mocktest,notre-dame,17,3,5
+mocktest,notre-dame,18,3,5
+mocktest,notre-dame,19,3,5
+mocktest,notre-dame,20,3,5
+mocktest,notre-dame,21,3,5
+mocktest,notre-dame,22,3,5
+mocktest,notre-dame,23,3,5
+mocktest,notre-dame,24,3,5
+mocktest,notre-dame,25,3,5
+mocktest,notre-dame,1,4,3
+mocktest,notre-dame,2,4,4
+mocktest,notre-dame,3,4,3
+mocktest,notre-dame,4,4,4
+mocktest,notre-dame,5,4,4
+mocktest,notre-dame,6,4,4
+mocktest,notre-dame,7,4,4
+mocktest,notre-dame,8,4,4
+mocktest,notre-dame,9,4,4
+mocktest,notre-dame,10,4,4
+mocktest,notre-dame,11,4,4
+mocktest,notre-dame,12,4,4
+mocktest,notre-dame,13,4,4
+mocktest,notre-dame,14,4,4
+mocktest,notre-dame,15,4,4
+mocktest,notre-dame,16,4,4
+mocktest,notre-dame,17,4,4
+mocktest,notre-dame,18,4,4
+mocktest,notre-dame,19,4,4
+mocktest,notre-dame,20,4,4
+mocktest,notre-dame,21,4,4
+mocktest,notre-dame,22,4,4
+mocktest,notre-dame,23,4,4
+mocktest,notre-dame,24,4,4
+mocktest,notre-dame,25,4,4
+mocktest,notre-dame,1,5,3
+mocktest,notre-dame,2,5,3
+mocktest,notre-dame,3,5,2
+mocktest,notre-dame,4,5,3
+mocktest,notre-dame,5,5,3
+mocktest,notre-dame,6,5,3
+mocktest,notre-dame,7,5,3
+mocktest,notre-dame,8,5,3
+mocktest,notre-dame,9,5,3
+mocktest,notre-dame,10,5,3
+mocktest,notre-dame,11,5,3
+mocktest,notre-dame,12,5,3
+mocktest,notre-dame,13,5,3
+mocktest,notre-dame,14,5,3
+mocktest,notre-dame,15,5,3
+mocktest,notre-dame,16,5,3
+mocktest,notre-dame,17,5,3
+mocktest,notre-dame,18,5,3
+mocktest,notre-dame,19,5,3
+mocktest,notre-dame,20,5,3
+mocktest,notre-dame,21,5,3
+mocktest,notre-dame,22,5,3
+mocktest,notre-dame,23,5,3
+mocktest,notre-dame,24,5,3
+mocktest,notre-dame,25,5,3
+mocktest,notre-dame,1,6,2
+mocktest,notre-dame,2,6,2
+mocktest,notre-dame,3,6,1
+mocktest,notre-dame,4,6,2
+mocktest,notre-dame,5,6,2
+mocktest,notre-dame,6,6,2
+mocktest,notre-dame,7,6,2
+mocktest,notre-dame,8,6,2
+mocktest,notre-dame,9,6,2
+mocktest,notre-dame,10,6,2
+mocktest,notre-dame,11,6,2
+mocktest,notre-dame,12,6,2
+mocktest,notre-dame,13,6,2
+mocktest,notre-dame,14,6,2
+mocktest,notre-dame,15,6,2
+mocktest,notre-dame,16,6,2
+mocktest,notre-dame,17,6,2
+mocktest,notre-dame,18,6,2
+mocktest,notre-dame,19,6,2
+mocktest,notre-dame,20,6,2
+mocktest,notre-dame,21,6,2
+mocktest,notre-dame,22,6,2
+mocktest,notre-dame,23,6,2
+mocktest,notre-dame,24,6,2
+mocktest,notre-dame,25,6,2
+mocktest,sleepy hollow,1,3,4
+mocktest,sleepy hollow,2,3,4
+mocktest,sleepy hollow,3,3,4
+mocktest,sleepy hollow,4,3,4
+mocktest,sleepy hollow,5,3,4
+mocktest,sleepy hollow,6,3,5
+mocktest,sleepy hollow,7,3,5
+mocktest,sleepy hollow,8,3,5
+mocktest,sleepy hollow,9,3,5
+mocktest,sleepy hollow,10,3,5
+mocktest,sleepy hollow,11,3,5
+mocktest,sleepy hollow,12,3,5
+mocktest,sleepy hollow,13,3,5
+mocktest,sleepy hollow,1,4,3
+mocktest,sleepy hollow,2,4,3
+mocktest,sleepy hollow,3,4,3
+mocktest,sleepy hollow,4,4,3
+mocktest,sleepy hollow,5,4,4
+mocktest,sleepy hollow,6,4,4
+mocktest,sleepy hollow,7,4,4
+mocktest,sleepy hollow,8,4,4
+mocktest,sleepy hollow,9,4,4
+mocktest,sleepy hollow,10,4,4
+mocktest,sleepy hollow,11,4,4
+mocktest,sleepy hollow,12,4,5
+mocktest,sleepy hollow,13,4,5
+mocktest,sleepy hollow,1,5,2
+mocktest,sleepy hollow,2,5,2
+mocktest,sleepy hollow,3,5,2
+mocktest,sleepy hollow,4,5,3
+mocktest,sleepy hollow,5,5,3
+mocktest,sleepy hollow,6,5,3
+mocktest,sleepy hollow,7,5,3
+mocktest,sleepy hollow,8,5,4
+mocktest,sleepy hollow,9,5,4
+mocktest,sleepy hollow,10,5,3
+mocktest,sleepy hollow,11,5,4
+mocktest,sleepy hollow,12,5,4
+mocktest,sleepy hollow,13,5,4
+mocktest,sleepy hollow,1,6,1
+mocktest,sleepy hollow,2,6,1
+mocktest,sleepy hollow,3,6,2
+mocktest,sleepy hollow,4,6,2
+mocktest,sleepy hollow,5,6,2
+mocktest,sleepy hollow,6,6,2
+mocktest,sleepy hollow,7,6,3
+mocktest,sleepy hollow,8,6,3
+mocktest,sleepy hollow,9,6,3
+mocktest,sleepy hollow,10,6,3
+mocktest,sleepy hollow,11,6,3
+mocktest,sleepy hollow,12,6,3
+mocktest,sleepy hollow,13,6,4
+mocktest,the hobbit,1,3,5
+mocktest,the hobbit,2,3,5
+mocktest,the hobbit,3,3,5
+mocktest,the hobbit,4,3,5
+mocktest,the hobbit,5,3,5
+mocktest,the hobbit,6,3,5
+mocktest,the hobbit,7,3,5
+mocktest,the hobbit,8,3,5
+mocktest,the hobbit,9,3,5
+mocktest,the hobbit,10,3,5
+mocktest,the hobbit,11,3,4
+mocktest,the hobbit,12,3,5
+mocktest,the hobbit,13,3,5
+mocktest,the hobbit,14,3,5
+mocktest,the hobbit,15,3,5
+mocktest,the hobbit,16,3,5
+mocktest,the hobbit,17,3,5
+mocktest,the hobbit,18,3,5
+mocktest,the hobbit,1,4,5
+mocktest,the hobbit,2,4,5
+mocktest,the hobbit,3,4,5
+mocktest,the hobbit,4,4,5
+mocktest,the hobbit,5,4,5
+mocktest,the hobbit,6,4,5
+mocktest,the hobbit,7,4,5
+mocktest,the hobbit,8,4,5
+mocktest,the hobbit,9,4,5
+mocktest,the hobbit,10,4,5
+mocktest,the hobbit,11,4,4
+mocktest,the hobbit,12,4,5
+mocktest,the hobbit,13,4,5
+mocktest,the hobbit,14,4,5
+mocktest,the hobbit,15,4,5
+mocktest,the hobbit,16,4,5
+mocktest,the hobbit,17,4,5
+mocktest,the hobbit,18,4,5
+mocktest,the hobbit,1,5,5
+mocktest,the hobbit,2,5,5
+mocktest,the hobbit,3,5,5
+mocktest,the hobbit,4,5,5
+mocktest,the hobbit,5,5,5
+mocktest,the hobbit,6,5,5
+mocktest,the hobbit,7,5,5
+mocktest,the hobbit,8,5,5
+mocktest,the hobbit,9,5,5
+mocktest,the hobbit,10,5,5
+mocktest,the hobbit,11,5,3
+mocktest,the hobbit,12,5,5
+mocktest,the hobbit,13,5,5
+mocktest,the hobbit,14,5,5
+mocktest,the hobbit,15,5,5
+mocktest,the hobbit,16,5,5
+mocktest,the hobbit,17,5,4
+mocktest,the hobbit,18,5,5
+mocktest,the hobbit,1,6,5
+mocktest,the hobbit,2,6,5
+mocktest,the hobbit,3,6,5
+mocktest,the hobbit,4,6,5
+mocktest,the hobbit,5,6,5
+mocktest,the hobbit,6,6,5
+mocktest,the hobbit,7,6,5
+mocktest,the hobbit,8,6,5
+mocktest,the hobbit,9,6,5
+mocktest,the hobbit,10,6,5
+mocktest,the hobbit,11,6,2
+mocktest,the hobbit,12,6,5
+mocktest,the hobbit,13,6,5
+mocktest,the hobbit,14,6,5
+mocktest,the hobbit,15,6,5
+mocktest,the hobbit,16,6,5
+mocktest,the hobbit,17,6,4
+mocktest,the hobbit,18,6,4
+mocktest,those winter,1,3,5
+mocktest,those winter,2,3,5
+mocktest,those winter,3,3,4
+mocktest,those winter,4,3,3
+mocktest,those winter,5,3,4
+mocktest,those winter,6,3,5
+mocktest,those winter,7,3,5
+mocktest,those winter,8,3,4
+mocktest,those winter,9,3,5
+mocktest,those winter,10,3,5
+mocktest,those winter,11,3,4
+mocktest,those winter,12,3,2
+mocktest,those winter,13,3,4
+mocktest,those winter,14,3,5
+mocktest,those winter,15,3,5
+mocktest,those winter,16,3,5
+mocktest,those winter,17,3,3
+mocktest,those winter,1,4,4
+mocktest,those winter,2,4,5
+mocktest,those winter,3,4,4
+mocktest,those winter,4,4,3
+mocktest,those winter,5,4,4
+mocktest,those winter,6,4,4
+mocktest,those winter,7,4,4
+mocktest,those winter,8,4,4
+mocktest,those winter,9,4,5
+mocktest,those winter,10,4,5
+mocktest,those winter,11,4,4
+mocktest,those winter,12,4,2
+mocktest,those winter,13,4,4
+mocktest,those winter,14,4,5
+mocktest,those winter,15,4,5
+mocktest,those winter,16,4,5
+mocktest,those winter,17,4,3
+mocktest,those winter,1,5,3
+mocktest,those winter,2,5,4
+mocktest,those winter,3,5,3
+mocktest,those winter,4,5,2
+mocktest,those winter,5,5,3
+mocktest,those winter,6,5,4
+mocktest,those winter,7,5,4
+mocktest,those winter,8,5,3
+mocktest,those winter,9,5,4
+mocktest,those winter,10,5,4
+mocktest,those winter,11,5,3
+mocktest,those winter,12,5,2
+mocktest,those winter,13,5,3
+mocktest,those winter,14,5,4
+mocktest,those winter,15,5,4
+mocktest,those winter,16,5,4
+mocktest,those winter,17,5,2
+mocktest,those winter,1,6,3
+mocktest,those winter,2,6,3
+mocktest,those winter,3,6,2
+mocktest,those winter,4,6,2
+mocktest,those winter,5,6,3
+mocktest,those winter,6,6,3
+mocktest,those winter,7,6,3
+mocktest,those winter,8,6,3
+mocktest,those winter,9,6,4
+mocktest,those winter,10,6,4
+mocktest,those winter,11,6,3
+mocktest,those winter,12,6,2
+mocktest,those winter,13,6,3
+mocktest,those winter,14,6,4
+mocktest,those winter,15,6,4
+mocktest,those winter,16,6,4
+mocktest,those winter,17,6,2
+worksheet,1984,1,3,2
+worksheet,1984,2,3,3
+worksheet,1984,3,3,5
+worksheet,1984,4,3,4
+worksheet,1984,5,3,5
+worksheet,1984,6,3,5
+worksheet,1984,7,3,2
+worksheet,1984,8,3,4
+worksheet,1984,9,3,3
+worksheet,1984,10,3,5
+worksheet,1984,11,3,5
+worksheet,1984,12,3,5
+worksheet,1984,13,3,5
+worksheet,1984,1,4,2
+worksheet,1984,2,4,3
+worksheet,1984,3,4,5
+worksheet,1984,4,4,4
+worksheet,1984,5,4,5
+worksheet,1984,6,4,5
+worksheet,1984,7,4,2
+worksheet,1984,8,4,4
+worksheet,1984,9,4,3
+worksheet,1984,10,4,5
+worksheet,1984,11,4,5
+worksheet,1984,12,4,5
+worksheet,1984,13,4,5
+worksheet,1984,1,5,1
+worksheet,1984,2,5,2
+worksheet,1984,3,5,4
+worksheet,1984,4,5,3
+worksheet,1984,5,5,4
+worksheet,1984,6,5,5
+worksheet,1984,7,5,2
+worksheet,1984,8,5,3
+worksheet,1984,9,5,2
+worksheet,1984,10,5,5
+worksheet,1984,11,5,5
+worksheet,1984,12,5,5
+worksheet,1984,13,5,5
+worksheet,1984,1,6,1
+worksheet,1984,2,6,2
+worksheet,1984,3,6,4
+worksheet,1984,4,6,3
+worksheet,1984,5,6,4
+worksheet,1984,6,6,5
+worksheet,1984,7,6,2
+worksheet,1984,8,6,3
+worksheet,1984,9,6,2
+worksheet,1984,10,6,4
+worksheet,1984,11,6,4
+worksheet,1984,12,6,5
+worksheet,1984,13,6,4
+worksheet,alice,1,3,3
+worksheet,alice,2,3,4
+worksheet,alice,3,3,5
+worksheet,alice,4,3,4
+worksheet,alice,5,3,3
+worksheet,alice,6,3,5
+worksheet,alice,7,3,5
+worksheet,alice,8,3,5
+worksheet,alice,9,3,5
+worksheet,alice,10,3,4
+worksheet,alice,11,3,5
+worksheet,alice,12,3,5
+worksheet,alice,13,3,2
+worksheet,alice,14,3,4
+worksheet,alice,15,3,5
+worksheet,alice,16,3,3
+worksheet,alice,17,3,5
+worksheet,alice,18,3,4
+worksheet,alice,1,4,2
+worksheet,alice,2,4,4
+worksheet,alice,3,4,4
+worksheet,alice,4,4,3
+worksheet,alice,5,4,2
+worksheet,alice,6,4,4
+worksheet,alice,7,4,5
+worksheet,alice,8,4,4
+worksheet,alice,9,4,5
+worksheet,alice,10,4,3
+worksheet,alice,11,4,5
+worksheet,alice,12,4,4
+worksheet,alice,13,4,2
+worksheet,alice,14,4,3
+worksheet,alice,15,4,4
+worksheet,alice,16,4,3
+worksheet,alice,17,4,5
+worksheet,alice,18,4,4
+worksheet,alice,1,5,2
+worksheet,alice,2,5,3
+worksheet,alice,3,5,3
+worksheet,alice,4,5,3
+worksheet,alice,5,5,2
+worksheet,alice,6,5,3
+worksheet,alice,7,5,4
+worksheet,alice,8,5,3
+worksheet,alice,9,5,4
+worksheet,alice,10,5,3
+worksheet,alice,11,5,4
+worksheet,alice,12,5,4
+worksheet,alice,13,5,1
+worksheet,alice,14,5,2
+worksheet,alice,15,5,3
+worksheet,alice,16,5,2
+worksheet,alice,17,5,4
+worksheet,alice,18,5,3
+worksheet,alice,1,6,1
+worksheet,alice,2,6,2
+worksheet,alice,3,6,2
+worksheet,alice,4,6,2
+worksheet,alice,5,6,1
+worksheet,alice,6,6,2
+worksheet,alice,7,6,3
+worksheet,alice,8,6,2
+worksheet,alice,9,6,3
+worksheet,alice,10,6,2
+worksheet,alice,11,6,3
+worksheet,alice,12,6,3
+worksheet,alice,13,6,1
+worksheet,alice,14,6,2
+worksheet,alice,15,6,3
+worksheet,alice,16,6,2
+worksheet,alice,17,6,3
+worksheet,alice,18,6,3
+worksheet,anne,1,3,2
+worksheet,anne,2,3,2
+worksheet,anne,3,3,3
+worksheet,anne,4,3,4
+worksheet,anne,5,3,4
+worksheet,anne,6,3,4
+worksheet,anne,7,3,3
+worksheet,anne,8,3,3
+worksheet,anne,9,3,5
+worksheet,anne,10,3,4
+worksheet,anne,11,3,3
+worksheet,anne,12,3,5
+worksheet,anne,13,3,4
+worksheet,anne,14,3,4
+worksheet,anne,15,3,3
+worksheet,anne,16,3,5
+worksheet,anne,1,4,2
+worksheet,anne,2,4,2
+worksheet,anne,3,4,3
+worksheet,anne,4,4,4
+worksheet,anne,5,4,4
+worksheet,anne,6,4,4
+worksheet,anne,7,4,3
+worksheet,anne,8,4,3
+worksheet,anne,9,4,4
+worksheet,anne,10,4,3
+worksheet,anne,11,4,3
+worksheet,anne,12,4,5
+worksheet,anne,13,4,3
+worksheet,anne,14,4,4
+worksheet,anne,15,4,3
+worksheet,anne,16,4,4
+worksheet,anne,1,5,1
+worksheet,anne,2,5,1
+worksheet,anne,3,5,2
+worksheet,anne,4,5,3
+worksheet,anne,5,5,3
+worksheet,anne,6,5,3
+worksheet,anne,7,5,2
+worksheet,anne,8,5,2
+worksheet,anne,9,5,3
+worksheet,anne,10,5,3
+worksheet,anne,11,5,2
+worksheet,anne,12,5,4
+worksheet,anne,13,5,3
+worksheet,anne,14,5,3
+worksheet,anne,15,5,2
+worksheet,anne,16,5,4
+worksheet,anne,1,6,1
+worksheet,anne,2,6,1
+worksheet,anne,3,6,2
+worksheet,anne,4,6,3
+worksheet,anne,5,6,3
+worksheet,anne,6,6,3
+worksheet,anne,7,6,2
+worksheet,anne,8,6,2
+worksheet,anne,9,6,3
+worksheet,anne,10,6,2
+worksheet,anne,11,6,2
+worksheet,anne,12,6,4
+worksheet,anne,13,6,2
+worksheet,anne,14,6,3
+worksheet,anne,15,6,2
+worksheet,anne,16,6,3
+worksheet,baskervilles,1,3,5
+worksheet,baskervilles,2,3,3
+worksheet,baskervilles,3,3,4
+worksheet,baskervilles,4,3,5
+worksheet,baskervilles,5,3,5
+worksheet,baskervilles,6,3,5
+worksheet,baskervilles,7,3,5
+worksheet,baskervilles,8,3,4
+worksheet,baskervilles,9,3,5
+worksheet,baskervilles,10,3,5
+worksheet,baskervilles,11,3,4
+worksheet,baskervilles,12,3,5
+worksheet,baskervilles,13,3,5
+worksheet,baskervilles,14,3,4
+worksheet,baskervilles,15,3,5
+worksheet,baskervilles,16,3,4
+worksheet,baskervilles,17,3,2
+worksheet,baskervilles,18,3,2
+worksheet,baskervilles,1,4,4
+worksheet,baskervilles,2,4,2
+worksheet,baskervilles,3,4,3
+worksheet,baskervilles,4,4,5
+worksheet,baskervilles,5,4,5
+worksheet,baskervilles,6,4,4
+worksheet,baskervilles,7,4,4
+worksheet,baskervilles,8,4,3
+worksheet,baskervilles,9,4,5
+worksheet,baskervilles,10,4,4
+worksheet,baskervilles,11,4,3
+worksheet,baskervilles,12,4,5
+worksheet,baskervilles,13,4,5
+worksheet,baskervilles,14,4,4
+worksheet,baskervilles,15,4,4
+worksheet,baskervilles,16,4,4
+worksheet,baskervilles,17,4,2
+worksheet,baskervilles,18,4,2
+worksheet,baskervilles,1,5,4
+worksheet,baskervilles,2,5,2
+worksheet,baskervilles,3,5,3
+worksheet,baskervilles,4,5,4
+worksheet,baskervilles,5,5,4
+worksheet,baskervilles,6,5,3
+worksheet,baskervilles,7,5,4
+worksheet,baskervilles,8,5,3
+worksheet,baskervilles,9,5,4
+worksheet,baskervilles,10,5,4
+worksheet,baskervilles,11,5,3
+worksheet,baskervilles,12,5,4
+worksheet,baskervilles,13,5,4
+worksheet,baskervilles,14,5,4
+worksheet,baskervilles,15,5,4
+worksheet,baskervilles,16,5,3
+worksheet,baskervilles,17,5,2
+worksheet,baskervilles,18,5,2
+worksheet,baskervilles,1,6,3
+worksheet,baskervilles,2,6,2
+worksheet,baskervilles,3,6,2
+worksheet,baskervilles,4,6,4
+worksheet,baskervilles,5,6,3
+worksheet,baskervilles,6,6,3
+worksheet,baskervilles,7,6,3
+worksheet,baskervilles,8,6,2
+worksheet,baskervilles,9,6,3
+worksheet,baskervilles,10,6,3
+worksheet,baskervilles,11,6,2
+worksheet,baskervilles,12,6,3
+worksheet,baskervilles,13,6,4
+worksheet,baskervilles,14,6,3
+worksheet,baskervilles,15,6,3
+worksheet,baskervilles,16,6,3
+worksheet,baskervilles,17,6,2
+worksheet,baskervilles,18,6,1
+worksheet,black beauty,1,3,3
+worksheet,black beauty,2,3,4
+worksheet,black beauty,3,3,3
+worksheet,black beauty,4,3,4
+worksheet,black beauty,5,3,5
+worksheet,black beauty,6,3,5
+worksheet,black beauty,7,3,5
+worksheet,black beauty,8,3,4
+worksheet,black beauty,9,3,5
+worksheet,black beauty,10,3,5
+worksheet,black beauty,11,3,5
+worksheet,black beauty,12,3,4
+worksheet,black beauty,1,4,2
+worksheet,black beauty,2,4,4
+worksheet,black beauty,3,4,3
+worksheet,black beauty,4,4,3
+worksheet,black beauty,5,4,4
+worksheet,black beauty,6,4,5
+worksheet,black beauty,7,4,5
+worksheet,black beauty,8,4,4
+worksheet,black beauty,9,4,4
+worksheet,black beauty,10,4,4
+worksheet,black beauty,11,4,4
+worksheet,black beauty,12,4,3
+worksheet,black beauty,1,5,2
+worksheet,black beauty,2,5,3
+worksheet,black beauty,3,5,2
+worksheet,black beauty,4,5,3
+worksheet,black beauty,5,5,3
+worksheet,black beauty,6,5,4
+worksheet,black beauty,7,5,4
+worksheet,black beauty,8,5,3
+worksheet,black beauty,9,5,4
+worksheet,black beauty,10,5,4
+worksheet,black beauty,11,5,3
+worksheet,black beauty,12,5,3
+worksheet,black beauty,1,6,1
+worksheet,black beauty,2,6,3
+worksheet,black beauty,3,6,2
+worksheet,black beauty,4,6,2
+worksheet,black beauty,5,6,3
+worksheet,black beauty,6,6,4
+worksheet,black beauty,7,6,4
+worksheet,black beauty,8,6,3
+worksheet,black beauty,9,6,3
+worksheet,black beauty,10,6,3
+worksheet,black beauty,11,6,3
+worksheet,black beauty,12,6,2
+worksheet,brazilian,1,3,3
+worksheet,brazilian,2,3,3
+worksheet,brazilian,3,3,4
+worksheet,brazilian,4,3,3
+worksheet,brazilian,5,3,4
+worksheet,brazilian,6,3,5
+worksheet,brazilian,7,3,4
+worksheet,brazilian,8,3,4
+worksheet,brazilian,9,3,5
+worksheet,brazilian,10,3,2
+worksheet,brazilian,11,3,4
+worksheet,brazilian,12,3,3
+worksheet,brazilian,13,3,5
+worksheet,brazilian,14,3,5
+worksheet,brazilian,15,3,4
+worksheet,brazilian,1,4,2
+worksheet,brazilian,2,4,3
+worksheet,brazilian,3,4,4
+worksheet,brazilian,4,4,3
+worksheet,brazilian,5,4,4
+worksheet,brazilian,6,4,4
+worksheet,brazilian,7,4,4
+worksheet,brazilian,8,4,4
+worksheet,brazilian,9,4,4
+worksheet,brazilian,10,4,2
+worksheet,brazilian,11,4,4
+worksheet,brazilian,12,4,3
+worksheet,brazilian,13,4,5
+worksheet,brazilian,14,4,4
+worksheet,brazilian,15,4,4
+worksheet,brazilian,1,5,2
+worksheet,brazilian,2,5,2
+worksheet,brazilian,3,5,3
+worksheet,brazilian,4,5,2
+worksheet,brazilian,5,5,3
+worksheet,brazilian,6,5,3
+worksheet,brazilian,7,5,3
+worksheet,brazilian,8,5,2
+worksheet,brazilian,9,5,3
+worksheet,brazilian,10,5,1
+worksheet,brazilian,11,5,3
+worksheet,brazilian,12,5,2
+worksheet,brazilian,13,5,4
+worksheet,brazilian,14,5,3
+worksheet,brazilian,15,5,3
+worksheet,brazilian,1,6,1
+worksheet,brazilian,2,6,1
+worksheet,brazilian,3,6,2
+worksheet,brazilian,4,6,2
+worksheet,brazilian,5,6,2
+worksheet,brazilian,6,6,2
+worksheet,brazilian,7,6,2
+worksheet,brazilian,8,6,2
+worksheet,brazilian,9,6,3
+worksheet,brazilian,10,6,1
+worksheet,brazilian,11,6,2
+worksheet,brazilian,12,6,1
+worksheet,brazilian,13,6,3
+worksheet,brazilian,14,6,3
+worksheet,brazilian,15,6,2
+worksheet,charlottes,1,3,1
+worksheet,charlottes,2,3,2
+worksheet,charlottes,3,3,3
+worksheet,charlottes,4,3,1
+worksheet,charlottes,5,3,2
+worksheet,charlottes,6,3,1
+worksheet,charlottes,7,3,2
+worksheet,charlottes,8,3,3
+worksheet,charlottes,9,3,4
+worksheet,charlottes,10,3,4
+worksheet,charlottes,1,4,1
+worksheet,charlottes,2,4,2
+worksheet,charlottes,3,4,3
+worksheet,charlottes,4,4,1
+worksheet,charlottes,5,4,2
+worksheet,charlottes,6,4,1
+worksheet,charlottes,7,4,2
+worksheet,charlottes,8,4,3
+worksheet,charlottes,9,4,4
+worksheet,charlottes,10,4,4
+worksheet,charlottes,1,5,1
+worksheet,charlottes,2,5,1
+worksheet,charlottes,3,5,2
+worksheet,charlottes,4,5,1
+worksheet,charlottes,5,5,2
+worksheet,charlottes,6,5,1
+worksheet,charlottes,7,5,2
+worksheet,charlottes,8,5,2
+worksheet,charlottes,9,5,3
+worksheet,charlottes,10,5,3
+worksheet,charlottes,1,6,1
+worksheet,charlottes,2,6,1
+worksheet,charlottes,3,6,2
+worksheet,charlottes,4,6,1
+worksheet,charlottes,5,6,2
+worksheet,charlottes,6,6,1
+worksheet,charlottes,7,6,2
+worksheet,charlottes,8,6,2
+worksheet,charlottes,9,6,3
+worksheet,charlottes,10,6,3
+worksheet,court life,1,3,3
+worksheet,court life,2,3,3
+worksheet,court life,3,3,4
+worksheet,court life,4,3,3
+worksheet,court life,5,3,4
+worksheet,court life,6,3,5
+worksheet,court life,7,3,4
+worksheet,court life,8,3,5
+worksheet,court life,9,3,5
+worksheet,court life,10,3,5
+worksheet,court life,11,3,5
+worksheet,court life,12,3,5
+worksheet,court life,13,3,5
+worksheet,court life,1,4,2
+worksheet,court life,2,4,2
+worksheet,court life,3,4,3
+worksheet,court life,4,4,3
+worksheet,court life,5,4,3
+worksheet,court life,6,4,4
+worksheet,court life,7,4,4
+worksheet,court life,8,4,5
+worksheet,court life,9,4,5
+worksheet,court life,10,4,4
+worksheet,court life,11,4,4
+worksheet,court life,12,4,4
+worksheet,court life,13,4,4
+worksheet,court life,1,5,2
+worksheet,court life,2,5,2
+worksheet,court life,3,5,3
+worksheet,court life,4,5,2
+worksheet,court life,5,5,3
+worksheet,court life,6,5,3
+worksheet,court life,7,5,3
+worksheet,court life,8,5,4
+worksheet,court life,9,5,4
+worksheet,court life,10,5,3
+worksheet,court life,11,5,4
+worksheet,court life,12,5,4
+worksheet,court life,13,5,4
+worksheet,court life,1,6,1
+worksheet,court life,2,6,1
+worksheet,court life,3,6,2
+worksheet,court life,4,6,2
+worksheet,court life,5,6,2
+worksheet,court life,6,6,2
+worksheet,court life,7,6,3
+worksheet,court life,8,6,3
+worksheet,court life,9,6,3
+worksheet,court life,10,6,3
+worksheet,court life,11,6,3
+worksheet,court life,12,6,3
+worksheet,court life,13,6,3
+worksheet,DORIAN,1,3,4
+worksheet,DORIAN,2,3,4
+worksheet,DORIAN,3,3,5
+worksheet,DORIAN,6,3,5
+worksheet,DORIAN,8,3,4
+worksheet,DORIAN,9,3,5
+worksheet,DORIAN,10,3,5
+worksheet,DORIAN,11,3,4
+worksheet,DORIAN,12,3,5
+worksheet,DORIAN,13,3,5
+worksheet,DORIAN,14,3,5
+worksheet,DORIAN,15,3,5
+worksheet,DORIAN,16,3,4
+worksheet,DORIAN,17,3,3
+worksheet,DORIAN,18,3,5
+worksheet,DORIAN,19,3,4
+worksheet,DORIAN,20,3,4
+worksheet,DORIAN,21,3,4
+worksheet,DORIAN,22,3,5
+worksheet,DORIAN,23,3,5
+worksheet,DORIAN,24,3,4
+worksheet,DORIAN,25,3,5
+worksheet,DORIAN,26,3,5
+worksheet,DORIAN,27,3,1
+worksheet,DORIAN,28,3,1
+worksheet,DORIAN,1,4,3
+worksheet,DORIAN,2,4,5
+worksheet,DORIAN,3,4,4
+worksheet,DORIAN,6,4,5
+worksheet,DORIAN,8,4,5
+worksheet,DORIAN,9,4,4
+worksheet,DORIAN,10,4,5
+worksheet,DORIAN,11,4,5
+worksheet,DORIAN,12,4,4
+worksheet,DORIAN,13,4,4
+worksheet,DORIAN,14,4,5
+worksheet,DORIAN,15,4,5
+worksheet,DORIAN,16,4,5
+worksheet,DORIAN,17,4,4
+worksheet,DORIAN,18,4,5
+worksheet,DORIAN,19,4,4
+worksheet,DORIAN,20,4,3
+worksheet,DORIAN,21,4,5
+worksheet,DORIAN,22,4,4
+worksheet,DORIAN,23,4,5
+worksheet,DORIAN,24,4,5
+worksheet,DORIAN,25,4,4
+worksheet,DORIAN,26,4,4
+worksheet,DORIAN,27,4,1
+worksheet,DORIAN,28,4,1
+worksheet,DORIAN,1,5,2
+worksheet,DORIAN,2,5,4
+worksheet,DORIAN,3,5,3
+worksheet,DORIAN,6,5,4
+worksheet,DORIAN,8,5,4
+worksheet,DORIAN,9,5,4
+worksheet,DORIAN,10,5,4
+worksheet,DORIAN,11,5,3
+worksheet,DORIAN,12,5,4
+worksheet,DORIAN,13,5,4
+worksheet,DORIAN,14,5,4
+worksheet,DORIAN,15,5,5
+worksheet,DORIAN,16,5,4
+worksheet,DORIAN,17,5,3
+worksheet,DORIAN,18,5,4
+worksheet,DORIAN,19,5,3
+worksheet,DORIAN,20,5,2
+worksheet,DORIAN,21,5,3
+worksheet,DORIAN,22,5,4
+worksheet,DORIAN,23,5,4
+worksheet,DORIAN,24,5,4
+worksheet,DORIAN,25,5,4
+worksheet,DORIAN,26,5,4
+worksheet,DORIAN,27,5,1
+worksheet,DORIAN,28,5,1
+worksheet,DORIAN,1,6,2
+worksheet,DORIAN,2,6,3
+worksheet,DORIAN,3,6,3
+worksheet,DORIAN,6,6,3
+worksheet,DORIAN,8,6,3
+worksheet,DORIAN,9,6,3
+worksheet,DORIAN,10,6,3
+worksheet,DORIAN,11,6,2
+worksheet,DORIAN,12,6,3
+worksheet,DORIAN,13,6,3
+worksheet,DORIAN,14,6,4
+worksheet,DORIAN,15,6,4
+worksheet,DORIAN,16,6,4
+worksheet,DORIAN,17,6,3
+worksheet,DORIAN,18,6,4
+worksheet,DORIAN,19,6,3
+worksheet,DORIAN,20,6,2
+worksheet,DORIAN,21,6,3
+worksheet,DORIAN,22,6,3
+worksheet,DORIAN,23,6,4
+worksheet,DORIAN,24,6,3
+worksheet,DORIAN,25,6,4
+worksheet,DORIAN,26,6,3
+worksheet,DORIAN,27,6,1
+worksheet,DORIAN,28,6,1
+worksheet,dreams of a giant life,1,3,2
+worksheet,dreams of a giant life,2,3,3
+worksheet,dreams of a giant life,3,3,4
+worksheet,dreams of a giant life,4,3,5
+worksheet,dreams of a giant life,5,3,5
+worksheet,dreams of a giant life,6,3,3
+worksheet,dreams of a giant life,7,3,3
+worksheet,dreams of a giant life,8,3,4
+worksheet,dreams of a giant life,9,3,2
+worksheet,dreams of a giant life,10,3,4
+worksheet,dreams of a giant life,11,3,5
+worksheet,dreams of a giant life,12,3,5
+worksheet,dreams of a giant life,13,3,4
+worksheet,dreams of a giant life,14,3,5
+worksheet,dreams of a giant life,15,3,3
+worksheet,dreams of a giant life,16,3,3
+worksheet,dreams of a giant life,17,3,4
+worksheet,dreams of a giant life,18,3,5
+worksheet,dreams of a giant life,1,4,2
+worksheet,dreams of a giant life,2,4,3
+worksheet,dreams of a giant life,3,4,3
+worksheet,dreams of a giant life,4,4,4
+worksheet,dreams of a giant life,5,4,4
+worksheet,dreams of a giant life,6,4,3
+worksheet,dreams of a giant life,7,4,3
+worksheet,dreams of a giant life,8,4,4
+worksheet,dreams of a giant life,9,4,2
+worksheet,dreams of a giant life,10,4,3
+worksheet,dreams of a giant life,11,4,4
+worksheet,dreams of a giant life,12,4,4
+worksheet,dreams of a giant life,13,4,4
+worksheet,dreams of a giant life,14,4,4
+worksheet,dreams of a giant life,15,4,3
+worksheet,dreams of a giant life,16,4,2
+worksheet,dreams of a giant life,17,4,3
+worksheet,dreams of a giant life,18,4,4
+worksheet,dreams of a giant life,1,5,2
+worksheet,dreams of a giant life,2,5,2
+worksheet,dreams of a giant life,3,5,3
+worksheet,dreams of a giant life,4,5,3
+worksheet,dreams of a giant life,5,5,3
+worksheet,dreams of a giant life,6,5,2
+worksheet,dreams of a giant life,7,5,3
+worksheet,dreams of a giant life,8,5,3
+worksheet,dreams of a giant life,9,5,2
+worksheet,dreams of a giant life,10,5,3
+worksheet,dreams of a giant life,11,5,4
+worksheet,dreams of a giant life,12,5,3
+worksheet,dreams of a giant life,13,5,3
+worksheet,dreams of a giant life,14,5,3
+worksheet,dreams of a giant life,15,5,2
+worksheet,dreams of a giant life,16,5,2
+worksheet,dreams of a giant life,17,5,3
+worksheet,dreams of a giant life,18,5,3
+worksheet,dreams of a giant life,1,6,1
+worksheet,dreams of a giant life,2,6,2
+worksheet,dreams of a giant life,3,6,2
+worksheet,dreams of a giant life,4,6,3
+worksheet,dreams of a giant life,5,6,3
+worksheet,dreams of a giant life,6,6,2
+worksheet,dreams of a giant life,7,6,2
+worksheet,dreams of a giant life,8,6,2
+worksheet,dreams of a giant life,9,6,1
+worksheet,dreams of a giant life,10,6,2
+worksheet,dreams of a giant life,11,6,3
+worksheet,dreams of a giant life,12,6,3
+worksheet,dreams of a giant life,13,6,3
+worksheet,dreams of a giant life,14,6,3
+worksheet,dreams of a giant life,15,6,2
+worksheet,dreams of a giant life,16,6,1
+worksheet,dreams of a giant life,17,6,2
+worksheet,dreams of a giant life,18,6,3
+worksheet,economics,1,3,3
+worksheet,economics,2,3,3
+worksheet,economics,3,3,4
+worksheet,economics,4,3,4
+worksheet,economics,5,3,2
+worksheet,economics,6,3,2
+worksheet,economics,7,3,4
+worksheet,economics,8,3,2
+worksheet,economics,10,3,4
+worksheet,economics,11,3,5
+worksheet,economics,1,4,2
+worksheet,economics,2,4,3
+worksheet,economics,3,4,3
+worksheet,economics,4,4,3
+worksheet,economics,5,4,2
+worksheet,economics,6,4,2
+worksheet,economics,7,4,4
+worksheet,economics,8,4,1
+worksheet,economics,10,4,3
+worksheet,economics,11,4,5
+worksheet,economics,1,5,2
+worksheet,economics,2,5,2
+worksheet,economics,3,5,2
+worksheet,economics,4,5,2
+worksheet,economics,5,5,2
+worksheet,economics,6,5,1
+worksheet,economics,7,5,3
+worksheet,economics,8,5,1
+worksheet,economics,10,5,3
+worksheet,economics,11,5,4
+worksheet,economics,1,6,1
+worksheet,economics,2,6,1
+worksheet,economics,3,6,1
+worksheet,economics,4,6,2
+worksheet,economics,5,6,1
+worksheet,economics,6,6,1
+worksheet,economics,7,6,2
+worksheet,economics,8,6,1
+worksheet,economics,10,6,2
+worksheet,economics,11,6,3
+worksheet,fauntleroy,1,3,2
+worksheet,fauntleroy,2,3,3
+worksheet,fauntleroy,3,3,4
+worksheet,fauntleroy,4,3,2
+worksheet,fauntleroy,5,3,3
+worksheet,fauntleroy,6,3,4
+worksheet,fauntleroy,7,3,2
+worksheet,fauntleroy,8,3,2
+worksheet,fauntleroy,9,3,5
+worksheet,fauntleroy,10,3,2
+worksheet,fauntleroy,11,3,5
+worksheet,fauntleroy,12,3,3
+worksheet,fauntleroy,1,4,2
+worksheet,fauntleroy,2,4,3
+worksheet,fauntleroy,3,4,4
+worksheet,fauntleroy,4,4,2
+worksheet,fauntleroy,5,4,2
+worksheet,fauntleroy,6,4,4
+worksheet,fauntleroy,7,4,2
+worksheet,fauntleroy,8,4,1
+worksheet,fauntleroy,9,4,4
+worksheet,fauntleroy,10,4,1
+worksheet,fauntleroy,11,4,5
+worksheet,fauntleroy,12,4,3
+worksheet,fauntleroy,1,5,1
+worksheet,fauntleroy,2,5,2
+worksheet,fauntleroy,3,5,3
+worksheet,fauntleroy,4,5,1
+worksheet,fauntleroy,5,5,2
+worksheet,fauntleroy,6,5,3
+worksheet,fauntleroy,7,5,1
+worksheet,fauntleroy,8,5,1
+worksheet,fauntleroy,9,5,4
+worksheet,fauntleroy,10,5,1
+worksheet,fauntleroy,11,5,4
+worksheet,fauntleroy,12,5,2
+worksheet,fauntleroy,1,6,1
+worksheet,fauntleroy,2,6,2
+worksheet,fauntleroy,3,6,2
+worksheet,fauntleroy,4,6,1
+worksheet,fauntleroy,5,6,1
+worksheet,fauntleroy,6,6,2
+worksheet,fauntleroy,7,6,1
+worksheet,fauntleroy,8,6,1
+worksheet,fauntleroy,9,6,3
+worksheet,fauntleroy,10,6,1
+worksheet,fauntleroy,11,6,4
+worksheet,fauntleroy,12,6,2
+worksheet,frankenstein,1,3,4
+worksheet,frankenstein,2,3,5
+worksheet,frankenstein,3,3,5
+worksheet,frankenstein,4,3,5
+worksheet,frankenstein,5,3,4
+worksheet,frankenstein,6,3,5
+worksheet,frankenstein,7,3,4
+worksheet,frankenstein,8,3,3
+worksheet,frankenstein,9,3,4
+worksheet,frankenstein,10,3,5
+worksheet,frankenstein,11,3,5
+worksheet,frankenstein,12,3,5
+worksheet,frankenstein,13,3,5
+worksheet,frankenstein,14,3,3
+worksheet,frankenstein,1,4,4
+worksheet,frankenstein,2,4,4
+worksheet,frankenstein,3,4,5
+worksheet,frankenstein,4,4,4
+worksheet,frankenstein,5,4,4
+worksheet,frankenstein,6,4,5
+worksheet,frankenstein,7,4,4
+worksheet,frankenstein,8,4,3
+worksheet,frankenstein,9,4,4
+worksheet,frankenstein,10,4,5
+worksheet,frankenstein,11,4,5
+worksheet,frankenstein,12,4,4
+worksheet,frankenstein,13,4,5
+worksheet,frankenstein,14,4,3
+worksheet,frankenstein,1,5,3
+worksheet,frankenstein,2,5,4
+worksheet,frankenstein,3,5,4
+worksheet,frankenstein,4,5,4
+worksheet,frankenstein,5,5,3
+worksheet,frankenstein,6,5,4
+worksheet,frankenstein,7,5,3
+worksheet,frankenstein,8,5,2
+worksheet,frankenstein,9,5,3
+worksheet,frankenstein,10,5,4
+worksheet,frankenstein,11,5,5
+worksheet,frankenstein,12,5,4
+worksheet,frankenstein,13,5,4
+worksheet,frankenstein,14,5,2
+worksheet,frankenstein,1,6,2
+worksheet,frankenstein,2,6,3
+worksheet,frankenstein,3,6,3
+worksheet,frankenstein,4,6,3
+worksheet,frankenstein,5,6,2
+worksheet,frankenstein,6,6,3
+worksheet,frankenstein,7,6,2
+worksheet,frankenstein,8,6,1
+worksheet,frankenstein,9,6,2
+worksheet,frankenstein,10,6,3
+worksheet,frankenstein,11,6,4
+worksheet,frankenstein,12,6,4
+worksheet,frankenstein,13,6,3
+worksheet,frankenstein,14,6,1
+worksheet,friendship,1,3,4
+worksheet,friendship,2,3,4
+worksheet,friendship,3,3,5
+worksheet,friendship,4,3,4
+worksheet,friendship,5,3,5
+worksheet,friendship,6,3,5
+worksheet,friendship,7,3,4
+worksheet,friendship,8,3,5
+worksheet,friendship,9,3,5
+worksheet,friendship,10,3,5
+worksheet,friendship,11,3,5
+worksheet,friendship,12,3,5
+worksheet,friendship,13,3,4
+worksheet,friendship,14,3,5
+worksheet,friendship,1,4,3
+worksheet,friendship,2,4,4
+worksheet,friendship,3,4,4
+worksheet,friendship,4,4,3
+worksheet,friendship,5,4,5
+worksheet,friendship,6,4,4
+worksheet,friendship,7,4,4
+worksheet,friendship,8,4,5
+worksheet,friendship,9,4,5
+worksheet,friendship,10,4,5
+worksheet,friendship,11,4,4
+worksheet,friendship,12,4,5
+worksheet,friendship,13,4,3
+worksheet,friendship,14,4,4
+worksheet,friendship,1,5,3
+worksheet,friendship,2,5,3
+worksheet,friendship,3,5,3
+worksheet,friendship,4,5,3
+worksheet,friendship,5,5,4
+worksheet,friendship,6,5,4
+worksheet,friendship,7,5,3
+worksheet,friendship,8,5,4
+worksheet,friendship,9,5,4
+worksheet,friendship,10,5,4
+worksheet,friendship,11,5,4
+worksheet,friendship,12,5,4
+worksheet,friendship,13,5,3
+worksheet,friendship,14,5,4
+worksheet,friendship,1,6,2
+worksheet,friendship,2,6,2
+worksheet,friendship,3,6,3
+worksheet,friendship,4,6,2
+worksheet,friendship,5,6,3
+worksheet,friendship,6,6,3
+worksheet,friendship,7,6,3
+worksheet,friendship,8,6,4
+worksheet,friendship,9,6,4
+worksheet,friendship,10,6,3
+worksheet,friendship,11,6,3
+worksheet,friendship,12,6,3
+worksheet,friendship,13,6,2
+worksheet,friendship,14,6,4
+worksheet,frost,1,3,4
+worksheet,frost,2,3,2
+worksheet,frost,3,3,4
+worksheet,frost,4,3,2
+worksheet,frost,5,3,3
+worksheet,frost,6,3,4
+worksheet,frost,7,3,3
+worksheet,frost,8,3,4
+worksheet,frost,9,3,5
+worksheet,frost,10,3,4
+worksheet,frost,11,3,3
+worksheet,frost,12,3,3
+worksheet,frost,13,3,4
+worksheet,frost,14,3,5
+worksheet,frost,15,3,3
+worksheet,frost,1,4,3
+worksheet,frost,2,4,2
+worksheet,frost,3,4,3
+worksheet,frost,4,4,2
+worksheet,frost,5,4,2
+worksheet,frost,6,4,3
+worksheet,frost,7,4,3
+worksheet,frost,8,4,4
+worksheet,frost,9,4,4
+worksheet,frost,10,4,4
+worksheet,frost,11,4,3
+worksheet,frost,12,4,3
+worksheet,frost,13,4,4
+worksheet,frost,14,4,4
+worksheet,frost,15,4,2
+worksheet,frost,1,5,3
+worksheet,frost,2,5,1
+worksheet,frost,3,5,3
+worksheet,frost,4,5,1
+worksheet,frost,5,5,2
+worksheet,frost,6,5,3
+worksheet,frost,7,5,2
+worksheet,frost,8,5,3
+worksheet,frost,9,5,4
+worksheet,frost,10,5,3
+worksheet,frost,11,5,2
+worksheet,frost,12,5,2
+worksheet,frost,13,5,3
+worksheet,frost,14,5,4
+worksheet,frost,15,5,2
+worksheet,frost,1,6,2
+worksheet,frost,2,6,1
+worksheet,frost,3,6,2
+worksheet,frost,4,6,1
+worksheet,frost,5,6,2
+worksheet,frost,6,6,2
+worksheet,frost,7,6,2
+worksheet,frost,8,6,3
+worksheet,frost,9,6,3
+worksheet,frost,10,6,3
+worksheet,frost,11,6,2
+worksheet,frost,12,6,2
+worksheet,frost,13,6,3
+worksheet,frost,14,6,3
+worksheet,frost,15,6,1
+worksheet,gatsby,1,3,4
+worksheet,gatsby,2,3,4
+worksheet,gatsby,3,3,5
+worksheet,gatsby,4,3,5
+worksheet,gatsby,5,3,4
+worksheet,gatsby,6,3,5
+worksheet,gatsby,7,3,5
+worksheet,gatsby,8,3,4
+worksheet,gatsby,9,3,5
+worksheet,gatsby,10,3,4
+worksheet,gatsby,11,3,5
+worksheet,gatsby,12,3,5
+worksheet,gatsby,13,3,5
+worksheet,gatsby,14,3,4
+worksheet,gatsby,15,3,4
+worksheet,gatsby,16,3,5
+worksheet,gatsby,17,3,5
+worksheet,gatsby,18,3,5
+worksheet,gatsby,1,4,3
+worksheet,gatsby,2,4,3
+worksheet,gatsby,3,4,4
+worksheet,gatsby,4,4,4
+worksheet,gatsby,5,4,3
+worksheet,gatsby,6,4,5
+worksheet,gatsby,7,4,5
+worksheet,gatsby,8,4,4
+worksheet,gatsby,9,4,4
+worksheet,gatsby,10,4,3
+worksheet,gatsby,11,4,4
+worksheet,gatsby,12,4,5
+worksheet,gatsby,13,4,4
+worksheet,gatsby,14,4,3
+worksheet,gatsby,15,4,4
+worksheet,gatsby,16,4,4
+worksheet,gatsby,17,4,5
+worksheet,gatsby,18,4,5
+worksheet,gatsby,1,5,3
+worksheet,gatsby,2,5,3
+worksheet,gatsby,3,5,3
+worksheet,gatsby,4,5,3
+worksheet,gatsby,5,5,3
+worksheet,gatsby,6,5,4
+worksheet,gatsby,7,5,4
+worksheet,gatsby,8,5,3
+worksheet,gatsby,9,5,4
+worksheet,gatsby,10,5,3
+worksheet,gatsby,11,5,4
+worksheet,gatsby,12,5,4
+worksheet,gatsby,13,5,4
+worksheet,gatsby,14,5,3
+worksheet,gatsby,15,5,3
+worksheet,gatsby,16,5,4
+worksheet,gatsby,17,5,4
+worksheet,gatsby,18,5,5
+worksheet,gatsby,1,6,2
+worksheet,gatsby,2,6,2
+worksheet,gatsby,3,6,3
+worksheet,gatsby,4,6,3
+worksheet,gatsby,5,6,2
+worksheet,gatsby,6,6,3
+worksheet,gatsby,7,6,4
+worksheet,gatsby,8,6,3
+worksheet,gatsby,9,6,3
+worksheet,gatsby,10,6,3
+worksheet,gatsby,11,6,3
+worksheet,gatsby,12,6,4
+worksheet,gatsby,13,6,3
+worksheet,gatsby,14,6,3
+worksheet,gatsby,15,6,3
+worksheet,gatsby,16,6,3
+worksheet,gatsby,17,6,4
+worksheet,gatsby,18,6,4
+worksheet,gibson,1,3,3
+worksheet,gibson,2,3,3
+worksheet,gibson,3,3,5
+worksheet,gibson,4,3,4
+worksheet,gibson,5,3,2
+worksheet,gibson,6,3,5
+worksheet,gibson,7,3,4
+worksheet,gibson,8,3,4
+worksheet,gibson,9,3,3
+worksheet,gibson,10,3,4
+worksheet,gibson,11,3,5
+worksheet,gibson,12,3,4
+worksheet,gibson,13,3,5
+worksheet,gibson,14,3,3
+worksheet,gibson,15,3,4
+worksheet,gibson,16,3,4
+worksheet,gibson,17,3,3
+worksheet,gibson,1,4,2
+worksheet,gibson,2,4,2
+worksheet,gibson,3,4,4
+worksheet,gibson,4,4,3
+worksheet,gibson,5,4,2
+worksheet,gibson,6,4,4
+worksheet,gibson,7,4,4
+worksheet,gibson,8,4,4
+worksheet,gibson,9,4,3
+worksheet,gibson,10,4,4
+worksheet,gibson,11,4,5
+worksheet,gibson,12,4,3
+worksheet,gibson,13,4,5
+worksheet,gibson,14,4,3
+worksheet,gibson,15,4,3
+worksheet,gibson,16,4,3
+worksheet,gibson,17,4,3
+worksheet,gibson,1,5,2
+worksheet,gibson,2,5,2
+worksheet,gibson,3,5,3
+worksheet,gibson,4,5,3
+worksheet,gibson,5,5,1
+worksheet,gibson,6,5,4
+worksheet,gibson,7,5,3
+worksheet,gibson,8,5,3
+worksheet,gibson,9,5,2
+worksheet,gibson,10,5,3
+worksheet,gibson,11,5,4
+worksheet,gibson,12,5,3
+worksheet,gibson,13,5,4
+worksheet,gibson,14,5,2
+worksheet,gibson,15,5,3
+worksheet,gibson,16,5,3
+worksheet,gibson,17,5,2
+worksheet,gibson,1,6,1
+worksheet,gibson,2,6,1
+worksheet,gibson,3,6,3
+worksheet,gibson,4,6,2
+worksheet,gibson,5,6,1
+worksheet,gibson,6,6,3
+worksheet,gibson,7,6,2
+worksheet,gibson,8,6,2
+worksheet,gibson,9,6,2
+worksheet,gibson,10,6,3
+worksheet,gibson,11,6,4
+worksheet,gibson,12,6,2
+worksheet,gibson,13,6,4
+worksheet,gibson,14,6,2
+worksheet,gibson,15,6,2
+worksheet,gibson,16,6,2
+worksheet,gibson,17,6,2
+worksheet,growth,1,3,3
+worksheet,growth,2,3,4
+worksheet,growth,3,3,4
+worksheet,growth,4,3,5
+worksheet,growth,5,3,5
+worksheet,growth,6,3,4
+worksheet,growth,7,3,4
+worksheet,growth,8,3,4
+worksheet,growth,9,3,5
+worksheet,growth,10,3,5
+worksheet,growth,11,3,5
+worksheet,growth,12,3,5
+worksheet,growth,13,3,4
+worksheet,growth,1,4,2
+worksheet,growth,2,4,3
+worksheet,growth,3,4,3
+worksheet,growth,4,4,4
+worksheet,growth,5,4,4
+worksheet,growth,6,4,3
+worksheet,growth,7,4,3
+worksheet,growth,8,4,3
+worksheet,growth,9,4,4
+worksheet,growth,10,4,5
+worksheet,growth,11,4,4
+worksheet,growth,12,4,5
+worksheet,growth,13,4,3
+worksheet,growth,1,5,1
+worksheet,growth,2,5,2
+worksheet,growth,3,5,2
+worksheet,growth,4,5,3
+worksheet,growth,5,5,3
+worksheet,growth,6,5,2
+worksheet,growth,7,5,3
+worksheet,growth,8,5,3
+worksheet,growth,9,5,3
+worksheet,growth,10,5,4
+worksheet,growth,11,5,4
+worksheet,growth,12,5,4
+worksheet,growth,13,5,3
+worksheet,growth,1,6,1
+worksheet,growth,2,6,2
+worksheet,growth,3,6,2
+worksheet,growth,4,6,2
+worksheet,growth,5,6,3
+worksheet,growth,6,6,2
+worksheet,growth,7,6,2
+worksheet,growth,8,6,2
+worksheet,growth,9,6,3
+worksheet,growth,10,6,3
+worksheet,growth,11,6,3
+worksheet,growth,12,6,4
+worksheet,growth,13,6,2
+worksheet,gulliver,1,3,4
+worksheet,gulliver,2,3,4
+worksheet,gulliver,3,3,5
+worksheet,gulliver,4,3,5
+worksheet,gulliver,5,3,5
+worksheet,gulliver,6,3,5
+worksheet,gulliver,7,3,4
+worksheet,gulliver,8,3,5
+worksheet,gulliver,9,3,5
+worksheet,gulliver,10,3,5
+worksheet,gulliver,1,4,3
+worksheet,gulliver,2,4,3
+worksheet,gulliver,3,4,4
+worksheet,gulliver,4,4,4
+worksheet,gulliver,5,4,4
+worksheet,gulliver,6,4,5
+worksheet,gulliver,7,4,3
+worksheet,gulliver,8,4,4
+worksheet,gulliver,9,4,4
+worksheet,gulliver,10,4,4
+worksheet,gulliver,1,5,2
+worksheet,gulliver,2,5,2
+worksheet,gulliver,3,5,3
+worksheet,gulliver,4,5,3
+worksheet,gulliver,5,5,3
+worksheet,gulliver,6,5,3
+worksheet,gulliver,7,5,2
+worksheet,gulliver,8,5,2
+worksheet,gulliver,9,5,3
+worksheet,gulliver,10,5,3
+worksheet,gulliver,1,6,1
+worksheet,gulliver,2,6,2
+worksheet,gulliver,3,6,2
+worksheet,gulliver,4,6,3
+worksheet,gulliver,5,6,3
+worksheet,gulliver,6,6,2
+worksheet,gulliver,7,6,1
+worksheet,gulliver,8,6,2
+worksheet,gulliver,9,6,2
+worksheet,gulliver,10,6,2
+worksheet,homing pigeon,1,3,4
+worksheet,homing pigeon,2,3,5
+worksheet,homing pigeon,3,3,3
+worksheet,homing pigeon,4,3,5
+worksheet,homing pigeon,5,3,2
+worksheet,homing pigeon,6,3,4
+worksheet,homing pigeon,7,3,3
+worksheet,homing pigeon,8,3,4
+worksheet,homing pigeon,9,3,1
+worksheet,homing pigeon,10,3,4
+worksheet,homing pigeon,11,3,2
+worksheet,homing pigeon,12,3,5
+worksheet,homing pigeon,13,3,4
+worksheet,homing pigeon,14,3,5
+worksheet,homing pigeon,15,3,5
+worksheet,homing pigeon,1,4,3
+worksheet,homing pigeon,2,4,4
+worksheet,homing pigeon,3,4,3
+worksheet,homing pigeon,4,4,4
+worksheet,homing pigeon,5,4,2
+worksheet,homing pigeon,6,4,3
+worksheet,homing pigeon,7,4,2
+worksheet,homing pigeon,8,4,3
+worksheet,homing pigeon,9,4,1
+worksheet,homing pigeon,10,4,3
+worksheet,homing pigeon,11,4,2
+worksheet,homing pigeon,12,4,4
+worksheet,homing pigeon,13,4,3
+worksheet,homing pigeon,14,4,4
+worksheet,homing pigeon,15,4,4
+worksheet,homing pigeon,1,5,2
+worksheet,homing pigeon,2,5,3
+worksheet,homing pigeon,3,5,2
+worksheet,homing pigeon,4,5,3
+worksheet,homing pigeon,5,5,1
+worksheet,homing pigeon,6,5,2
+worksheet,homing pigeon,7,5,2
+worksheet,homing pigeon,8,5,2
+worksheet,homing pigeon,9,5,1
+worksheet,homing pigeon,10,5,2
+worksheet,homing pigeon,11,5,1
+worksheet,homing pigeon,12,5,4
+worksheet,homing pigeon,13,5,2
+worksheet,homing pigeon,14,5,3
+worksheet,homing pigeon,15,5,4
+worksheet,homing pigeon,1,6,2
+worksheet,homing pigeon,2,6,2
+worksheet,homing pigeon,3,6,1
+worksheet,homing pigeon,4,6,3
+worksheet,homing pigeon,5,6,1
+worksheet,homing pigeon,6,6,2
+worksheet,homing pigeon,7,6,1
+worksheet,homing pigeon,8,6,2
+worksheet,homing pigeon,9,6,1
+worksheet,homing pigeon,10,6,2
+worksheet,homing pigeon,11,6,1
+worksheet,homing pigeon,12,6,3
+worksheet,homing pigeon,13,6,2
+worksheet,homing pigeon,14,6,3
+worksheet,homing pigeon,15,6,3
+worksheet,honeybees,1,3,5
+worksheet,honeybees,2,3,4
+worksheet,honeybees,3,3,3
+worksheet,honeybees,4,3,3
+worksheet,honeybees,5,3,4
+worksheet,honeybees,6,3,5
+worksheet,honeybees,7,3,5
+worksheet,honeybees,8,3,4
+worksheet,honeybees,9,3,4
+worksheet,honeybees,10,3,4
+worksheet,honeybees,11,3,5
+worksheet,honeybees,12,3,5
+worksheet,honeybees,13,3,5
+worksheet,honeybees,14,3,4
+worksheet,honeybees,15,3,5
+worksheet,honeybees,16,3,5
+worksheet,honeybees,17,3,4
+worksheet,honeybees,18,3,5
+worksheet,honeybees,19,3,5
+worksheet,honeybees,20,3,5
+worksheet,honeybees,1,4,4
+worksheet,honeybees,2,4,3
+worksheet,honeybees,3,4,2
+worksheet,honeybees,4,4,3
+worksheet,honeybees,5,4,3
+worksheet,honeybees,6,4,4
+worksheet,honeybees,7,4,4
+worksheet,honeybees,8,4,3
+worksheet,honeybees,9,4,3
+worksheet,honeybees,10,4,4
+worksheet,honeybees,11,4,4
+worksheet,honeybees,12,4,4
+worksheet,honeybees,13,4,4
+worksheet,honeybees,14,4,4
+worksheet,honeybees,15,4,4
+worksheet,honeybees,16,4,4
+worksheet,honeybees,17,4,4
+worksheet,honeybees,18,4,4
+worksheet,honeybees,19,4,4
+worksheet,honeybees,20,4,5
+worksheet,honeybees,1,5,3
+worksheet,honeybees,2,5,2
+worksheet,honeybees,3,5,2
+worksheet,honeybees,4,5,2
+worksheet,honeybees,5,5,3
+worksheet,honeybees,6,5,3
+worksheet,honeybees,7,5,3
+worksheet,honeybees,8,5,2
+worksheet,honeybees,9,5,3
+worksheet,honeybees,10,5,3
+worksheet,honeybees,11,5,3
+worksheet,honeybees,12,5,3
+worksheet,honeybees,13,5,4
+worksheet,honeybees,14,5,3
+worksheet,honeybees,15,5,3
+worksheet,honeybees,16,5,4
+worksheet,honeybees,17,5,3
+worksheet,honeybees,18,5,4
+worksheet,honeybees,19,5,3
+worksheet,honeybees,20,5,4
+worksheet,honeybees,1,6,2
+worksheet,honeybees,2,6,2
+worksheet,honeybees,3,6,1
+worksheet,honeybees,4,6,1
+worksheet,honeybees,5,6,2
+worksheet,honeybees,6,6,3
+worksheet,honeybees,7,6,2
+worksheet,honeybees,8,6,1
+worksheet,honeybees,9,6,2
+worksheet,honeybees,10,6,2
+worksheet,honeybees,11,6,3
+worksheet,honeybees,12,6,2
+worksheet,honeybees,13,6,3
+worksheet,honeybees,14,6,2
+worksheet,honeybees,15,6,3
+worksheet,honeybees,16,6,3
+worksheet,honeybees,17,6,2
+worksheet,honeybees,18,6,3
+worksheet,honeybees,19,6,2
+worksheet,honeybees,20,6,3
+worksheet,huck,1,3,4
+worksheet,huck,2,3,4
+worksheet,huck,3,3,5
+worksheet,huck,4,3,5
+worksheet,huck,5,3,4
+worksheet,huck,6,3,5
+worksheet,huck,7,3,5
+worksheet,huck,8,3,5
+worksheet,huck,9,3,2
+worksheet,huck,10,3,4
+worksheet,huck,11,3,5
+worksheet,huck,12,3,4
+worksheet,huck,13,3,5
+worksheet,huck,14,3,5
+worksheet,huck,15,3,5
+worksheet,huck,1,4,3
+worksheet,huck,2,4,3
+worksheet,huck,3,4,4
+worksheet,huck,4,4,4
+worksheet,huck,5,4,4
+worksheet,huck,6,4,4
+worksheet,huck,7,4,4
+worksheet,huck,8,4,4
+worksheet,huck,9,4,2
+worksheet,huck,10,4,4
+worksheet,huck,11,4,4
+worksheet,huck,12,4,3
+worksheet,huck,13,4,4
+worksheet,huck,14,4,5
+worksheet,huck,15,4,4
+worksheet,huck,1,5,3
+worksheet,huck,2,5,3
+worksheet,huck,3,5,4
+worksheet,huck,4,5,3
+worksheet,huck,5,5,3
+worksheet,huck,6,5,4
+worksheet,huck,7,5,4
+worksheet,huck,8,5,4
+worksheet,huck,9,5,2
+worksheet,huck,10,5,3
+worksheet,huck,11,5,4
+worksheet,huck,12,5,3
+worksheet,huck,13,5,3
+worksheet,huck,14,5,4
+worksheet,huck,15,5,3
+worksheet,huck,1,6,3
+worksheet,huck,2,6,2
+worksheet,huck,3,6,3
+worksheet,huck,4,6,2
+worksheet,huck,5,6,2
+worksheet,huck,6,6,3
+worksheet,huck,7,6,3
+worksheet,huck,8,6,3
+worksheet,huck,9,6,1
+worksheet,huck,10,6,3
+worksheet,huck,11,6,3
+worksheet,huck,12,6,2
+worksheet,huck,13,6,3
+worksheet,huck,14,6,3
+worksheet,huck,15,6,2
+worksheet,i have a dream,1,3,5
+worksheet,i have a dream,2,3,4
+worksheet,i have a dream,3,3,5
+worksheet,i have a dream,4,3,4
+worksheet,i have a dream,5,3,5
+worksheet,i have a dream,6,3,5
+worksheet,i have a dream,7,3,5
+worksheet,i have a dream,8,3,5
+worksheet,i have a dream,9,3,3
+worksheet,i have a dream,10,3,4
+worksheet,i have a dream,11,3,5
+worksheet,i have a dream,12,3,4
+worksheet,i have a dream,13,3,5
+worksheet,i have a dream,14,3,4
+worksheet,i have a dream,15,3,5
+worksheet,i have a dream,1,4,5
+worksheet,i have a dream,2,4,3
+worksheet,i have a dream,3,4,4
+worksheet,i have a dream,4,4,4
+worksheet,i have a dream,5,4,5
+worksheet,i have a dream,6,4,4
+worksheet,i have a dream,7,4,5
+worksheet,i have a dream,8,4,5
+worksheet,i have a dream,9,4,3
+worksheet,i have a dream,10,4,4
+worksheet,i have a dream,11,4,4
+worksheet,i have a dream,12,4,3
+worksheet,i have a dream,13,4,4
+worksheet,i have a dream,14,4,4
+worksheet,i have a dream,15,4,4
+worksheet,i have a dream,1,5,4
+worksheet,i have a dream,2,5,2
+worksheet,i have a dream,3,5,4
+worksheet,i have a dream,4,5,3
+worksheet,i have a dream,5,5,4
+worksheet,i have a dream,6,5,4
+worksheet,i have a dream,7,5,5
+worksheet,i have a dream,8,5,4
+worksheet,i have a dream,9,5,3
+worksheet,i have a dream,10,5,3
+worksheet,i have a dream,11,5,4
+worksheet,i have a dream,12,5,3
+worksheet,i have a dream,13,5,3
+worksheet,i have a dream,14,5,3
+worksheet,i have a dream,15,5,4
+worksheet,i have a dream,1,6,3
+worksheet,i have a dream,2,6,2
+worksheet,i have a dream,3,6,3
+worksheet,i have a dream,4,6,2
+worksheet,i have a dream,5,6,4
+worksheet,i have a dream,6,6,3
+worksheet,i have a dream,7,6,4
+worksheet,i have a dream,8,6,4
+worksheet,i have a dream,9,6,2
+worksheet,i have a dream,10,6,3
+worksheet,i have a dream,11,6,3
+worksheet,i have a dream,12,6,2
+worksheet,i have a dream,13,6,3
+worksheet,i have a dream,14,6,3
+worksheet,i have a dream,15,6,3
+worksheet,jabberwocky,1,3,5
+worksheet,jabberwocky,2,3,4
+worksheet,jabberwocky,3,3,5
+worksheet,jabberwocky,4,3,5
+worksheet,jabberwocky,5,3,5
+worksheet,jabberwocky,6,3,5
+worksheet,jabberwocky,7,3,5
+worksheet,jabberwocky,8,3,3
+worksheet,jabberwocky,9,3,4
+worksheet,jabberwocky,10,3,5
+worksheet,jabberwocky,11,3,5
+worksheet,jabberwocky,12,3,4
+worksheet,jabberwocky,13,3,5
+worksheet,jabberwocky,1,4,4
+worksheet,jabberwocky,2,4,3
+worksheet,jabberwocky,3,4,5
+worksheet,jabberwocky,4,4,4
+worksheet,jabberwocky,5,4,4
+worksheet,jabberwocky,6,4,5
+worksheet,jabberwocky,7,4,5
+worksheet,jabberwocky,8,4,3
+worksheet,jabberwocky,9,4,4
+worksheet,jabberwocky,10,4,4
+worksheet,jabberwocky,11,4,5
+worksheet,jabberwocky,12,4,4
+worksheet,jabberwocky,13,4,5
+worksheet,jabberwocky,1,5,4
+worksheet,jabberwocky,2,5,2
+worksheet,jabberwocky,3,5,4
+worksheet,jabberwocky,4,5,4
+worksheet,jabberwocky,5,5,4
+worksheet,jabberwocky,6,5,4
+worksheet,jabberwocky,7,5,4
+worksheet,jabberwocky,8,5,2
+worksheet,jabberwocky,9,5,3
+worksheet,jabberwocky,10,5,4
+worksheet,jabberwocky,11,5,4
+worksheet,jabberwocky,12,5,3
+worksheet,jabberwocky,13,5,4
+worksheet,jabberwocky,1,6,3
+worksheet,jabberwocky,2,6,2
+worksheet,jabberwocky,3,6,4
+worksheet,jabberwocky,4,6,3
+worksheet,jabberwocky,5,6,3
+worksheet,jabberwocky,6,6,4
+worksheet,jabberwocky,7,6,3
+worksheet,jabberwocky,8,6,2
+worksheet,jabberwocky,9,6,3
+worksheet,jabberwocky,10,6,3
+worksheet,jabberwocky,11,6,4
+worksheet,jabberwocky,12,6,3
+worksheet,jabberwocky,13,6,4
+worksheet,JANE EYRE,1,3,1
+worksheet,JANE EYRE,2,3,3
+worksheet,JANE EYRE,3,3,2
+worksheet,JANE EYRE,4,3,2
+worksheet,JANE EYRE,5,3,3
+worksheet,JANE EYRE,6,3,5
+worksheet,JANE EYRE,7,3,3
+worksheet,JANE EYRE,8,3,3
+worksheet,JANE EYRE,9,3,4
+worksheet,JANE EYRE,10,3,4
+worksheet,JANE EYRE,11,3,4
+worksheet,JANE EYRE,12,3,3
+worksheet,JANE EYRE,13,3,3
+worksheet,JANE EYRE,14,3,2
+worksheet,JANE EYRE,15,3,5
+worksheet,JANE EYRE,16,3,3
+worksheet,JANE EYRE,17,3,3
+worksheet,JANE EYRE,18,3,3
+worksheet,JANE EYRE,19,3,4
+worksheet,JANE EYRE,20,3,3
+worksheet,JANE EYRE,21,3,3
+worksheet,JANE EYRE,22,3,4
+worksheet,JANE EYRE,23,3,4
+worksheet,JANE EYRE,24,3,4
+worksheet,JANE EYRE,25,3,2
+worksheet,JANE EYRE,26,3,3
+worksheet,JANE EYRE,27,3,3
+worksheet,JANE EYRE,28,3,3
+worksheet,JANE EYRE,29,3,2
+worksheet,JANE EYRE,1,4,1
+worksheet,JANE EYRE,2,4,3
+worksheet,JANE EYRE,3,4,2
+worksheet,JANE EYRE,4,4,2
+worksheet,JANE EYRE,5,4,3
+worksheet,JANE EYRE,6,4,4
+worksheet,JANE EYRE,7,4,3
+worksheet,JANE EYRE,8,4,3
+worksheet,JANE EYRE,9,4,4
+worksheet,JANE EYRE,10,4,4
+worksheet,JANE EYRE,11,4,4
+worksheet,JANE EYRE,12,4,3
+worksheet,JANE EYRE,13,4,3
+worksheet,JANE EYRE,14,4,2
+worksheet,JANE EYRE,15,4,5
+worksheet,JANE EYRE,16,4,3
+worksheet,JANE EYRE,17,4,3
+worksheet,JANE EYRE,18,4,3
+worksheet,JANE EYRE,19,4,3
+worksheet,JANE EYRE,20,4,2
+worksheet,JANE EYRE,21,4,2
+worksheet,JANE EYRE,22,4,3
+worksheet,JANE EYRE,23,4,3
+worksheet,JANE EYRE,24,4,4
+worksheet,JANE EYRE,25,4,2
+worksheet,JANE EYRE,26,4,3
+worksheet,JANE EYRE,27,4,3
+worksheet,JANE EYRE,28,4,3
+worksheet,JANE EYRE,29,4,2
+worksheet,JANE EYRE,1,5,1
+worksheet,JANE EYRE,2,5,2
+worksheet,JANE EYRE,3,5,2
+worksheet,JANE EYRE,4,5,2
+worksheet,JANE EYRE,5,5,2
+worksheet,JANE EYRE,6,5,3
+worksheet,JANE EYRE,7,5,2
+worksheet,JANE EYRE,8,5,3
+worksheet,JANE EYRE,9,5,3
+worksheet,JANE EYRE,10,5,3
+worksheet,JANE EYRE,11,5,3
+worksheet,JANE EYRE,12,5,2
+worksheet,JANE EYRE,13,5,2
+worksheet,JANE EYRE,14,5,1
+worksheet,JANE EYRE,15,5,4
+worksheet,JANE EYRE,16,5,2
+worksheet,JANE EYRE,17,5,2
+worksheet,JANE EYRE,18,5,2
+worksheet,JANE EYRE,19,5,3
+worksheet,JANE EYRE,20,5,2
+worksheet,JANE EYRE,21,5,2
+worksheet,JANE EYRE,22,5,3
+worksheet,JANE EYRE,23,5,2
+worksheet,JANE EYRE,24,5,3
+worksheet,JANE EYRE,25,5,2
+worksheet,JANE EYRE,26,5,2
+worksheet,JANE EYRE,27,5,3
+worksheet,JANE EYRE,28,5,2
+worksheet,JANE EYRE,29,5,1
+worksheet,JANE EYRE,1,6,1
+worksheet,JANE EYRE,2,6,2
+worksheet,JANE EYRE,3,6,1
+worksheet,JANE EYRE,4,6,1
+worksheet,JANE EYRE,5,6,2
+worksheet,JANE EYRE,6,6,3
+worksheet,JANE EYRE,7,6,2
+worksheet,JANE EYRE,8,6,3
+worksheet,JANE EYRE,9,6,3
+worksheet,JANE EYRE,10,6,3
+worksheet,JANE EYRE,11,6,3
+worksheet,JANE EYRE,12,6,2
+worksheet,JANE EYRE,13,6,2
+worksheet,JANE EYRE,14,6,1
+worksheet,JANE EYRE,15,6,4
+worksheet,JANE EYRE,16,6,2
+worksheet,JANE EYRE,17,6,2
+worksheet,JANE EYRE,18,6,1
+worksheet,JANE EYRE,19,6,2
+worksheet,JANE EYRE,20,6,2
+worksheet,JANE EYRE,21,6,2
+worksheet,JANE EYRE,22,6,3
+worksheet,JANE EYRE,23,6,2
+worksheet,JANE EYRE,24,6,3
+worksheet,JANE EYRE,25,6,2
+worksheet,JANE EYRE,26,6,2
+worksheet,JANE EYRE,27,6,3
+worksheet,JANE EYRE,28,6,2
+worksheet,JANE EYRE,29,6,1
+worksheet,jekyll,1,3,5
+worksheet,jekyll,2,3,4
+worksheet,jekyll,3,3,5
+worksheet,jekyll,4,3,5
+worksheet,jekyll,5,3,5
+worksheet,jekyll,6,3,5
+worksheet,jekyll,7,3,4
+worksheet,jekyll,8,3,5
+worksheet,jekyll,9,3,5
+worksheet,jekyll,10,3,5
+worksheet,jekyll,11,3,5
+worksheet,jekyll,12,3,5
+worksheet,jekyll,13,3,5
+worksheet,jekyll,14,3,5
+worksheet,jekyll,15,3,4
+worksheet,jekyll,16,3,5
+worksheet,jekyll,17,3,5
+worksheet,jekyll,1,4,4
+worksheet,jekyll,2,4,3
+worksheet,jekyll,3,4,5
+worksheet,jekyll,4,4,4
+worksheet,jekyll,5,4,4
+worksheet,jekyll,6,4,5
+worksheet,jekyll,7,4,3
+worksheet,jekyll,8,4,5
+worksheet,jekyll,9,4,4
+worksheet,jekyll,10,4,4
+worksheet,jekyll,11,4,5
+worksheet,jekyll,12,4,5
+worksheet,jekyll,13,4,5
+worksheet,jekyll,14,4,5
+worksheet,jekyll,15,4,3
+worksheet,jekyll,16,4,4
+worksheet,jekyll,17,4,4
+worksheet,jekyll,1,5,3
+worksheet,jekyll,2,5,2
+worksheet,jekyll,3,5,4
+worksheet,jekyll,4,5,3
+worksheet,jekyll,5,5,3
+worksheet,jekyll,6,5,4
+worksheet,jekyll,7,5,2
+worksheet,jekyll,8,5,4
+worksheet,jekyll,9,5,3
+worksheet,jekyll,10,5,3
+worksheet,jekyll,11,5,4
+worksheet,jekyll,12,5,4
+worksheet,jekyll,13,5,4
+worksheet,jekyll,14,5,4
+worksheet,jekyll,15,5,2
+worksheet,jekyll,16,5,3
+worksheet,jekyll,17,5,3
+worksheet,jekyll,1,6,2
+worksheet,jekyll,2,6,1
+worksheet,jekyll,3,6,3
+worksheet,jekyll,4,6,2
+worksheet,jekyll,5,6,2
+worksheet,jekyll,6,6,3
+worksheet,jekyll,7,6,1
+worksheet,jekyll,8,6,3
+worksheet,jekyll,9,6,2
+worksheet,jekyll,10,6,2
+worksheet,jekyll,11,6,3
+worksheet,jekyll,12,6,3
+worksheet,jekyll,13,6,3
+worksheet,jekyll,14,6,3
+worksheet,jekyll,15,6,1
+worksheet,jekyll,16,6,2
+worksheet,jekyll,17,6,2
+worksheet,lion,1,3,3
+worksheet,lion,2,3,2
+worksheet,lion,3,3,4
+worksheet,lion,4,3,4
+worksheet,lion,5,3,3
+worksheet,lion,6,3,2
+worksheet,lion,7,3,4
+worksheet,lion,8,3,3
+worksheet,lion,9,3,5
+worksheet,lion,10,3,1
+worksheet,lion,11,3,1
+worksheet,lion,12,3,1
+worksheet,lion,13,3,1
+worksheet,lion,14,3,3
+worksheet,lion,15,3,2
+worksheet,lion,16,3,4
+worksheet,lion,17,3,3
+worksheet,lion,1,4,2
+worksheet,lion,2,4,1
+worksheet,lion,3,4,3
+worksheet,lion,4,4,3
+worksheet,lion,5,4,2
+worksheet,lion,6,4,2
+worksheet,lion,7,4,3
+worksheet,lion,8,4,3
+worksheet,lion,9,4,4
+worksheet,lion,10,4,1
+worksheet,lion,11,4,1
+worksheet,lion,12,4,1
+worksheet,lion,13,4,1
+worksheet,lion,14,4,2
+worksheet,lion,15,4,2
+worksheet,lion,16,4,3
+worksheet,lion,17,4,3
+worksheet,lion,1,5,2
+worksheet,lion,2,5,1
+worksheet,lion,3,5,2
+worksheet,lion,4,5,2
+worksheet,lion,5,5,2
+worksheet,lion,6,5,1
+worksheet,lion,7,5,2
+worksheet,lion,8,5,2
+worksheet,lion,9,5,3
+worksheet,lion,10,5,1
+worksheet,lion,11,5,1
+worksheet,lion,12,5,1
+worksheet,lion,13,5,1
+worksheet,lion,14,5,2
+worksheet,lion,15,5,1
+worksheet,lion,16,5,2
+worksheet,lion,17,5,2
+worksheet,lion,1,6,1
+worksheet,lion,2,6,1
+worksheet,lion,3,6,2
+worksheet,lion,4,6,2
+worksheet,lion,5,6,1
+worksheet,lion,6,6,1
+worksheet,lion,7,6,2
+worksheet,lion,8,6,2
+worksheet,lion,9,6,3
+worksheet,lion,10,6,1
+worksheet,lion,11,6,1
+worksheet,lion,12,6,1
+worksheet,lion,13,6,1
+worksheet,lion,14,6,1
+worksheet,lion,15,6,1
+worksheet,lion,16,6,2
+worksheet,lion,17,6,2
+worksheet,little women,1,3,3
+worksheet,little women,2,3,2
+worksheet,little women,3,3,2
+worksheet,little women,4,3,3
+worksheet,little women,5,3,4
+worksheet,little women,6,3,3
+worksheet,little women,7,3,5
+worksheet,little women,8,3,3
+worksheet,little women,9,3,5
+worksheet,little women,10,3,1
+worksheet,little women,11,3,1
+worksheet,little women,12,3,2
+worksheet,little women,13,3,4
+worksheet,little women,14,3,3
+worksheet,little women,15,3,4
+worksheet,little women,16,3,3
+worksheet,little women,17,3,4
+worksheet,little women,18,3,3
+worksheet,little women,1,4,3
+worksheet,little women,2,4,2
+worksheet,little women,3,4,2
+worksheet,little women,4,4,3
+worksheet,little women,5,4,4
+worksheet,little women,6,4,3
+worksheet,little women,7,4,5
+worksheet,little women,8,4,3
+worksheet,little women,9,4,5
+worksheet,little women,10,4,1
+worksheet,little women,11,4,1
+worksheet,little women,12,4,2
+worksheet,little women,13,4,4
+worksheet,little women,14,4,3
+worksheet,little women,15,4,4
+worksheet,little women,16,4,3
+worksheet,little women,17,4,4
+worksheet,little women,18,4,3
+worksheet,little women,1,5,2
+worksheet,little women,2,5,1
+worksheet,little women,3,5,2
+worksheet,little women,4,5,2
+worksheet,little women,5,5,3
+worksheet,little women,6,5,2
+worksheet,little women,7,5,4
+worksheet,little women,8,5,3
+worksheet,little women,9,5,5
+worksheet,little women,10,5,1
+worksheet,little women,11,5,1
+worksheet,little women,12,5,2
+worksheet,little women,13,5,3
+worksheet,little women,14,5,2
+worksheet,little women,15,5,3
+worksheet,little women,16,5,3
+worksheet,little women,17,5,4
+worksheet,little women,18,5,3
+worksheet,little women,1,6,2
+worksheet,little women,2,6,1
+worksheet,little women,3,6,1
+worksheet,little women,4,6,2
+worksheet,little women,5,6,3
+worksheet,little women,6,6,2
+worksheet,little women,7,6,4
+worksheet,little women,8,6,2
+worksheet,little women,9,6,4
+worksheet,little women,10,6,1
+worksheet,little women,11,6,1
+worksheet,little women,12,6,2
+worksheet,little women,13,6,3
+worksheet,little women,14,6,2
+worksheet,little women,15,6,3
+worksheet,little women,16,6,2
+worksheet,little women,17,6,3
+worksheet,little women,18,6,2
+worksheet,lochinvar,1,3,3
+worksheet,lochinvar,2,3,5
+worksheet,lochinvar,3,3,4
+worksheet,lochinvar,4,3,4
+worksheet,lochinvar,5,3,5
+worksheet,lochinvar,6,3,4
+worksheet,lochinvar,7,3,4
+worksheet,lochinvar,8,3,5
+worksheet,lochinvar,9,3,5
+worksheet,lochinvar,10,3,5
+worksheet,lochinvar,11,3,5
+worksheet,lochinvar,12,3,5
+worksheet,lochinvar,13,3,5
+worksheet,lochinvar,14,3,5
+worksheet,lochinvar,15,3,5
+worksheet,lochinvar,16,3,5
+worksheet,lochinvar,1,4,2
+worksheet,lochinvar,2,4,4
+worksheet,lochinvar,3,4,3
+worksheet,lochinvar,4,4,4
+worksheet,lochinvar,5,4,5
+worksheet,lochinvar,6,4,4
+worksheet,lochinvar,7,4,3
+worksheet,lochinvar,8,4,4
+worksheet,lochinvar,9,4,4
+worksheet,lochinvar,10,4,5
+worksheet,lochinvar,11,4,4
+worksheet,lochinvar,12,4,4
+worksheet,lochinvar,13,4,4
+worksheet,lochinvar,14,4,5
+worksheet,lochinvar,15,4,5
+worksheet,lochinvar,16,4,5
+worksheet,lochinvar,1,5,2
+worksheet,lochinvar,2,5,4
+worksheet,lochinvar,3,5,3
+worksheet,lochinvar,4,5,3
+worksheet,lochinvar,5,5,4
+worksheet,lochinvar,6,5,3
+worksheet,lochinvar,7,5,3
+worksheet,lochinvar,8,5,4
+worksheet,lochinvar,9,5,4
+worksheet,lochinvar,10,5,4
+worksheet,lochinvar,11,5,3
+worksheet,lochinvar,12,5,4
+worksheet,lochinvar,13,5,4
+worksheet,lochinvar,14,5,4
+worksheet,lochinvar,15,5,5
+worksheet,lochinvar,16,5,4
+worksheet,lochinvar,1,6,2
+worksheet,lochinvar,2,6,3
+worksheet,lochinvar,3,6,2
+worksheet,lochinvar,4,6,3
+worksheet,lochinvar,5,6,4
+worksheet,lochinvar,6,6,3
+worksheet,lochinvar,7,6,2
+worksheet,lochinvar,8,6,3
+worksheet,lochinvar,9,6,3
+worksheet,lochinvar,10,6,4
+worksheet,lochinvar,11,6,3
+worksheet,lochinvar,12,6,3
+worksheet,lochinvar,13,6,3
+worksheet,lochinvar,14,6,4
+worksheet,lochinvar,15,6,4
+worksheet,lochinvar,16,6,4
+worksheet,lost treasure,1,3,2
+worksheet,lost treasure,2,3,3
+worksheet,lost treasure,3,3,3
+worksheet,lost treasure,4,3,4
+worksheet,lost treasure,5,3,5
+worksheet,lost treasure,6,3,4
+worksheet,lost treasure,7,3,4
+worksheet,lost treasure,8,3,3
+worksheet,lost treasure,9,3,4
+worksheet,lost treasure,10,3,5
+worksheet,lost treasure,1,4,2
+worksheet,lost treasure,2,4,2
+worksheet,lost treasure,3,4,3
+worksheet,lost treasure,4,4,3
+worksheet,lost treasure,5,4,4
+worksheet,lost treasure,6,4,3
+worksheet,lost treasure,7,4,3
+worksheet,lost treasure,8,4,3
+worksheet,lost treasure,9,4,3
+worksheet,lost treasure,10,4,4
+worksheet,lost treasure,1,5,2
+worksheet,lost treasure,2,5,2
+worksheet,lost treasure,3,5,2
+worksheet,lost treasure,4,5,2
+worksheet,lost treasure,5,5,3
+worksheet,lost treasure,6,5,3
+worksheet,lost treasure,7,5,3
+worksheet,lost treasure,8,5,2
+worksheet,lost treasure,9,5,3
+worksheet,lost treasure,10,5,4
+worksheet,lost treasure,1,6,1
+worksheet,lost treasure,2,6,1
+worksheet,lost treasure,3,6,2
+worksheet,lost treasure,4,6,2
+worksheet,lost treasure,5,6,3
+worksheet,lost treasure,6,6,2
+worksheet,lost treasure,7,6,2
+worksheet,lost treasure,8,6,2
+worksheet,lost treasure,9,6,2
+worksheet,lost treasure,10,6,3
+worksheet,magic city,1,3,2
+worksheet,magic city,2,3,3
+worksheet,magic city,3,3,4
+worksheet,magic city,4,3,2
+worksheet,magic city,5,3,3
+worksheet,magic city,6,3,4
+worksheet,magic city,7,3,4
+worksheet,magic city,8,3,5
+worksheet,magic city,9,3,5
+worksheet,magic city,10,3,4
+worksheet,magic city,11,3,3
+worksheet,magic city,12,3,4
+worksheet,magic city,13,3,5
+worksheet,magic city,14,3,4
+worksheet,magic city,1,4,2
+worksheet,magic city,2,4,3
+worksheet,magic city,3,4,3
+worksheet,magic city,4,4,2
+worksheet,magic city,5,4,3
+worksheet,magic city,6,4,3
+worksheet,magic city,7,4,4
+worksheet,magic city,8,4,4
+worksheet,magic city,9,4,4
+worksheet,magic city,10,4,3
+worksheet,magic city,11,4,3
+worksheet,magic city,12,4,3
+worksheet,magic city,13,4,4
+worksheet,magic city,14,4,3
+worksheet,magic city,1,5,2
+worksheet,magic city,2,5,2
+worksheet,magic city,3,5,3
+worksheet,magic city,4,5,2
+worksheet,magic city,5,5,2
+worksheet,magic city,6,5,3
+worksheet,magic city,7,5,3
+worksheet,magic city,8,5,4
+worksheet,magic city,9,5,3
+worksheet,magic city,10,5,3
+worksheet,magic city,11,5,2
+worksheet,magic city,12,5,3
+worksheet,magic city,13,5,4
+worksheet,magic city,14,5,3
+worksheet,magic city,1,6,1
+worksheet,magic city,2,6,1
+worksheet,magic city,3,6,2
+worksheet,magic city,4,6,1
+worksheet,magic city,5,6,2
+worksheet,magic city,6,6,2
+worksheet,magic city,7,6,3
+worksheet,magic city,8,6,3
+worksheet,magic city,9,6,3
+worksheet,magic city,10,6,2
+worksheet,magic city,11,6,2
+worksheet,magic city,12,6,2
+worksheet,magic city,13,6,3
+worksheet,magic city,14,6,2
+worksheet,marathon,1,3,5
+worksheet,marathon,2,3,4
+worksheet,marathon,3,3,5
+worksheet,marathon,4,3,5
+worksheet,marathon,5,3,4
+worksheet,marathon,6,3,4
+worksheet,marathon,7,3,5
+worksheet,marathon,8,3,4
+worksheet,marathon,9,3,5
+worksheet,marathon,10,3,5
+worksheet,marathon,11,3,5
+worksheet,marathon,1,4,4
+worksheet,marathon,2,4,4
+worksheet,marathon,3,4,4
+worksheet,marathon,4,4,5
+worksheet,marathon,5,4,3
+worksheet,marathon,6,4,4
+worksheet,marathon,7,4,4
+worksheet,marathon,8,4,4
+worksheet,marathon,9,4,4
+worksheet,marathon,10,4,4
+worksheet,marathon,11,4,5
+worksheet,marathon,1,5,3
+worksheet,marathon,2,5,3
+worksheet,marathon,3,5,3
+worksheet,marathon,4,5,4
+worksheet,marathon,5,5,2
+worksheet,marathon,6,5,3
+worksheet,marathon,7,5,4
+worksheet,marathon,8,5,3
+worksheet,marathon,9,5,3
+worksheet,marathon,10,5,3
+worksheet,marathon,11,5,4
+worksheet,marathon,1,6,3
+worksheet,marathon,2,6,2
+worksheet,marathon,3,6,2
+worksheet,marathon,4,6,3
+worksheet,marathon,5,6,2
+worksheet,marathon,6,6,3
+worksheet,marathon,7,6,3
+worksheet,marathon,8,6,2
+worksheet,marathon,9,6,3
+worksheet,marathon,10,6,3
+worksheet,marathon,11,6,3
+worksheet,matilda,1,3,3
+worksheet,matilda,2,3,3
+worksheet,matilda,3,3,4
+worksheet,matilda,4,3,3
+worksheet,matilda,5,3,3
+worksheet,matilda,6,3,3
+worksheet,matilda,7,3,4
+worksheet,matilda,8,3,5
+worksheet,matilda,9,3,4
+worksheet,matilda,10,3,4
+worksheet,matilda,11,3,5
+worksheet,matilda,12,3,3
+worksheet,matilda,13,3,3
+worksheet,matilda,14,3,2
+worksheet,matilda,15,3,4
+worksheet,matilda,16,3,4
+worksheet,matilda,17,3,4
+worksheet,matilda,18,3,4
+worksheet,matilda,1,4,2
+worksheet,matilda,2,4,3
+worksheet,matilda,3,4,3
+worksheet,matilda,4,4,3
+worksheet,matilda,5,4,3
+worksheet,matilda,6,4,3
+worksheet,matilda,7,4,4
+worksheet,matilda,8,4,4
+worksheet,matilda,9,4,4
+worksheet,matilda,10,4,3
+worksheet,matilda,11,4,4
+worksheet,matilda,12,4,3
+worksheet,matilda,13,4,3
+worksheet,matilda,14,4,2
+worksheet,matilda,15,4,3
+worksheet,matilda,16,4,3
+worksheet,matilda,17,4,3
+worksheet,matilda,18,4,4
+worksheet,matilda,1,5,2
+worksheet,matilda,2,5,2
+worksheet,matilda,3,5,3
+worksheet,matilda,4,5,2
+worksheet,matilda,5,5,3
+worksheet,matilda,6,5,2
+worksheet,matilda,7,5,3
+worksheet,matilda,8,5,4
+worksheet,matilda,9,5,3
+worksheet,matilda,10,5,3
+worksheet,matilda,11,5,4
+worksheet,matilda,12,5,3
+worksheet,matilda,13,5,2
+worksheet,matilda,14,5,2
+worksheet,matilda,15,5,3
+worksheet,matilda,16,5,3
+worksheet,matilda,17,5,3
+worksheet,matilda,18,5,3
+worksheet,matilda,1,6,2
+worksheet,matilda,2,6,2
+worksheet,matilda,3,6,3
+worksheet,matilda,4,6,2
+worksheet,matilda,5,6,2
+worksheet,matilda,6,6,2
+worksheet,matilda,7,6,3
+worksheet,matilda,8,6,4
+worksheet,matilda,9,6,3
+worksheet,matilda,10,6,3
+worksheet,matilda,11,6,3
+worksheet,matilda,12,6,2
+worksheet,matilda,13,6,2
+worksheet,matilda,14,6,1
+worksheet,matilda,15,6,2
+worksheet,matilda,16,6,2
+worksheet,matilda,17,6,2
+worksheet,matilda,18,6,3
+worksheet,meg,1,3,2
+worksheet,meg,2,3,4
+worksheet,meg,3,3,3
+worksheet,meg,4,3,5
+worksheet,meg,5,3,3
+worksheet,meg,6,3,4
+worksheet,meg,7,3,3
+worksheet,meg,8,3,3
+worksheet,meg,9,3,5
+worksheet,meg,10,3,4
+worksheet,meg,11,3,3
+worksheet,meg,12,3,5
+worksheet,meg,13,3,5
+worksheet,meg,14,3,5
+worksheet,meg,15,3,5
+worksheet,meg,16,3,5
+worksheet,meg,17,3,5
+worksheet,meg,18,3,4
+worksheet,meg,19,3,3
+worksheet,meg,20,3,5
+worksheet,meg,21,3,4
+worksheet,meg,22,3,4
+worksheet,meg,23,3,5
+worksheet,meg,24,3,5
+worksheet,meg,25,3,5
+worksheet,meg,26,3,5
+worksheet,meg,27,3,5
+worksheet,meg,28,3,4
+worksheet,meg,29,3,5
+worksheet,meg,30,3,5
+worksheet,meg,1,4,2
+worksheet,meg,2,4,3
+worksheet,meg,3,4,3
+worksheet,meg,4,4,4
+worksheet,meg,5,4,3
+worksheet,meg,6,4,4
+worksheet,meg,7,4,3
+worksheet,meg,8,4,3
+worksheet,meg,9,4,4
+worksheet,meg,10,4,3
+worksheet,meg,11,4,3
+worksheet,meg,12,4,4
+worksheet,meg,13,4,4
+worksheet,meg,14,4,4
+worksheet,meg,15,4,4
+worksheet,meg,16,4,5
+worksheet,meg,17,4,5
+worksheet,meg,18,4,3
+worksheet,meg,19,4,2
+worksheet,meg,20,4,4
+worksheet,meg,21,4,3
+worksheet,meg,22,4,3
+worksheet,meg,23,4,4
+worksheet,meg,24,4,4
+worksheet,meg,25,4,5
+worksheet,meg,26,4,4
+worksheet,meg,27,4,5
+worksheet,meg,28,4,4
+worksheet,meg,29,4,4
+worksheet,meg,30,4,5
+worksheet,meg,1,5,1
+worksheet,meg,2,5,2
+worksheet,meg,3,5,2
+worksheet,meg,4,5,4
+worksheet,meg,5,5,2
+worksheet,meg,6,5,3
+worksheet,meg,7,5,2
+worksheet,meg,8,5,2
+worksheet,meg,9,5,4
+worksheet,meg,10,5,3
+worksheet,meg,11,5,2
+worksheet,meg,12,5,3
+worksheet,meg,13,5,4
+worksheet,meg,14,5,3
+worksheet,meg,15,5,4
+worksheet,meg,16,5,4
+worksheet,meg,17,5,4
+worksheet,meg,18,5,3
+worksheet,meg,19,5,2
+worksheet,meg,20,5,4
+worksheet,meg,21,5,3
+worksheet,meg,22,5,3
+worksheet,meg,23,5,4
+worksheet,meg,24,5,4
+worksheet,meg,25,5,4
+worksheet,meg,26,5,4
+worksheet,meg,27,5,4
+worksheet,meg,28,5,3
+worksheet,meg,29,5,4
+worksheet,meg,30,5,4
+worksheet,meg,1,6,1
+worksheet,meg,2,6,2
+worksheet,meg,3,6,2
+worksheet,meg,4,6,3
+worksheet,meg,5,6,2
+worksheet,meg,6,6,3
+worksheet,meg,7,6,2
+worksheet,meg,8,6,2
+worksheet,meg,9,6,3
+worksheet,meg,10,6,2
+worksheet,meg,11,6,1
+worksheet,meg,12,6,3
+worksheet,meg,13,6,3
+worksheet,meg,14,6,3
+worksheet,meg,15,6,3
+worksheet,meg,16,6,4
+worksheet,meg,17,6,4
+worksheet,meg,18,6,2
+worksheet,meg,19,6,1
+worksheet,meg,20,6,3
+worksheet,meg,21,6,2
+worksheet,meg,22,6,2
+worksheet,meg,23,6,3
+worksheet,meg,24,6,3
+worksheet,meg,25,6,3
+worksheet,meg,26,6,3
+worksheet,meg,27,6,4
+worksheet,meg,28,6,3
+worksheet,meg,29,6,3
+worksheet,meg,30,6,3
+worksheet,no enemies,1,3,1
+worksheet,no enemies,2,3,4
+worksheet,no enemies,3,3,5
+worksheet,no enemies,4,3,4
+worksheet,no enemies,5,3,2
+worksheet,no enemies,6,3,5
+worksheet,no enemies,7,3,5
+worksheet,no enemies,8,3,5
+worksheet,no enemies,9,3,5
+worksheet,no enemies,10,3,4
+worksheet,no enemies,1,4,1
+worksheet,no enemies,2,4,3
+worksheet,no enemies,3,4,4
+worksheet,no enemies,4,4,3
+worksheet,no enemies,5,4,2
+worksheet,no enemies,6,4,4
+worksheet,no enemies,7,4,5
+worksheet,no enemies,8,4,4
+worksheet,no enemies,9,4,4
+worksheet,no enemies,10,4,4
+worksheet,no enemies,1,5,1
+worksheet,no enemies,2,5,3
+worksheet,no enemies,3,5,4
+worksheet,no enemies,4,5,3
+worksheet,no enemies,5,5,2
+worksheet,no enemies,6,5,4
+worksheet,no enemies,7,5,4
+worksheet,no enemies,8,5,4
+worksheet,no enemies,9,5,3
+worksheet,no enemies,10,5,3
+worksheet,no enemies,1,6,1
+worksheet,no enemies,2,6,2
+worksheet,no enemies,3,6,3
+worksheet,no enemies,4,6,2
+worksheet,no enemies,5,6,1
+worksheet,no enemies,6,6,3
+worksheet,no enemies,7,6,3
+worksheet,no enemies,8,6,3
+worksheet,no enemies,9,6,3
+worksheet,no enemies,10,6,2
+worksheet,nothing gold,1,3,5
+worksheet,nothing gold,2,3,2
+worksheet,nothing gold,3,3,5
+worksheet,nothing gold,4,3,4
+worksheet,nothing gold,5,3,5
+worksheet,nothing gold,6,3,5
+worksheet,nothing gold,7,3,5
+worksheet,nothing gold,8,3,3
+worksheet,nothing gold,9,3,5
+worksheet,nothing gold,10,3,5
+worksheet,nothing gold,11,3,5
+worksheet,nothing gold,12,3,2
+worksheet,nothing gold,13,3,2
+worksheet,nothing gold,14,3,3
+worksheet,nothing gold,15,3,2
+worksheet,nothing gold,1,4,4
+worksheet,nothing gold,2,4,2
+worksheet,nothing gold,3,4,4
+worksheet,nothing gold,4,4,3
+worksheet,nothing gold,5,4,4
+worksheet,nothing gold,6,4,4
+worksheet,nothing gold,7,4,4
+worksheet,nothing gold,8,4,3
+worksheet,nothing gold,9,4,4
+worksheet,nothing gold,10,4,4
+worksheet,nothing gold,11,4,4
+worksheet,nothing gold,12,4,2
+worksheet,nothing gold,13,4,2
+worksheet,nothing gold,14,4,2
+worksheet,nothing gold,15,4,2
+worksheet,nothing gold,1,5,3
+worksheet,nothing gold,2,5,2
+worksheet,nothing gold,3,5,3
+worksheet,nothing gold,4,5,3
+worksheet,nothing gold,5,5,4
+worksheet,nothing gold,6,5,3
+worksheet,nothing gold,7,5,4
+worksheet,nothing gold,8,5,2
+worksheet,nothing gold,9,5,4
+worksheet,nothing gold,10,5,4
+worksheet,nothing gold,11,5,3
+worksheet,nothing gold,12,5,1
+worksheet,nothing gold,13,5,2
+worksheet,nothing gold,14,5,2
+worksheet,nothing gold,15,5,1
+worksheet,nothing gold,1,6,3
+worksheet,nothing gold,2,6,1
+worksheet,nothing gold,3,6,3
+worksheet,nothing gold,4,6,2
+worksheet,nothing gold,5,6,3
+worksheet,nothing gold,6,6,3
+worksheet,nothing gold,7,6,4
+worksheet,nothing gold,8,6,2
+worksheet,nothing gold,9,6,3
+worksheet,nothing gold,10,6,3
+worksheet,nothing gold,11,6,3
+worksheet,nothing gold,12,6,1
+worksheet,nothing gold,13,6,1
+worksheet,nothing gold,14,6,1
+worksheet,nothing gold,15,6,1
+worksheet,NOTRE DAME,1,3,5
+worksheet,NOTRE DAME,2,3,5
+worksheet,NOTRE DAME,3,3,3
+worksheet,NOTRE DAME,4,3,5
+worksheet,NOTRE DAME,5,3,5
+worksheet,NOTRE DAME,6,3,5
+worksheet,NOTRE DAME,7,3,4
+worksheet,NOTRE DAME,8,3,5
+worksheet,NOTRE DAME,9,3,5
+worksheet,NOTRE DAME,10,3,5
+worksheet,NOTRE DAME,11,3,5
+worksheet,NOTRE DAME,12,3,5
+worksheet,NOTRE DAME,13,3,4
+worksheet,NOTRE DAME,14,3,5
+worksheet,NOTRE DAME,15,3,5
+worksheet,NOTRE DAME,16,3,5
+worksheet,NOTRE DAME,17,3,5
+worksheet,NOTRE DAME,18,3,5
+worksheet,NOTRE DAME,19,3,4
+worksheet,NOTRE DAME,20,3,5
+worksheet,NOTRE DAME,21,3,5
+worksheet,NOTRE DAME,22,3,5
+worksheet,NOTRE DAME,23,3,5
+worksheet,NOTRE DAME,24,3,5
+worksheet,NOTRE DAME,25,3,5
+worksheet,NOTRE DAME,1,4,4
+worksheet,NOTRE DAME,2,4,5
+worksheet,NOTRE DAME,3,4,3
+worksheet,NOTRE DAME,4,4,5
+worksheet,NOTRE DAME,5,4,5
+worksheet,NOTRE DAME,6,4,5
+worksheet,NOTRE DAME,7,4,4
+worksheet,NOTRE DAME,8,4,5
+worksheet,NOTRE DAME,9,4,5
+worksheet,NOTRE DAME,10,4,5
+worksheet,NOTRE DAME,11,4,5
+worksheet,NOTRE DAME,12,4,5
+worksheet,NOTRE DAME,13,4,4
+worksheet,NOTRE DAME,14,4,5
+worksheet,NOTRE DAME,15,4,5
+worksheet,NOTRE DAME,16,4,5
+worksheet,NOTRE DAME,17,4,4
+worksheet,NOTRE DAME,18,4,5
+worksheet,NOTRE DAME,19,4,4
+worksheet,NOTRE DAME,20,4,5
+worksheet,NOTRE DAME,21,4,5
+worksheet,NOTRE DAME,22,4,5
+worksheet,NOTRE DAME,23,4,5
+worksheet,NOTRE DAME,24,4,5
+worksheet,NOTRE DAME,25,4,5
+worksheet,NOTRE DAME,1,5,4
+worksheet,NOTRE DAME,2,5,4
+worksheet,NOTRE DAME,3,5,2
+worksheet,NOTRE DAME,4,5,4
+worksheet,NOTRE DAME,5,5,4
+worksheet,NOTRE DAME,6,5,4
+worksheet,NOTRE DAME,7,5,3
+worksheet,NOTRE DAME,8,5,5
+worksheet,NOTRE DAME,9,5,5
+worksheet,NOTRE DAME,10,5,5
+worksheet,NOTRE DAME,11,5,5
+worksheet,NOTRE DAME,12,5,5
+worksheet,NOTRE DAME,13,5,3
+worksheet,NOTRE DAME,14,5,5
+worksheet,NOTRE DAME,15,5,5
+worksheet,NOTRE DAME,16,5,5
+worksheet,NOTRE DAME,17,5,4
+worksheet,NOTRE DAME,18,5,4
+worksheet,NOTRE DAME,19,5,3
+worksheet,NOTRE DAME,20,5,4
+worksheet,NOTRE DAME,21,5,4
+worksheet,NOTRE DAME,22,5,5
+worksheet,NOTRE DAME,23,5,5
+worksheet,NOTRE DAME,24,5,4
+worksheet,NOTRE DAME,25,5,5
+worksheet,NOTRE DAME,1,6,3
+worksheet,NOTRE DAME,2,6,3
+worksheet,NOTRE DAME,3,6,2
+worksheet,NOTRE DAME,4,6,4
+worksheet,NOTRE DAME,5,6,4
+worksheet,NOTRE DAME,6,6,3
+worksheet,NOTRE DAME,7,6,3
+worksheet,NOTRE DAME,8,6,4
+worksheet,NOTRE DAME,9,6,4
+worksheet,NOTRE DAME,10,6,4
+worksheet,NOTRE DAME,11,6,4
+worksheet,NOTRE DAME,12,6,4
+worksheet,NOTRE DAME,13,6,2
+worksheet,NOTRE DAME,14,6,3
+worksheet,NOTRE DAME,15,6,4
+worksheet,NOTRE DAME,16,6,4
+worksheet,NOTRE DAME,17,6,3
+worksheet,NOTRE DAME,18,6,3
+worksheet,NOTRE DAME,19,6,3
+worksheet,NOTRE DAME,20,6,3
+worksheet,NOTRE DAME,21,6,3
+worksheet,NOTRE DAME,22,6,4
+worksheet,NOTRE DAME,23,6,4
+worksheet,NOTRE DAME,24,6,4
+worksheet,NOTRE DAME,25,6,4
+worksheet,oliver twist -master,1,3,3
+worksheet,oliver twist -master,2,3,4
+worksheet,oliver twist -master,3,3,4
+worksheet,oliver twist -master,4,3,3
+worksheet,oliver twist -master,5,3,4
+worksheet,oliver twist -master,6,3,5
+worksheet,oliver twist -master,7,3,4
+worksheet,oliver twist -master,8,3,4
+worksheet,oliver twist -master,1,4,2
+worksheet,oliver twist -master,2,4,3
+worksheet,oliver twist -master,3,4,3
+worksheet,oliver twist -master,4,4,3
+worksheet,oliver twist -master,5,4,3
+worksheet,oliver twist -master,6,4,4
+worksheet,oliver twist -master,7,4,4
+worksheet,oliver twist -master,8,4,3
+worksheet,oliver twist -master,1,5,2
+worksheet,oliver twist -master,2,5,3
+worksheet,oliver twist -master,3,5,3
+worksheet,oliver twist -master,4,5,2
+worksheet,oliver twist -master,5,5,2
+worksheet,oliver twist -master,6,5,3
+worksheet,oliver twist -master,7,5,3
+worksheet,oliver twist -master,8,5,3
+worksheet,oliver twist -master,1,6,1
+worksheet,oliver twist -master,2,6,2
+worksheet,oliver twist -master,3,6,3
+worksheet,oliver twist -master,4,6,2
+worksheet,oliver twist -master,5,6,2
+worksheet,oliver twist -master,6,6,2
+worksheet,oliver twist -master,7,6,2
+worksheet,oliver twist -master,8,6,2
+worksheet,oliver twist -room,1,3,2
+worksheet,oliver twist -room,2,3,3
+worksheet,oliver twist -room,4,3,3
+worksheet,oliver twist -room,5,3,3
+worksheet,oliver twist -room,6,3,3
+worksheet,oliver twist -room,7,3,3
+worksheet,oliver twist -room,8,3,4
+worksheet,oliver twist -room,9,3,4
+worksheet,oliver twist -room,10,3,4
+worksheet,oliver twist -room,11,3,4
+worksheet,oliver twist -room,12,3,5
+worksheet,oliver twist -room,13,3,4
+worksheet,oliver twist -room,1,4,2
+worksheet,oliver twist -room,2,4,2
+worksheet,oliver twist -room,4,4,3
+worksheet,oliver twist -room,5,4,3
+worksheet,oliver twist -room,6,4,3
+worksheet,oliver twist -room,7,4,3
+worksheet,oliver twist -room,8,4,4
+worksheet,oliver twist -room,9,4,4
+worksheet,oliver twist -room,10,4,4
+worksheet,oliver twist -room,11,4,4
+worksheet,oliver twist -room,12,4,5
+worksheet,oliver twist -room,13,4,4
+worksheet,oliver twist -room,1,5,1
+worksheet,oliver twist -room,2,5,2
+worksheet,oliver twist -room,4,5,2
+worksheet,oliver twist -room,5,5,3
+worksheet,oliver twist -room,6,5,3
+worksheet,oliver twist -room,7,5,3
+worksheet,oliver twist -room,8,5,3
+worksheet,oliver twist -room,9,5,3
+worksheet,oliver twist -room,10,5,3
+worksheet,oliver twist -room,11,5,4
+worksheet,oliver twist -room,12,5,4
+worksheet,oliver twist -room,13,5,3
+worksheet,oliver twist -room,1,6,1
+worksheet,oliver twist -room,2,6,2
+worksheet,oliver twist -room,4,6,2
+worksheet,oliver twist -room,5,6,3
+worksheet,oliver twist -room,6,6,3
+worksheet,oliver twist -room,7,6,2
+worksheet,oliver twist -room,8,6,3
+worksheet,oliver twist -room,9,6,3
+worksheet,oliver twist -room,10,6,3
+worksheet,oliver twist -room,11,6,3
+worksheet,oliver twist -room,12,6,4
+worksheet,oliver twist -room,13,6,3
+worksheet,patagonia,1,3,2
+worksheet,patagonia,2,3,5
+worksheet,patagonia,3,3,4
+worksheet,patagonia,4,3,3
+worksheet,patagonia,5,3,5
+worksheet,patagonia,6,3,5
+worksheet,patagonia,7,3,3
+worksheet,patagonia,8,3,5
+worksheet,patagonia,9,3,4
+worksheet,patagonia,10,3,5
+worksheet,patagonia,11,3,4
+worksheet,patagonia,12,3,4
+worksheet,patagonia,13,3,4
+worksheet,patagonia,14,3,5
+worksheet,patagonia,15,3,4
+worksheet,patagonia,16,3,5
+worksheet,patagonia,17,3,4
+worksheet,patagonia,18,3,5
+worksheet,patagonia,19,3,5
+worksheet,patagonia,1,4,2
+worksheet,patagonia,2,4,4
+worksheet,patagonia,3,4,3
+worksheet,patagonia,4,4,3
+worksheet,patagonia,5,4,4
+worksheet,patagonia,6,4,4
+worksheet,patagonia,7,4,3
+worksheet,patagonia,8,4,5
+worksheet,patagonia,9,4,3
+worksheet,patagonia,10,4,4
+worksheet,patagonia,11,4,4
+worksheet,patagonia,12,4,3
+worksheet,patagonia,13,4,3
+worksheet,patagonia,14,4,4
+worksheet,patagonia,15,4,3
+worksheet,patagonia,16,4,4
+worksheet,patagonia,17,4,3
+worksheet,patagonia,18,4,4
+worksheet,patagonia,19,4,5
+worksheet,patagonia,1,5,1
+worksheet,patagonia,2,5,4
+worksheet,patagonia,3,5,3
+worksheet,patagonia,4,5,3
+worksheet,patagonia,5,5,4
+worksheet,patagonia,6,5,4
+worksheet,patagonia,7,5,2
+worksheet,patagonia,8,5,4
+worksheet,patagonia,9,5,3
+worksheet,patagonia,10,5,4
+worksheet,patagonia,11,5,3
+worksheet,patagonia,12,5,3
+worksheet,patagonia,13,5,3
+worksheet,patagonia,14,5,4
+worksheet,patagonia,15,5,3
+worksheet,patagonia,16,5,4
+worksheet,patagonia,17,5,3
+worksheet,patagonia,18,5,4
+worksheet,patagonia,19,5,4
+worksheet,patagonia,1,6,1
+worksheet,patagonia,2,6,4
+worksheet,patagonia,3,6,3
+worksheet,patagonia,4,6,3
+worksheet,patagonia,5,6,3
+worksheet,patagonia,6,6,3
+worksheet,patagonia,7,6,2
+worksheet,patagonia,8,6,4
+worksheet,patagonia,9,6,3
+worksheet,patagonia,10,6,3
+worksheet,patagonia,11,6,3
+worksheet,patagonia,12,6,3
+worksheet,patagonia,13,6,3
+worksheet,patagonia,14,6,4
+worksheet,patagonia,15,6,3
+worksheet,patagonia,16,6,3
+worksheet,patagonia,17,6,3
+worksheet,patagonia,18,6,3
+worksheet,patagonia,19,6,4
+worksheet,peter,1,3,4
+worksheet,peter,2,3,4
+worksheet,peter,3,3,5
+worksheet,peter,4,3,2
+worksheet,peter,5,3,5
+worksheet,peter,6,3,5
+worksheet,peter,7,3,5
+worksheet,peter,8,3,2
+worksheet,peter,9,3,4
+worksheet,peter,10,3,4
+worksheet,peter,11,3,5
+worksheet,peter,12,3,5
+worksheet,peter,13,3,4
+worksheet,peter,14,3,5
+worksheet,peter,15,3,4
+worksheet,peter,16,3,4
+worksheet,peter,17,3,5
+worksheet,peter,18,3,4
+worksheet,peter,1,4,3
+worksheet,peter,2,4,3
+worksheet,peter,3,4,4
+worksheet,peter,4,4,2
+worksheet,peter,5,4,4
+worksheet,peter,6,4,4
+worksheet,peter,7,4,4
+worksheet,peter,8,4,2
+worksheet,peter,9,4,3
+worksheet,peter,10,4,4
+worksheet,peter,11,4,4
+worksheet,peter,12,4,4
+worksheet,peter,13,4,3
+worksheet,peter,14,4,4
+worksheet,peter,15,4,3
+worksheet,peter,16,4,3
+worksheet,peter,17,4,4
+worksheet,peter,18,4,4
+worksheet,peter,1,5,2
+worksheet,peter,2,5,3
+worksheet,peter,3,5,4
+worksheet,peter,4,5,2
+worksheet,peter,5,5,3
+worksheet,peter,6,5,3
+worksheet,peter,7,5,4
+worksheet,peter,8,5,1
+worksheet,peter,9,5,3
+worksheet,peter,10,5,3
+worksheet,peter,11,5,4
+worksheet,peter,12,5,4
+worksheet,peter,13,5,3
+worksheet,peter,14,5,3
+worksheet,peter,15,5,3
+worksheet,peter,16,5,3
+worksheet,peter,17,5,3
+worksheet,peter,18,5,3
+worksheet,peter,1,6,2
+worksheet,peter,2,6,2
+worksheet,peter,3,6,3
+worksheet,peter,4,6,1
+worksheet,peter,5,6,3
+worksheet,peter,6,6,3
+worksheet,peter,7,6,3
+worksheet,peter,8,6,1
+worksheet,peter,9,6,2
+worksheet,peter,10,6,3
+worksheet,peter,11,6,3
+worksheet,peter,12,6,3
+worksheet,peter,13,6,2
+worksheet,peter,14,6,3
+worksheet,peter,15,6,2
+worksheet,peter,16,6,2
+worksheet,peter,17,6,3
+worksheet,peter,18,6,3
+worksheet,rebecca,1,3,3
+worksheet,rebecca,2,3,4
+worksheet,rebecca,3,3,2
+worksheet,rebecca,4,3,4
+worksheet,rebecca,5,3,5
+worksheet,rebecca,6,3,5
+worksheet,rebecca,7,3,5
+worksheet,rebecca,8,3,3
+worksheet,rebecca,9,3,4
+worksheet,rebecca,10,3,4
+worksheet,rebecca,11,3,4
+worksheet,rebecca,12,3,5
+worksheet,rebecca,1,4,3
+worksheet,rebecca,2,4,3
+worksheet,rebecca,3,4,2
+worksheet,rebecca,4,4,3
+worksheet,rebecca,5,4,4
+worksheet,rebecca,6,4,4
+worksheet,rebecca,7,4,4
+worksheet,rebecca,8,4,3
+worksheet,rebecca,9,4,3
+worksheet,rebecca,10,4,3
+worksheet,rebecca,11,4,3
+worksheet,rebecca,12,4,4
+worksheet,rebecca,1,5,2
+worksheet,rebecca,2,5,3
+worksheet,rebecca,3,5,1
+worksheet,rebecca,4,5,3
+worksheet,rebecca,5,5,4
+worksheet,rebecca,6,5,4
+worksheet,rebecca,7,5,3
+worksheet,rebecca,8,5,2
+worksheet,rebecca,9,5,3
+worksheet,rebecca,10,5,3
+worksheet,rebecca,11,5,3
+worksheet,rebecca,12,5,3
+worksheet,rebecca,1,6,2
+worksheet,rebecca,2,6,2
+worksheet,rebecca,3,6,1
+worksheet,rebecca,4,6,2
+worksheet,rebecca,5,6,3
+worksheet,rebecca,6,6,3
+worksheet,rebecca,7,6,3
+worksheet,rebecca,8,6,2
+worksheet,rebecca,9,6,2
+worksheet,rebecca,10,6,2
+worksheet,rebecca,11,6,2
+worksheet,rebecca,12,6,3
+worksheet,sea fever,1,3,4
+worksheet,sea fever,2,3,4
+worksheet,sea fever,3,3,3
+worksheet,sea fever,4,3,5
+worksheet,sea fever,5,3,5
+worksheet,sea fever,6,3,4
+worksheet,sea fever,7,3,5
+worksheet,sea fever,8,3,4
+worksheet,sea fever,9,3,5
+worksheet,sea fever,10,3,5
+worksheet,sea fever,11,3,5
+worksheet,sea fever,12,3,3
+worksheet,sea fever,1,4,3
+worksheet,sea fever,2,4,3
+worksheet,sea fever,3,4,2
+worksheet,sea fever,4,4,4
+worksheet,sea fever,5,4,4
+worksheet,sea fever,6,4,3
+worksheet,sea fever,7,4,4
+worksheet,sea fever,8,4,3
+worksheet,sea fever,9,4,4
+worksheet,sea fever,10,4,4
+worksheet,sea fever,11,4,4
+worksheet,sea fever,12,4,2
+worksheet,sea fever,1,5,3
+worksheet,sea fever,2,5,3
+worksheet,sea fever,3,5,2
+worksheet,sea fever,4,5,3
+worksheet,sea fever,5,5,3
+worksheet,sea fever,6,5,2
+worksheet,sea fever,7,5,3
+worksheet,sea fever,8,5,3
+worksheet,sea fever,9,5,3
+worksheet,sea fever,10,5,3
+worksheet,sea fever,11,5,3
+worksheet,sea fever,12,5,2
+worksheet,sea fever,1,6,2
+worksheet,sea fever,2,6,2
+worksheet,sea fever,3,6,1
+worksheet,sea fever,4,6,3
+worksheet,sea fever,5,6,2
+worksheet,sea fever,6,6,1
+worksheet,sea fever,7,6,2
+worksheet,sea fever,8,6,2
+worksheet,sea fever,9,6,2
+worksheet,sea fever,10,6,3
+worksheet,sea fever,11,6,2
+worksheet,sea fever,12,6,1
+worksheet,secret garden,1,3,3
+worksheet,secret garden,2,3,2
+worksheet,secret garden,3,3,3
+worksheet,secret garden,4,3,4
+worksheet,secret garden,5,3,3
+worksheet,secret garden,6,3,4
+worksheet,secret garden,7,3,4
+worksheet,secret garden,8,3,3
+worksheet,secret garden,9,3,5
+worksheet,secret garden,10,3,5
+worksheet,secret garden,11,3,5
+worksheet,secret garden,12,3,4
+worksheet,secret garden,13,3,4
+worksheet,secret garden,14,3,5
+worksheet,secret garden,15,3,2
+worksheet,secret garden,1,4,2
+worksheet,secret garden,2,4,2
+worksheet,secret garden,3,4,3
+worksheet,secret garden,4,4,4
+worksheet,secret garden,5,4,3
+worksheet,secret garden,6,4,3
+worksheet,secret garden,7,4,4
+worksheet,secret garden,8,4,3
+worksheet,secret garden,9,4,5
+worksheet,secret garden,10,4,4
+worksheet,secret garden,11,4,4
+worksheet,secret garden,12,4,3
+worksheet,secret garden,13,4,3
+worksheet,secret garden,14,4,4
+worksheet,secret garden,15,4,2
+worksheet,secret garden,1,5,2
+worksheet,secret garden,2,5,1
+worksheet,secret garden,3,5,2
+worksheet,secret garden,4,5,3
+worksheet,secret garden,5,5,2
+worksheet,secret garden,6,5,3
+worksheet,secret garden,7,5,3
+worksheet,secret garden,8,5,2
+worksheet,secret garden,9,5,4
+worksheet,secret garden,10,5,4
+worksheet,secret garden,11,5,4
+worksheet,secret garden,12,5,3
+worksheet,secret garden,13,5,2
+worksheet,secret garden,14,5,4
+worksheet,secret garden,15,5,1
+worksheet,secret garden,1,6,1
+worksheet,secret garden,2,6,1
+worksheet,secret garden,3,6,1
+worksheet,secret garden,4,6,2
+worksheet,secret garden,5,6,1
+worksheet,secret garden,6,6,2
+worksheet,secret garden,7,6,2
+worksheet,secret garden,8,6,1
+worksheet,secret garden,9,6,3
+worksheet,secret garden,10,6,3
+worksheet,secret garden,11,6,3
+worksheet,secret garden,12,6,2
+worksheet,secret garden,13,6,2
+worksheet,secret garden,14,6,3
+worksheet,secret garden,15,6,1
+worksheet,sense,1,3,4
+worksheet,sense,2,3,5
+worksheet,sense,3,3,5
+worksheet,sense,4,3,5
+worksheet,sense,5,3,4
+worksheet,sense,6,3,5
+worksheet,sense,7,3,5
+worksheet,sense,8,3,5
+worksheet,sense,9,3,5
+worksheet,sense,10,3,5
+worksheet,sense,11,3,4
+worksheet,sense,12,3,5
+worksheet,sense,1,4,3
+worksheet,sense,2,4,4
+worksheet,sense,3,4,4
+worksheet,sense,4,4,4
+worksheet,sense,5,4,3
+worksheet,sense,6,4,4
+worksheet,sense,7,4,3
+worksheet,sense,8,4,4
+worksheet,sense,9,4,4
+worksheet,sense,10,4,5
+worksheet,sense,11,4,3
+worksheet,sense,12,4,4
+worksheet,sense,1,5,2
+worksheet,sense,2,5,3
+worksheet,sense,3,5,3
+worksheet,sense,4,5,3
+worksheet,sense,5,5,2
+worksheet,sense,6,5,3
+worksheet,sense,7,5,2
+worksheet,sense,8,5,3
+worksheet,sense,9,5,3
+worksheet,sense,10,5,4
+worksheet,sense,11,5,2
+worksheet,sense,12,5,3
+worksheet,sense,1,6,2
+worksheet,sense,2,6,2
+worksheet,sense,3,6,2
+worksheet,sense,4,6,2
+worksheet,sense,5,6,2
+worksheet,sense,6,6,2
+worksheet,sense,7,6,2
+worksheet,sense,8,6,2
+worksheet,sense,9,6,2
+worksheet,sense,10,6,3
+worksheet,sense,11,6,2
+worksheet,sense,12,6,2
+worksheet,shiba,1,3,2
+worksheet,shiba,2,3,3
+worksheet,shiba,3,3,2
+worksheet,shiba,4,3,NULL
+worksheet,shiba,5,3,4
+worksheet,shiba,6,3,2
+worksheet,shiba,7,3,3
+worksheet,shiba,8,3,5
+worksheet,shiba,9,3,3
+worksheet,shiba,10,3,4
+worksheet,shiba,11,3,3
+worksheet,shiba,12,3,1
+worksheet,shiba,13,3,3
+worksheet,shiba,14,3,3
+worksheet,shiba,15,3,3
+worksheet,shiba,16,3,3
+worksheet,shiba,17,3,3
+worksheet,shiba,18,3,5
+worksheet,shiba,19,3,4
+worksheet,shiba,20,3,5
+worksheet,shiba,1,4,2
+worksheet,shiba,2,4,3
+worksheet,shiba,3,4,2
+worksheet,shiba,4,4,3
+worksheet,shiba,5,4,3
+worksheet,shiba,6,4,2
+worksheet,shiba,7,4,3
+worksheet,shiba,8,4,4
+worksheet,shiba,9,4,3
+worksheet,shiba,10,4,4
+worksheet,shiba,11,4,2
+worksheet,shiba,12,4,1
+worksheet,shiba,13,4,2
+worksheet,shiba,14,4,3
+worksheet,shiba,15,4,3
+worksheet,shiba,16,4,3
+worksheet,shiba,17,4,2
+worksheet,shiba,18,4,4
+worksheet,shiba,19,4,4
+worksheet,shiba,20,4,4
+worksheet,shiba,1,5,1
+worksheet,shiba,2,5,2
+worksheet,shiba,3,5,1
+worksheet,shiba,4,5,2
+worksheet,shiba,5,5,2
+worksheet,shiba,6,5,1
+worksheet,shiba,7,5,2
+worksheet,shiba,8,5,3
+worksheet,shiba,9,5,2
+worksheet,shiba,10,5,3
+worksheet,shiba,11,5,2
+worksheet,shiba,12,5,1
+worksheet,shiba,13,5,1
+worksheet,shiba,14,5,2
+worksheet,shiba,15,5,2
+worksheet,shiba,16,5,2
+worksheet,shiba,17,5,2
+worksheet,shiba,18,5,3
+worksheet,shiba,19,5,3
+worksheet,shiba,20,5,3
+worksheet,shiba,1,6,1
+worksheet,shiba,2,6,2
+worksheet,shiba,3,6,1
+worksheet,shiba,4,6,2
+worksheet,shiba,5,6,1
+worksheet,shiba,6,6,1
+worksheet,shiba,7,6,2
+worksheet,shiba,8,6,2
+worksheet,shiba,9,6,2
+worksheet,shiba,10,6,3
+worksheet,shiba,11,6,1
+worksheet,shiba,12,6,1
+worksheet,shiba,13,6,1
+worksheet,shiba,14,6,2
+worksheet,shiba,15,6,2
+worksheet,shiba,16,6,2
+worksheet,shiba,17,6,1
+worksheet,shiba,18,6,3
+worksheet,shiba,19,6,3
+worksheet,shiba,20,6,3
+worksheet,snowy river,1,3,4
+worksheet,snowy river,2,3,3
+worksheet,snowy river,3,3,4
+worksheet,snowy river,4,3,3
+worksheet,snowy river,5,3,5
+worksheet,snowy river,6,3,5
+worksheet,snowy river,7,3,4
+worksheet,snowy river,8,3,3
+worksheet,snowy river,9,3,4
+worksheet,snowy river,10,3,4
+worksheet,snowy river,11,3,4
+worksheet,snowy river,12,3,3
+worksheet,snowy river,13,3,4
+worksheet,snowy river,14,3,5
+worksheet,snowy river,1,4,3
+worksheet,snowy river,2,4,2
+worksheet,snowy river,3,4,3
+worksheet,snowy river,4,4,2
+worksheet,snowy river,5,4,4
+worksheet,snowy river,6,4,4
+worksheet,snowy river,7,4,3
+worksheet,snowy river,8,4,2
+worksheet,snowy river,9,4,3
+worksheet,snowy river,10,4,3
+worksheet,snowy river,11,4,3
+worksheet,snowy river,12,4,2
+worksheet,snowy river,13,4,3
+worksheet,snowy river,14,4,3
+worksheet,snowy river,1,5,2
+worksheet,snowy river,2,5,2
+worksheet,snowy river,3,5,2
+worksheet,snowy river,4,5,1
+worksheet,snowy river,5,5,3
+worksheet,snowy river,6,5,3
+worksheet,snowy river,7,5,2
+worksheet,snowy river,8,5,2
+worksheet,snowy river,9,5,2
+worksheet,snowy river,10,5,2
+worksheet,snowy river,11,5,2
+worksheet,snowy river,12,5,1
+worksheet,snowy river,13,5,2
+worksheet,snowy river,14,5,2
+worksheet,snowy river,1,6,1
+worksheet,snowy river,2,6,1
+worksheet,snowy river,3,6,2
+worksheet,snowy river,4,6,1
+worksheet,snowy river,5,6,2
+worksheet,snowy river,6,6,2
+worksheet,snowy river,7,6,1
+worksheet,snowy river,8,6,1
+worksheet,snowy river,9,6,2
+worksheet,snowy river,10,6,1
+worksheet,snowy river,11,6,2
+worksheet,snowy river,12,6,1
+worksheet,snowy river,13,6,2
+worksheet,snowy river,14,6,2
+worksheet,sonnet 18,1,3,4
+worksheet,sonnet 18,2,3,3
+worksheet,sonnet 18,3,3,5
+worksheet,sonnet 18,4,3,4
+worksheet,sonnet 18,5,3,5
+worksheet,sonnet 18,6,3,2
+worksheet,sonnet 18,7,3,5
+worksheet,sonnet 18,8,3,4
+worksheet,sonnet 18,9,3,5
+worksheet,sonnet 18,10,3,5
+worksheet,sonnet 18,11,3,5
+worksheet,sonnet 18,12,3,5
+worksheet,sonnet 18,13,3,4
+worksheet,sonnet 18,14,3,5
+worksheet,sonnet 18,15,3,5
+worksheet,sonnet 18,16,3,5
+worksheet,sonnet 18,1,4,3
+worksheet,sonnet 18,2,4,3
+worksheet,sonnet 18,3,4,4
+worksheet,sonnet 18,4,4,3
+worksheet,sonnet 18,5,4,4
+worksheet,sonnet 18,6,4,2
+worksheet,sonnet 18,7,4,4
+worksheet,sonnet 18,8,4,3
+worksheet,sonnet 18,9,4,5
+worksheet,sonnet 18,10,4,5
+worksheet,sonnet 18,11,4,4
+worksheet,sonnet 18,12,4,5
+worksheet,sonnet 18,13,4,3
+worksheet,sonnet 18,14,4,5
+worksheet,sonnet 18,15,4,4
+worksheet,sonnet 18,16,4,5
+worksheet,sonnet 18,1,5,3
+worksheet,sonnet 18,2,5,2
+worksheet,sonnet 18,3,5,3
+worksheet,sonnet 18,4,5,2
+worksheet,sonnet 18,5,5,4
+worksheet,sonnet 18,6,5,1
+worksheet,sonnet 18,7,5,3
+worksheet,sonnet 18,8,5,2
+worksheet,sonnet 18,9,5,4
+worksheet,sonnet 18,10,5,4
+worksheet,sonnet 18,11,5,3
+worksheet,sonnet 18,12,5,4
+worksheet,sonnet 18,13,5,2
+worksheet,sonnet 18,14,5,4
+worksheet,sonnet 18,15,5,3
+worksheet,sonnet 18,16,5,5
+worksheet,sonnet 18,1,6,2
+worksheet,sonnet 18,2,6,2
+worksheet,sonnet 18,3,6,2
+worksheet,sonnet 18,4,6,2
+worksheet,sonnet 18,5,6,3
+worksheet,sonnet 18,6,6,1
+worksheet,sonnet 18,7,6,3
+worksheet,sonnet 18,8,6,2
+worksheet,sonnet 18,9,6,3
+worksheet,sonnet 18,10,6,3
+worksheet,sonnet 18,11,6,3
+worksheet,sonnet 18,12,6,4
+worksheet,sonnet 18,13,6,1
+worksheet,sonnet 18,14,6,3
+worksheet,sonnet 18,15,6,2
+worksheet,sonnet 18,16,6,5
+worksheet,stopping by,1,3,4
+worksheet,stopping by,2,3,5
+worksheet,stopping by,3,3,5
+worksheet,stopping by,4,3,3
+worksheet,stopping by,5,3,4
+worksheet,stopping by,6,3,4
+worksheet,stopping by,7,3,3
+worksheet,stopping by,8,3,5
+worksheet,stopping by,9,3,5
+worksheet,stopping by,10,3,5
+worksheet,stopping by,11,3,4
+worksheet,stopping by,12,3,5
+worksheet,stopping by,1,4,3
+worksheet,stopping by,2,4,5
+worksheet,stopping by,3,4,4
+worksheet,stopping by,4,4,2
+worksheet,stopping by,5,4,4
+worksheet,stopping by,6,4,4
+worksheet,stopping by,7,4,3
+worksheet,stopping by,8,4,4
+worksheet,stopping by,9,4,5
+worksheet,stopping by,10,4,5
+worksheet,stopping by,11,4,3
+worksheet,stopping by,12,4,4
+worksheet,stopping by,1,5,2
+worksheet,stopping by,2,5,4
+worksheet,stopping by,3,5,4
+worksheet,stopping by,4,5,2
+worksheet,stopping by,5,5,3
+worksheet,stopping by,6,5,3
+worksheet,stopping by,7,5,2
+worksheet,stopping by,8,5,3
+worksheet,stopping by,9,5,4
+worksheet,stopping by,10,5,4
+worksheet,stopping by,11,5,3
+worksheet,stopping by,12,5,4
+worksheet,stopping by,1,6,1
+worksheet,stopping by,2,6,3
+worksheet,stopping by,3,6,3
+worksheet,stopping by,4,6,2
+worksheet,stopping by,5,6,2
+worksheet,stopping by,6,6,2
+worksheet,stopping by,7,6,2
+worksheet,stopping by,8,6,3
+worksheet,stopping by,9,6,3
+worksheet,stopping by,10,6,4
+worksheet,stopping by,11,6,2
+worksheet,stopping by,12,6,3
+worksheet,this is going to hurt,1,3,2
+worksheet,this is going to hurt,2,3,4
+worksheet,this is going to hurt,3,3,5
+worksheet,this is going to hurt,4,3,5
+worksheet,this is going to hurt,5,3,4
+worksheet,this is going to hurt,6,3,3
+worksheet,this is going to hurt,7,3,3
+worksheet,this is going to hurt,8,3,3
+worksheet,this is going to hurt,1,4,2
+worksheet,this is going to hurt,2,4,4
+worksheet,this is going to hurt,3,4,5
+worksheet,this is going to hurt,4,4,5
+worksheet,this is going to hurt,5,4,4
+worksheet,this is going to hurt,6,4,3
+worksheet,this is going to hurt,7,4,3
+worksheet,this is going to hurt,8,4,3
+worksheet,this is going to hurt,1,5,1
+worksheet,this is going to hurt,2,5,3
+worksheet,this is going to hurt,3,5,4
+worksheet,this is going to hurt,4,5,4
+worksheet,this is going to hurt,5,5,3
+worksheet,this is going to hurt,6,5,2
+worksheet,this is going to hurt,7,5,2
+worksheet,this is going to hurt,8,5,2
+worksheet,this is going to hurt,1,6,1
+worksheet,this is going to hurt,2,6,2
+worksheet,this is going to hurt,3,6,3
+worksheet,this is going to hurt,4,6,3
+worksheet,this is going to hurt,5,6,2
+worksheet,this is going to hurt,6,6,2
+worksheet,this is going to hurt,7,6,1
+worksheet,this is going to hurt,8,6,1
+worksheet,THOSE WINTER,1,3,4
+worksheet,THOSE WINTER,2,3,5
+worksheet,THOSE WINTER,3,3,5
+worksheet,THOSE WINTER,4,3,2
+worksheet,THOSE WINTER,5,3,5
+worksheet,THOSE WINTER,6,3,5
+worksheet,THOSE WINTER,7,3,5
+worksheet,THOSE WINTER,8,3,5
+worksheet,THOSE WINTER,9,3,5
+worksheet,THOSE WINTER,10,3,4
+worksheet,THOSE WINTER,11,3,5
+worksheet,THOSE WINTER,12,3,3
+worksheet,THOSE WINTER,13,3,5
+worksheet,THOSE WINTER,14,3,5
+worksheet,THOSE WINTER,15,3,5
+worksheet,THOSE WINTER,16,3,5
+worksheet,THOSE WINTER,17,3,1
+worksheet,THOSE WINTER,1,4,4
+worksheet,THOSE WINTER,2,4,5
+worksheet,THOSE WINTER,3,4,5
+worksheet,THOSE WINTER,4,4,2
+worksheet,THOSE WINTER,5,4,5
+worksheet,THOSE WINTER,6,4,5
+worksheet,THOSE WINTER,7,4,5
+worksheet,THOSE WINTER,8,4,4
+worksheet,THOSE WINTER,9,4,5
+worksheet,THOSE WINTER,10,4,3
+worksheet,THOSE WINTER,11,4,5
+worksheet,THOSE WINTER,12,4,3
+worksheet,THOSE WINTER,13,4,5
+worksheet,THOSE WINTER,14,4,5
+worksheet,THOSE WINTER,15,4,5
+worksheet,THOSE WINTER,16,4,5
+worksheet,THOSE WINTER,17,4,1
+worksheet,THOSE WINTER,1,5,3
+worksheet,THOSE WINTER,2,5,4
+worksheet,THOSE WINTER,3,5,5
+worksheet,THOSE WINTER,4,5,2
+worksheet,THOSE WINTER,5,5,4
+worksheet,THOSE WINTER,6,5,5
+worksheet,THOSE WINTER,7,5,4
+worksheet,THOSE WINTER,8,5,3
+worksheet,THOSE WINTER,9,5,4
+worksheet,THOSE WINTER,10,5,2
+worksheet,THOSE WINTER,11,5,5
+worksheet,THOSE WINTER,12,5,2
+worksheet,THOSE WINTER,13,5,4
+worksheet,THOSE WINTER,14,5,4
+worksheet,THOSE WINTER,15,5,5
+worksheet,THOSE WINTER,16,5,5
+worksheet,THOSE WINTER,17,5,1
+worksheet,THOSE WINTER,1,6,3
+worksheet,THOSE WINTER,2,6,4
+worksheet,THOSE WINTER,3,6,4
+worksheet,THOSE WINTER,4,6,1
+worksheet,THOSE WINTER,5,6,3
+worksheet,THOSE WINTER,6,6,4
+worksheet,THOSE WINTER,7,6,3
+worksheet,THOSE WINTER,8,6,2
+worksheet,THOSE WINTER,9,6,3
+worksheet,THOSE WINTER,10,6,1
+worksheet,THOSE WINTER,11,6,4
+worksheet,THOSE WINTER,12,6,1
+worksheet,THOSE WINTER,13,6,3
+worksheet,THOSE WINTER,14,6,3
+worksheet,THOSE WINTER,15,6,4
+worksheet,THOSE WINTER,16,6,4
+worksheet,THOSE WINTER,17,6,1
+worksheet,tom sawyer,1,3,2
+worksheet,tom sawyer,2,3,3
+worksheet,tom sawyer,3,3,3
+worksheet,tom sawyer,4,3,2
+worksheet,tom sawyer,5,3,3
+worksheet,tom sawyer,6,3,3
+worksheet,tom sawyer,7,3,3
+worksheet,tom sawyer,8,3,2
+worksheet,tom sawyer,9,3,3
+worksheet,tom sawyer,10,3,4
+worksheet,tom sawyer,11,3,3
+worksheet,tom sawyer,12,3,4
+worksheet,tom sawyer,13,3,4
+worksheet,tom sawyer,14,3,5
+worksheet,tom sawyer,15,3,5
+worksheet,tom sawyer,16,3,5
+worksheet,tom sawyer,17,3,4
+worksheet,tom sawyer,1,4,2
+worksheet,tom sawyer,2,4,3
+worksheet,tom sawyer,3,4,3
+worksheet,tom sawyer,4,4,2
+worksheet,tom sawyer,5,4,3
+worksheet,tom sawyer,6,4,3
+worksheet,tom sawyer,7,4,3
+worksheet,tom sawyer,8,4,2
+worksheet,tom sawyer,9,4,3
+worksheet,tom sawyer,10,4,4
+worksheet,tom sawyer,11,4,3
+worksheet,tom sawyer,12,4,4
+worksheet,tom sawyer,13,4,4
+worksheet,tom sawyer,14,4,5
+worksheet,tom sawyer,15,4,5
+worksheet,tom sawyer,16,4,5
+worksheet,tom sawyer,17,4,4
+worksheet,tom sawyer,1,5,1
+worksheet,tom sawyer,2,5,2
+worksheet,tom sawyer,3,5,2
+worksheet,tom sawyer,4,5,1
+worksheet,tom sawyer,5,5,2
+worksheet,tom sawyer,6,5,2
+worksheet,tom sawyer,7,5,2
+worksheet,tom sawyer,8,5,2
+worksheet,tom sawyer,9,5,3
+worksheet,tom sawyer,10,5,3
+worksheet,tom sawyer,11,5,2
+worksheet,tom sawyer,12,5,3
+worksheet,tom sawyer,13,5,3
+worksheet,tom sawyer,14,5,4
+worksheet,tom sawyer,15,5,5
+worksheet,tom sawyer,16,5,5
+worksheet,tom sawyer,17,5,3
+worksheet,tom sawyer,1,6,1
+worksheet,tom sawyer,2,6,1
+worksheet,tom sawyer,3,6,1
+worksheet,tom sawyer,4,6,1
+worksheet,tom sawyer,5,6,1
+worksheet,tom sawyer,6,6,2
+worksheet,tom sawyer,7,6,2
+worksheet,tom sawyer,8,6,1
+worksheet,tom sawyer,9,6,2
+worksheet,tom sawyer,10,6,3
+worksheet,tom sawyer,11,6,2
+worksheet,tom sawyer,12,6,3
+worksheet,tom sawyer,13,6,3
+worksheet,tom sawyer,14,6,4
+worksheet,tom sawyer,15,6,4
+worksheet,tom sawyer,16,6,4
+worksheet,tom sawyer,17,6,3
+worksheet,treasure island,1,3,4
+worksheet,treasure island,2,3,5
+worksheet,treasure island,3,3,3
+worksheet,treasure island,4,3,4
+worksheet,treasure island,5,3,2
+worksheet,treasure island,6,3,3
+worksheet,treasure island,7,3,3
+worksheet,treasure island,8,3,2
+worksheet,treasure island,9,3,4
+worksheet,treasure island,10,3,4
+worksheet,treasure island,11,3,5
+worksheet,treasure island,12,3,2
+worksheet,treasure island,13,3,4
+worksheet,treasure island,14,3,4
+worksheet,treasure island,15,3,4
+worksheet,treasure island,1,4,4
+worksheet,treasure island,2,4,4
+worksheet,treasure island,3,4,3
+worksheet,treasure island,4,4,4
+worksheet,treasure island,5,4,2
+worksheet,treasure island,6,4,3
+worksheet,treasure island,7,4,3
+worksheet,treasure island,8,4,2
+worksheet,treasure island,9,4,4
+worksheet,treasure island,10,4,3
+worksheet,treasure island,11,4,4
+worksheet,treasure island,12,4,2
+worksheet,treasure island,13,4,3
+worksheet,treasure island,14,4,3
+worksheet,treasure island,15,4,3
+worksheet,treasure island,1,5,3
+worksheet,treasure island,2,5,3
+worksheet,treasure island,3,5,2
+worksheet,treasure island,4,5,3
+worksheet,treasure island,5,5,1
+worksheet,treasure island,6,5,2
+worksheet,treasure island,7,5,2
+worksheet,treasure island,8,5,1
+worksheet,treasure island,9,5,3
+worksheet,treasure island,10,5,3
+worksheet,treasure island,11,5,4
+worksheet,treasure island,12,5,1
+worksheet,treasure island,13,5,3
+worksheet,treasure island,14,5,3
+worksheet,treasure island,15,5,3
+worksheet,treasure island,1,6,3
+worksheet,treasure island,2,6,3
+worksheet,treasure island,3,6,2
+worksheet,treasure island,4,6,3
+worksheet,treasure island,5,6,1
+worksheet,treasure island,6,6,2
+worksheet,treasure island,7,6,2
+worksheet,treasure island,8,6,1
+worksheet,treasure island,9,6,3
+worksheet,treasure island,10,6,2
+worksheet,treasure island,11,6,3
+worksheet,treasure island,12,6,1
+worksheet,treasure island,13,6,2
+worksheet,treasure island,14,6,2
+worksheet,treasure island,15,6,2
+worksheet,tyger,1,3,2
+worksheet,tyger,2,3,3
+worksheet,tyger,3,3,4
+worksheet,tyger,4,3,4
+worksheet,tyger,5,3,5
+worksheet,tyger,6,3,5
+worksheet,tyger,7,3,3
+worksheet,tyger,8,3,5
+worksheet,tyger,9,3,3
+worksheet,tyger,10,3,3
+worksheet,tyger,11,3,4
+worksheet,tyger,12,3,4
+worksheet,tyger,1,4,2
+worksheet,tyger,2,4,3
+worksheet,tyger,3,4,3
+worksheet,tyger,4,4,4
+worksheet,tyger,5,4,5
+worksheet,tyger,6,4,5
+worksheet,tyger,7,4,3
+worksheet,tyger,8,4,4
+worksheet,tyger,9,4,3
+worksheet,tyger,10,4,3
+worksheet,tyger,11,4,3
+worksheet,tyger,12,4,3
+worksheet,tyger,1,5,1
+worksheet,tyger,2,5,2
+worksheet,tyger,3,5,2
+worksheet,tyger,4,5,4
+worksheet,tyger,5,5,4
+worksheet,tyger,6,5,4
+worksheet,tyger,7,5,2
+worksheet,tyger,8,5,4
+worksheet,tyger,9,5,2
+worksheet,tyger,10,5,1
+worksheet,tyger,11,5,2
+worksheet,tyger,12,5,3
+worksheet,tyger,1,6,1
+worksheet,tyger,2,6,2
+worksheet,tyger,3,6,2
+worksheet,tyger,4,6,3
+worksheet,tyger,5,6,4
+worksheet,tyger,6,6,4
+worksheet,tyger,7,6,2
+worksheet,tyger,8,6,3
+worksheet,tyger,9,6,2
+worksheet,tyger,10,6,1
+worksheet,tyger,11,6,2
+worksheet,tyger,12,6,2
+worksheet,umami,1,3,3
+worksheet,umami,2,3,4
+worksheet,umami,3,3,3
+worksheet,umami,4,3,5
+worksheet,umami,5,3,5
+worksheet,umami,6,3,3
+worksheet,umami,7,3,4
+worksheet,umami,8,3,3
+worksheet,umami,9,3,4
+worksheet,umami,10,3,5
+worksheet,umami,11,3,4
+worksheet,umami,12,3,4
+worksheet,umami,13,3,5
+worksheet,umami,14,3,5
+worksheet,umami,15,3,3
+worksheet,umami,16,3,2
+worksheet,umami,17,3,4
+worksheet,umami,18,3,4
+worksheet,umami,19,3,3
+worksheet,umami,20,3,5
+worksheet,umami,21,3,4
+worksheet,umami,22,3,2
+worksheet,umami,1,4,2
+worksheet,umami,2,4,2
+worksheet,umami,3,4,2
+worksheet,umami,4,4,4
+worksheet,umami,5,4,4
+worksheet,umami,6,4,2
+worksheet,umami,7,4,3
+worksheet,umami,8,4,3
+worksheet,umami,9,4,3
+worksheet,umami,10,4,4
+worksheet,umami,11,4,3
+worksheet,umami,12,4,3
+worksheet,umami,13,4,4
+worksheet,umami,14,4,4
+worksheet,umami,15,4,3
+worksheet,umami,16,4,2
+worksheet,umami,17,4,4
+worksheet,umami,18,4,3
+worksheet,umami,19,4,3
+worksheet,umami,20,4,4
+worksheet,umami,21,4,3
+worksheet,umami,22,4,2
+worksheet,umami,1,5,1
+worksheet,umami,2,5,2
+worksheet,umami,3,5,2
+worksheet,umami,4,5,3
+worksheet,umami,5,5,4
+worksheet,umami,6,5,2
+worksheet,umami,7,5,2
+worksheet,umami,8,5,3
+worksheet,umami,9,5,2
+worksheet,umami,10,5,3
+worksheet,umami,11,5,3
+worksheet,umami,12,5,3
+worksheet,umami,13,5,4
+worksheet,umami,14,5,4
+worksheet,umami,15,5,3
+worksheet,umami,16,5,1
+worksheet,umami,17,5,3
+worksheet,umami,18,5,2
+worksheet,umami,19,5,2
+worksheet,umami,20,5,4
+worksheet,umami,21,5,3
+worksheet,umami,22,5,1
+worksheet,umami,1,6,1
+worksheet,umami,2,6,1
+worksheet,umami,3,6,1
+worksheet,umami,4,6,2
+worksheet,umami,5,6,3
+worksheet,umami,6,6,2
+worksheet,umami,7,6,1
+worksheet,umami,8,6,2
+worksheet,umami,9,6,1
+worksheet,umami,10,6,2
+worksheet,umami,11,6,2
+worksheet,umami,12,6,2
+worksheet,umami,13,6,3
+worksheet,umami,14,6,3
+worksheet,umami,15,6,2
+worksheet,umami,16,6,1
+worksheet,umami,17,6,2
+worksheet,umami,18,6,2
+worksheet,umami,19,6,1
+worksheet,umami,20,6,3
+worksheet,umami,21,6,2
+worksheet,umami,22,6,1
+worksheet,van,1,3,5
+worksheet,van,2,3,4
+worksheet,van,3,3,3
+worksheet,van,4,3,4
+worksheet,van,5,3,4
+worksheet,van,6,3,5
+worksheet,van,7,3,3
+worksheet,van,8,3,3
+worksheet,van,9,3,4
+worksheet,van,10,3,5
+worksheet,van,11,3,3
+worksheet,van,12,3,4
+worksheet,van,13,3,5
+worksheet,van,14,3,3
+worksheet,van,1,4,4
+worksheet,van,2,4,3
+worksheet,van,3,4,3
+worksheet,van,4,4,4
+worksheet,van,5,4,3
+worksheet,van,6,4,5
+worksheet,van,7,4,3
+worksheet,van,8,4,3
+worksheet,van,9,4,4
+worksheet,van,10,4,4
+worksheet,van,11,4,3
+worksheet,van,12,4,3
+worksheet,van,13,4,4
+worksheet,van,14,4,3
+worksheet,van,1,5,4
+worksheet,van,2,5,3
+worksheet,van,3,5,2
+worksheet,van,4,5,3
+worksheet,van,5,5,3
+worksheet,van,6,5,4
+worksheet,van,7,5,2
+worksheet,van,8,5,2
+worksheet,van,9,5,3
+worksheet,van,10,5,4
+worksheet,van,11,5,2
+worksheet,van,12,5,3
+worksheet,van,13,5,4
+worksheet,van,14,5,2
+worksheet,van,1,6,3
+worksheet,van,2,6,2
+worksheet,van,3,6,2
+worksheet,van,4,6,3
+worksheet,van,5,6,2
+worksheet,van,6,6,3
+worksheet,van,7,6,2
+worksheet,van,8,6,2
+worksheet,van,9,6,2
+worksheet,van,10,6,3
+worksheet,van,11,6,2
+worksheet,van,12,6,2
+worksheet,van,13,6,3
+worksheet,van,14,6,2
+worksheet,voyage,1,3,2
+worksheet,voyage,2,3,4
+worksheet,voyage,3,3,4
+worksheet,voyage,4,3,3
+worksheet,voyage,5,3,4
+worksheet,voyage,6,3,3
+worksheet,voyage,7,3,4
+worksheet,voyage,8,3,5
+worksheet,voyage,9,3,4
+worksheet,voyage,10,3,3
+worksheet,voyage,11,3,5
+worksheet,voyage,12,3,2
+worksheet,voyage,13,3,5
+worksheet,voyage,14,3,3
+worksheet,voyage,15,3,4
+worksheet,voyage,1,4,2
+worksheet,voyage,2,4,3
+worksheet,voyage,3,4,3
+worksheet,voyage,4,4,3
+worksheet,voyage,5,4,3
+worksheet,voyage,6,4,3
+worksheet,voyage,7,4,3
+worksheet,voyage,8,4,4
+worksheet,voyage,9,4,4
+worksheet,voyage,10,4,3
+worksheet,voyage,11,4,4
+worksheet,voyage,12,4,2
+worksheet,voyage,13,4,4
+worksheet,voyage,14,4,2
+worksheet,voyage,15,4,3
+worksheet,voyage,1,5,1
+worksheet,voyage,2,5,2
+worksheet,voyage,3,5,2
+worksheet,voyage,4,5,3
+worksheet,voyage,5,5,3
+worksheet,voyage,6,5,2
+worksheet,voyage,7,5,2
+worksheet,voyage,8,5,3
+worksheet,voyage,9,5,3
+worksheet,voyage,10,5,3
+worksheet,voyage,11,5,3
+worksheet,voyage,12,5,2
+worksheet,voyage,13,5,4
+worksheet,voyage,14,5,2
+worksheet,voyage,15,5,3
+worksheet,voyage,1,6,1
+worksheet,voyage,2,6,2
+worksheet,voyage,3,6,2
+worksheet,voyage,4,6,2
+worksheet,voyage,5,6,2
+worksheet,voyage,6,6,1
+worksheet,voyage,7,6,2
+worksheet,voyage,8,6,2
+worksheet,voyage,9,6,3
+worksheet,voyage,10,6,2
+worksheet,voyage,11,6,3
+worksheet,voyage,12,6,1
+worksheet,voyage,13,6,3
+worksheet,voyage,14,6,1
+worksheet,voyage,15,6,2
+worksheet,war of the worlds,1,3,5
+worksheet,war of the worlds,2,3,4
+worksheet,war of the worlds,3,3,5
+worksheet,war of the worlds,4,3,5
+worksheet,war of the worlds,5,3,3
+worksheet,war of the worlds,6,3,4
+worksheet,war of the worlds,7,3,4
+worksheet,war of the worlds,8,3,5
+worksheet,war of the worlds,9,3,5
+worksheet,war of the worlds,10,3,4
+worksheet,war of the worlds,11,3,4
+worksheet,war of the worlds,12,3,3
+worksheet,war of the worlds,14,3,4
+worksheet,war of the worlds,15,3,5
+worksheet,war of the worlds,1,4,5
+worksheet,war of the worlds,2,4,4
+worksheet,war of the worlds,3,4,4
+worksheet,war of the worlds,4,4,5
+worksheet,war of the worlds,5,4,3
+worksheet,war of the worlds,6,4,4
+worksheet,war of the worlds,7,4,4
+worksheet,war of the worlds,8,4,5
+worksheet,war of the worlds,9,4,5
+worksheet,war of the worlds,10,4,4
+worksheet,war of the worlds,11,4,4
+worksheet,war of the worlds,12,4,3
+worksheet,war of the worlds,14,4,4
+worksheet,war of the worlds,15,4,5
+worksheet,war of the worlds,1,5,4
+worksheet,war of the worlds,2,5,3
+worksheet,war of the worlds,3,5,3
+worksheet,war of the worlds,4,5,4
+worksheet,war of the worlds,5,5,2
+worksheet,war of the worlds,6,5,3
+worksheet,war of the worlds,7,5,3
+worksheet,war of the worlds,8,5,4
+worksheet,war of the worlds,9,5,4
+worksheet,war of the worlds,10,5,3
+worksheet,war of the worlds,11,5,3
+worksheet,war of the worlds,12,5,3
+worksheet,war of the worlds,14,5,3
+worksheet,war of the worlds,15,5,4
+worksheet,war of the worlds,1,6,3
+worksheet,war of the worlds,2,6,2
+worksheet,war of the worlds,3,6,2
+worksheet,war of the worlds,4,6,3
+worksheet,war of the worlds,5,6,2
+worksheet,war of the worlds,6,6,2
+worksheet,war of the worlds,7,6,2
+worksheet,war of the worlds,8,6,3
+worksheet,war of the worlds,9,6,3
+worksheet,war of the worlds,10,6,2
+worksheet,war of the worlds,11,6,2
+worksheet,war of the worlds,12,6,2
+worksheet,war of the worlds,14,6,2
+worksheet,war of the worlds,15,6,4
+worksheet,when u r old,1,3,5
+worksheet,when u r old,2,3,4
+worksheet,when u r old,3,3,4
+worksheet,when u r old,4,3,5
+worksheet,when u r old,5,3,5
+worksheet,when u r old,6,3,5
+worksheet,when u r old,7,3,5
+worksheet,when u r old,8,3,5
+worksheet,when u r old,9,3,4
+worksheet,when u r old,10,3,5
+worksheet,when u r old,11,3,5
+worksheet,when u r old,12,3,5
+worksheet,when u r old,13,3,4
+worksheet,when u r old,14,3,5
+worksheet,when u r old,15,3,5
+worksheet,when u r old,16,3,4
+worksheet,when u r old,17,3,5
+worksheet,when u r old,1,4,4
+worksheet,when u r old,2,4,4
+worksheet,when u r old,3,4,4
+worksheet,when u r old,4,4,4
+worksheet,when u r old,5,4,5
+worksheet,when u r old,6,4,5
+worksheet,when u r old,7,4,5
+worksheet,when u r old,8,4,5
+worksheet,when u r old,9,4,4
+worksheet,when u r old,10,4,4
+worksheet,when u r old,11,4,5
+worksheet,when u r old,12,4,5
+worksheet,when u r old,13,4,4
+worksheet,when u r old,14,4,5
+worksheet,when u r old,15,4,4
+worksheet,when u r old,16,4,4
+worksheet,when u r old,17,4,5
+worksheet,when u r old,1,5,4
+worksheet,when u r old,2,5,3
+worksheet,when u r old,3,5,3
+worksheet,when u r old,4,5,4
+worksheet,when u r old,5,5,4
+worksheet,when u r old,6,5,4
+worksheet,when u r old,7,5,4
+worksheet,when u r old,8,5,5
+worksheet,when u r old,9,5,3
+worksheet,when u r old,10,5,4
+worksheet,when u r old,11,5,4
+worksheet,when u r old,12,5,4
+worksheet,when u r old,13,5,3
+worksheet,when u r old,14,5,4
+worksheet,when u r old,15,5,3
+worksheet,when u r old,16,5,3
+worksheet,when u r old,17,5,4
+worksheet,when u r old,1,6,3
+worksheet,when u r old,2,6,3
+worksheet,when u r old,3,6,2
+worksheet,when u r old,4,6,3
+worksheet,when u r old,5,6,3
+worksheet,when u r old,6,6,4
+worksheet,when u r old,7,6,4
+worksheet,when u r old,8,6,4
+worksheet,when u r old,9,6,2
+worksheet,when u r old,10,6,3
+worksheet,when u r old,11,6,3
+worksheet,when u r old,12,6,3
+worksheet,when u r old,13,6,2
+worksheet,when u r old,14,6,3
+worksheet,when u r old,15,6,3
+worksheet,when u r old,16,6,3
+worksheet,when u r old,17,6,3
+worksheet,wind in the willows,1,3,5
+worksheet,wind in the willows,2,3,4
+worksheet,wind in the willows,3,3,5
+worksheet,wind in the willows,4,3,5
+worksheet,wind in the willows,5,3,5
+worksheet,wind in the willows,6,3,5
+worksheet,wind in the willows,7,3,3
+worksheet,wind in the willows,8,3,5
+worksheet,wind in the willows,9,3,4
+worksheet,wind in the willows,10,3,5
+worksheet,wind in the willows,11,3,5
+worksheet,wind in the willows,12,3,5
+worksheet,wind in the willows,13,3,5
+worksheet,wind in the willows,14,3,4
+worksheet,wind in the willows,15,3,5
+worksheet,wind in the willows,1,4,4
+worksheet,wind in the willows,2,4,3
+worksheet,wind in the willows,3,4,5
+worksheet,wind in the willows,4,4,4
+worksheet,wind in the willows,5,4,5
+worksheet,wind in the willows,6,4,5
+worksheet,wind in the willows,7,4,3
+worksheet,wind in the willows,8,4,4
+worksheet,wind in the willows,9,4,4
+worksheet,wind in the willows,10,4,4
+worksheet,wind in the willows,11,4,4
+worksheet,wind in the willows,12,4,4
+worksheet,wind in the willows,13,4,4
+worksheet,wind in the willows,14,4,4
+worksheet,wind in the willows,15,4,4
+worksheet,wind in the willows,1,5,3
+worksheet,wind in the willows,2,5,3
+worksheet,wind in the willows,3,5,4
+worksheet,wind in the willows,4,5,4
+worksheet,wind in the willows,5,5,4
+worksheet,wind in the willows,6,5,4
+worksheet,wind in the willows,7,5,2
+worksheet,wind in the willows,8,5,3
+worksheet,wind in the willows,9,5,3
+worksheet,wind in the willows,10,5,3
+worksheet,wind in the willows,11,5,3
+worksheet,wind in the willows,12,5,3
+worksheet,wind in the willows,13,5,3
+worksheet,wind in the willows,14,5,3
+worksheet,wind in the willows,15,5,3
+worksheet,wind in the willows,1,6,2
+worksheet,wind in the willows,2,6,2
+worksheet,wind in the willows,3,6,3
+worksheet,wind in the willows,4,6,3
+worksheet,wind in the willows,5,6,3
+worksheet,wind in the willows,6,6,3
+worksheet,wind in the willows,7,6,1
+worksheet,wind in the willows,8,6,2
+worksheet,wind in the willows,9,6,2
+worksheet,wind in the willows,10,6,2
+worksheet,wind in the willows,11,6,2
+worksheet,wind in the willows,12,6,2
+worksheet,wind in the willows,13,6,2
+worksheet,wind in the willows,14,6,2
+worksheet,wind in the willows,15,6,2
+worksheet,wizard,1,3,2
+worksheet,wizard,2,3,2
+worksheet,wizard,3,3,3
+worksheet,wizard,4,3,3
+worksheet,wizard,5,3,2
+worksheet,wizard,6,3,4
+worksheet,wizard,7,3,4
+worksheet,wizard,8,3,3
+worksheet,wizard,9,3,4
+worksheet,wizard,10,3,4
+worksheet,wizard,11,3,5
+worksheet,wizard,12,3,3
+worksheet,wizard,13,3,2
+worksheet,wizard,1,4,2
+worksheet,wizard,2,4,2
+worksheet,wizard,3,4,2
+worksheet,wizard,4,4,3
+worksheet,wizard,5,4,2
+worksheet,wizard,6,4,4
+worksheet,wizard,7,4,3
+worksheet,wizard,8,4,3
+worksheet,wizard,9,4,3
+worksheet,wizard,10,4,4
+worksheet,wizard,11,4,4
+worksheet,wizard,12,4,3
+worksheet,wizard,13,4,2
+worksheet,wizard,1,5,1
+worksheet,wizard,2,5,1
+worksheet,wizard,3,5,2
+worksheet,wizard,4,5,2
+worksheet,wizard,5,5,2
+worksheet,wizard,6,5,3
+worksheet,wizard,7,5,3
+worksheet,wizard,8,5,2
+worksheet,wizard,9,5,3
+worksheet,wizard,10,5,3
+worksheet,wizard,11,5,4
+worksheet,wizard,12,5,2
+worksheet,wizard,13,5,2
+worksheet,wizard,1,6,1
+worksheet,wizard,2,6,1
+worksheet,wizard,3,6,1
+worksheet,wizard,4,6,1
+worksheet,wizard,5,6,1
+worksheet,wizard,6,6,3
+worksheet,wizard,7,6,2
+worksheet,wizard,8,6,2
+worksheet,wizard,9,6,3
+worksheet,wizard,10,6,2
+worksheet,wizard,11,6,3
+worksheet,wizard,12,6,2
+worksheet,wizard,13,6,1

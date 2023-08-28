@@ -1,0 +1,7 @@
+Id,Type,Meaning
+1,M,Factual recall: there is a sentence that basically tells them the answer directly
+2,H,Inference: they will have to infer information from the text
+3,T/F,"True or false question, which will require other techniques e.g. factual recall/inference to answer"
+4,P,Purpose: understanding why the author writes something a certain way
+5,G,"Grammar: questions testing spelling, punctuation or grammar skills"
+6,V,Vocabualry: questions testing vocabulary knowledge

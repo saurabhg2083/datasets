@@ -1,0 +1,281 @@
+Id,Source,PassageName,Grade,VocabularyAndLanguageComplexity,SentenceStructure,ThemesAndContent,Overall
+1,worksheet,1984,3,Extremely Difficult,Extremely Difficult,Extremely Difficult,Extremely Difficult
+2,worksheet,1984,4,Difficult,Difficult,Difficult,Difficult
+3,worksheet,1984,5,Challenging,Challenging,Difficult,Challenging
+4,worksheet,1984,6,Moderate,Challenging,Challenging,Challenging
+5,worksheet,alice,3,Difficult,Difficult,Challenging,Difficult
+6,worksheet,alice,4,Challenging,Challenging,Moderate,Challenging
+7,worksheet,alice,5,Moderate,Moderate,Moderate,Moderate
+8,worksheet,alice,6,Easy,Moderate,Easy,Moderate
+9,worksheet,anne,3,Challenging,Challenging,Moderate,Challenging
+10,worksheet,anne,4,Moderate,Moderate,Moderate,Moderate
+11,worksheet,anne,5,Moderate,Moderate,Easy,Moderate
+12,worksheet,anne,6,Easy,Easy,Easy,Easy
+13,worksheet,baskervilles,3,Difficult,Difficult,Difficult,Difficult
+14,worksheet,baskervilles,4,Challenging,Challenging,Challenging,Challenging
+15,worksheet,baskervilles,5,Moderate,Moderate,Challenging,Challenging
+16,worksheet,baskervilles,6,Moderate,Moderate,Moderate,Moderate
+17,worksheet,black beauty,3,Challenging,Challenging,Moderate,Challenging
+18,worksheet,black beauty,4,Moderate,Moderate,Moderate,Moderate
+19,worksheet,black beauty,5,Moderate,Moderate,Easy,Moderate
+20,worksheet,black beauty,6,Easy,Easy,Easy,Easy
+21,worksheet,brazilian,3,Difficult,Difficult,Difficult,Difficult
+22,worksheet,brazilian,4,Challenging,Challenging,Difficult,Challenging
+23,worksheet,brazilian,5,Moderate,Challenging,Challenging,Challenging
+24,worksheet,brazilian,6,Moderate,Moderate,Challenging,Moderate
+25,worksheet,charlottes,3,Challenging,Challenging,Moderate,Challenging
+26,worksheet,charlottes,4,Moderate,Moderate,Moderate,Moderate
+27,worksheet,charlottes,5,Moderate,Moderate,Easy,Moderate
+28,worksheet,charlottes,6,Easy,Easy,Easy,Easy
+29,worksheet,court life,3,Difficult,Difficult,Extremely Difficult,Difficult
+30,worksheet,court life,4,Challenging,Challenging,Extremely Difficult,Challenging
+31,worksheet,court life,5,Challenging,Moderate,Difficult,Challenging
+32,worksheet,court life,6,Moderate,Moderate,Difficult,Moderate
+33,worksheet,DORIAN,3,Extremely Difficult,Extremely Difficult,Extremely Difficult,Extremely Difficult
+34,worksheet,DORIAN,4,Extremely Difficult,Extremely Difficult,Extremely Difficult,Extremely Difficult
+35,worksheet,DORIAN,5,Difficult,Difficult,Difficult,Difficult
+36,worksheet,DORIAN,6,Difficult,Challenging,Difficult,Difficult
+37,worksheet,dreams of a giant life,3,Challenging,Challenging,Challenging,Challenging
+38,worksheet,dreams of a giant life,4,Moderate,Moderate,Moderate,Moderate
+39,worksheet,dreams of a giant life,5,Moderate,Moderate,Moderate,Moderate
+40,worksheet,dreams of a giant life,6,Easy,Easy,Easy,Easy
+41,worksheet,economics,3,Difficult,Difficult,Challenging,Difficult
+42,worksheet,economics,4,Challenging,Challenging,Challenging,Challenging
+43,worksheet,economics,5,Moderate,Moderate,Moderate,Moderate
+44,worksheet,economics,6,Moderate,Moderate,Moderate,Moderate
+45,worksheet,fauntleroy,3,Challenging,Challenging,Moderate,Challenging
+46,worksheet,fauntleroy,4,Moderate,Moderate,Moderate,Moderate
+47,worksheet,fauntleroy,5,Moderate,Moderate,Easy,Moderate
+48,worksheet,fauntleroy,6,Easy,Moderate,Easy,Easy
+49,worksheet,frankenstein,3,Extremely Difficult,Extremely Difficult,Extremely Difficult,Extremely Difficult
+50,worksheet,frankenstein,4,Difficult,Difficult,Difficult,Difficult
+51,worksheet,frankenstein,5,Challenging,Challenging,Difficult,Challenging
+52,worksheet,frankenstein,6,Moderate,Moderate,Challenging,Challenging
+53,worksheet,friendship,3,Extremely Difficult,Extremely Difficult,Extremely Difficult,Extremely Difficult
+54,worksheet,friendship,4,Difficult,Difficult,Difficult,Difficult
+55,worksheet,friendship,5,Challenging,Challenging,Challenging,Challenging
+56,worksheet,friendship,6,Moderate,Moderate,Moderate,Moderate
+57,worksheet,frost,3,N/A,N/A,N/A,Extremely Difficult
+58,worksheet,frost,4,N/A,N/A,N/A,Extremely Difficult
+59,worksheet,frost,5,N/A,N/A,N/A,Extremely Difficult
+60,worksheet,frost,6,N/A,N/A,N/A,Extremely Difficult
+61,worksheet,gatsby,3,Extremely Difficult,Extremely Difficult,Difficult,Extremely Difficult
+62,worksheet,gatsby,4,Difficult,Challenging,Difficult,Difficult
+63,worksheet,gatsby,5,Difficult,Challenging,Moderate,Challenging
+64,worksheet,gatsby,6,Moderate,Moderate,Moderate,Moderate
+65,worksheet,gibson,3,Difficult,Difficult,Challenging,Difficult
+66,worksheet,gibson,4,Challenging,Challenging,Moderate,Challenging
+67,worksheet,gibson,5,Moderate,Moderate,Moderate,Moderate
+68,worksheet,gibson,6,Moderate,Moderate,Easy,Moderate
+69,worksheet,growth,3,Difficult,Difficult,Difficult,Difficult
+70,worksheet,growth,4,Challenging,Challenging,Challenging,Challenging
+71,worksheet,growth,5,Moderate,Moderate,Moderate,Moderate
+72,worksheet,growth,6,Moderate,Moderate,Easy,Moderate
+73,worksheet,gulliver,3,Difficult,Difficult,Challenging,Difficult
+74,worksheet,gulliver,4,Challenging,Challenging,Moderate,Challenging
+75,worksheet,gulliver,5,Moderate,Moderate,Moderate,Moderate
+76,worksheet,gulliver,6,Moderate,Moderate,Easy,Moderate
+77,worksheet,homing pigeon,3,Difficult,Difficult,Challenging,Difficult
+78,worksheet,homing pigeon,4,Challenging,Challenging,Moderate,Challenging
+79,worksheet,homing pigeon,5,Moderate,Moderate,Moderate,Moderate
+80,worksheet,homing pigeon,6,Moderate,Moderate,Easy,Moderate
+81,worksheet,honeybees,3,Challenging,Challenging,Moderate,Challenging
+82,worksheet,honeybees,4,Moderate,Moderate,Moderate,Moderate
+83,worksheet,honeybees,5,Moderate,Moderate,Moderate,Moderate
+84,worksheet,honeybees,6,Moderate,Moderate,Easy,Moderate
+85,worksheet,huck,3,Difficult,Difficult,Extremely Difficult,Extremely Difficult
+86,worksheet,huck,4,Challenging,Challenging,Extremely Difficult,Extremely Difficult
+87,worksheet,huck,5,Moderate,Moderate,Difficult,Challenging
+88,worksheet,huck,6,Moderate,Moderate,Challenging,Moderate
+89,worksheet,i have a dream,3,Difficult,Difficult,Difficult,Difficult
+90,worksheet,i have a dream,4,Challenging,Challenging,Challenging,Challenging
+91,worksheet,i have a dream,5,Moderate,Moderate,Moderate,Moderate
+92,worksheet,i have a dream,6,Moderate,Moderate,Moderate,Moderate
+93,worksheet,jabberwocky,3,Difficult,Difficult,Challenging,Difficult
+94,worksheet,jabberwocky,4,Challenging,Difficult,Challenging,Challenging
+95,worksheet,jabberwocky,5,Challenging,Moderate,Moderate,Moderate
+96,worksheet,jabberwocky,6,Moderate,Moderate,Moderate,Moderate
+97,worksheet,JANE EYRE,3,Difficult,Difficult,Difficult,Difficult
+98,worksheet,JANE EYRE,4,Challenging,Challenging,Challenging,Challenging
+99,worksheet,JANE EYRE,5,Moderate,Moderate,Moderate,Moderate
+100,worksheet,JANE EYRE,6,Moderate,Moderate,Moderate,Moderate
+101,worksheet,jekyll,3,Extremely Difficult,Extremely Difficult,Extremely Difficult,Extremely Difficult
+102,worksheet,jekyll,4,Extremely Difficult,Extremely Difficult,Difficult,Extremely Difficult
+103,worksheet,jekyll,5,Difficult,Difficult,Difficult,Difficult
+104,worksheet,jekyll,6,Difficult,Challenging,Challenging,Difficult
+105,worksheet,lion,3,Challenging,Challenging,Moderate,Challenging
+106,worksheet,lion,4,Moderate,Moderate,Moderate,Moderate
+107,worksheet,lion,5,Moderate,Moderate,Easy,Moderate
+108,worksheet,lion,6,Easy,Easy,Easy,Easy
+109,worksheet,little women,3,Difficult,Difficult,Difficult,Difficult
+110,worksheet,little women,4,Challenging,Challenging,Challenging,Challenging
+111,worksheet,little women,5,Moderate,Moderate,Challenging,Moderate
+112,worksheet,little women,6,Moderate,Moderate,Moderate,Moderate
+113,worksheet,lochinvar,3,Difficult,Difficult,Difficult,Difficult
+114,worksheet,lochinvar,4,Challenging,Challenging,Challenging,Challenging
+115,worksheet,lochinvar,5,Moderate,Moderate,Moderate,Moderate
+116,worksheet,lochinvar,6,Moderate,Moderate,Moderate,Moderate
+117,worksheet,lost_in_the_woods,3,Difficult,Difficult,Moderate,Difficult
+118,worksheet,lost_in_the_woods,4,Challenging,Challenging,Moderate,Challenging
+119,worksheet,lost_in_the_woods,5,Moderate,Moderate,Easy,Moderate
+120,worksheet,lost_in_the_woods,6,Moderate,Easy,Easy,Easy
+121,worksheet,lost treasure,3,Challenging,Moderate,Moderate,Moderate
+122,worksheet,lost treasure,4,Moderate,Moderate,Moderate,Moderate
+123,worksheet,lost treasure,5,Moderate,Moderate,Easy,Moderate
+124,worksheet,lost treasure,6,Easy,Easy,Easy,Easy
+125,worksheet,magic city,3,Challenging,Challenging,Moderate,Challenging
+126,worksheet,magic city,4,Moderate,Moderate,Moderate,Moderate
+127,worksheet,magic city,5,Moderate,Moderate,Easy,Moderate
+128,worksheet,magic city,6,Easy,Easy,Easy,Easy
+129,worksheet,marathon,3,Difficult,Difficult,Challenging,Difficult
+130,worksheet,marathon,4,Challenging,Challenging,Moderate,Challenging
+131,worksheet,marathon,5,Moderate,Moderate,Moderate,Moderate
+132,worksheet,marathon,6,Moderate,Moderate,Easy,Moderate
+133,worksheet,matilda,3,Difficult,Difficult,Moderate,Difficult
+134,worksheet,matilda,4,Challenging,Challenging,Moderate,Challenging
+135,worksheet,matilda,5,Challenging,Moderate,Moderate,Challenging
+136,worksheet,matilda,6,Moderate,Moderate,Moderate,Moderate
+137,worksheet,meg,3,Difficult,Difficult,Difficult,Difficult
+138,worksheet,meg,4,Challenging,Challenging,Challenging,Challenging
+139,worksheet,meg,5,Moderate,Moderate,Challenging,Moderate
+140,worksheet,meg,6,Moderate,Moderate,Moderate,Moderate
+141,worksheet,northern_lights,3,Difficult,Difficult,Difficult,Difficult
+142,worksheet,northern_lights,4,Challenging,Challenging,Challenging,Challenging
+143,worksheet,northern_lights,5,Moderate,Challenging,Moderate,Challenging
+144,worksheet,northern_lights,6,Moderate,Moderate,Moderate,Moderate
+145,worksheet,nothing gold,3,Challenging,Moderate,Difficult,Difficult
+146,worksheet,nothing gold,4,Moderate,Moderate,Difficult,Challenging
+147,worksheet,nothing gold,5,Moderate,Moderate,Challenging,Challenging
+148,worksheet,nothing gold,6,Moderate,Moderate,Moderately Difficult,Moderate
+149,worksheet,NOTRE DAME,3,Difficult,Difficult,Difficult,Difficult
+150,worksheet,NOTRE DAME,4,Difficult,Challenging,Challenging,Challenging
+151,worksheet,NOTRE DAME,5,Challenging,Moderate,Moderate,Challenging
+152,worksheet,NOTRE DAME,6,Moderate,Moderate,Moderate,Moderate
+153,worksheet,oliver twist -master,3,Difficult,Difficult,Difficult,Difficult
+154,worksheet,oliver twist -master,4,Challenging,Difficult,Challenging,Challenging
+155,worksheet,oliver twist -master,5,Challenging,Challenging,Moderate,Challenging
+156,worksheet,oliver twist -master,6,Moderate,Moderate,Moderate,Moderate
+157,worksheet,oliver twist -room,3,Difficult,Difficult,Challenging,Difficult
+158,worksheet,oliver twist -room,4,Challenging,Challenging,Moderate,Challenging
+159,worksheet,oliver twist -room,5,Moderate,Moderate,Moderate,Moderate
+160,worksheet,oliver twist -room,6,Moderate,Moderate,Easy,Moderate
+161,worksheet,patagonia,3,Difficult,Difficult,Challenging,Difficult
+162,worksheet,patagonia,4,Challenging,Challenging,Moderate,Challenging
+163,worksheet,patagonia,5,Moderate,Moderate,Moderate,Moderate
+164,worksheet,patagonia,6,Moderate,Moderate,Easy,Moderate
+165,worksheet,peter,3,Challenging,Challenging,Moderate,Challenging
+166,worksheet,peter,4,Moderate,Moderate,Moderate,Moderate
+167,worksheet,peter,5,Moderate,Moderate,Easy,Moderate
+168,worksheet,peter,6,Easy,Moderate,Easy,Moderate
+169,worksheet,POLLYANNA,3,Difficult,Difficult,Moderate,Difficult
+170,worksheet,POLLYANNA,4,Challenging,Challenging,Moderate,Challenging
+171,worksheet,POLLYANNA,5,Moderate,Moderate,Easy,Moderate
+172,worksheet,POLLYANNA,6,Moderate,Easy,Easy,Easy
+173,worksheet,rebecca,3,Difficult,Difficult,Moderate,Difficult
+174,worksheet,rebecca,4,Challenging,Challenging,Moderate,Challenging
+175,worksheet,rebecca,5,Moderate,Moderate,Moderate,Moderate
+176,worksheet,rebecca,6,Moderate,Moderate,Easy,Moderate
+177,worksheet,sea fever,3,Challenging,Challenging,Moderate,Challenging
+178,worksheet,sea fever,4,Moderate,Moderate,Moderate,Moderate
+179,worksheet,sea fever,5,Moderate,Moderate,Easy,Moderate
+180,worksheet,sea fever,6,Easy,Easy,Easy,Easy
+181,worksheet,secret garden,3,Difficult,Challenging,Moderate,Challenging
+182,worksheet,secret garden,4,Challenging,Moderate,Moderate,Moderate
+183,worksheet,secret garden,5,Moderate,Moderate,Easy,Moderate
+184,worksheet,secret garden,6,Moderate,Easy,Easy,Easy
+185,worksheet,sense,3,Difficult,Difficult,Difficult,Difficult
+186,worksheet,sense,4,Challenging,Challenging,Challenging,Challenging
+187,worksheet,sense,5,Moderate,Moderate,Moderate,Moderate
+188,worksheet,sense,6,Moderate,Moderate,Moderate,Moderate
+189,worksheet,shiba,3,Challenging,Moderate,Moderate,Moderate
+190,worksheet,shiba,4,Moderate,Moderate,Moderate,Moderate
+191,worksheet,shiba,5,Moderate,Moderate,Easy,Moderate
+192,worksheet,shiba,6,Easy,Easy,Easy,Easy
+193,worksheet,snowy river,3,Difficult,Difficult,Difficult,Difficult
+194,worksheet,snowy river,4,Challenging,Challenging,Challenging,Challenging
+195,worksheet,snowy river,5,Moderate,Moderate,Moderate,Moderate
+196,worksheet,snowy river,6,Moderate,Moderate,Moderate,Moderate
+197,worksheet,sonnet 18,3,Extremely Difficult,Extremely Difficult,Extremely Difficult,Extremely Difficult
+198,worksheet,sonnet 18,4,Difficult,Difficult,Difficult,Difficult
+199,worksheet,sonnet 18,5,Difficult,Challenging,Challenging,Challenging
+200,worksheet,sonnet 18,6,Challenging,Moderate,Moderate,Moderate
+201,worksheet,stopping by,3,Challenging,Moderate,Challenging,Challenging
+202,worksheet,stopping by,4,Moderate,Moderate,Moderate,Moderate
+203,worksheet,stopping by,5,Moderate,Easy,Moderate,Moderate
+204,worksheet,stopping by,6,Easy,Easy,Moderate,Easy
+205,worksheet,this is going to hurt,3,Difficult,Difficult,Difficult,Difficult
+206,worksheet,this is going to hurt,4,Challenging,Challenging,Challenging,Challenging
+207,worksheet,this is going to hurt,5,Moderate,Moderate,Challenging,Moderate
+208,worksheet,this is going to hurt,6,Moderate,Moderate,Moderate,Moderate
+209,worksheet,tom sawyer,3,Challenging,Challenging,Moderate,Challenging
+210,worksheet,tom sawyer,4,Moderate,Moderate,Moderate,Moderate
+211,worksheet,tom sawyer,5,Moderate,Moderate,Easy,Moderate
+212,worksheet,tom sawyer,6,Easy,Easy,Easy,Easy
+213,worksheet,treasure island,3,Difficult,Difficult,Difficult,Difficult
+214,worksheet,treasure island,4,Challenging,Challenging,Challenging,Challenging
+215,worksheet,treasure island,5,Moderate,Moderate,Moderate,Moderate
+216,worksheet,treasure island,6,Moderate,Moderate,Moderate,Moderate
+217,worksheet,tyger,3,Difficult,Difficult,Difficult,Difficult
+218,worksheet,tyger,4,Challenging,Challenging,Challenging,Challenging
+219,worksheet,tyger,5,Moderate,Moderate,Challenging,Moderate
+220,worksheet,tyger,6,Moderate,Moderate,Moderate,Moderate
+221,worksheet,umami,3,Difficult,Challenging,Challenging,Challenging
+222,worksheet,umami,4,Challenging,Moderate,Moderate,Moderate
+223,worksheet,umami,5,Moderate,Moderate,Moderate,Moderate
+224,worksheet,umami,6,Moderate,Easy,Easy,Easy
+225,worksheet,van,3,Challenging,Challenging,Moderate,Challenging
+226,worksheet,van,4,Moderate,Moderate,Moderate,Moderate
+227,worksheet,van,5,Moderate,Moderate,Easy,Moderate
+228,worksheet,van,6,Moderate,Easy,Easy,Easy
+229,worksheet,voyage,3,Difficult,Difficult,Difficult,Difficult
+230,worksheet,voyage,4,Challenging,Difficult,Challenging,Challenging
+231,worksheet,voyage,5,Moderate,Challenging,Moderate,Moderate
+232,worksheet,voyage,6,Moderate,Moderate,Moderate,Moderate
+233,worksheet,war of the worlds,3,Difficult,Difficult,Challenging,Difficult
+234,worksheet,war of the worlds,4,Difficult,Challenging,Challenging,Difficult
+235,worksheet,war of the worlds,5,Challenging,Challenging,Moderate,Challenging
+236,worksheet,war of the worlds,6,Challenging,Moderate,Moderate,Moderate
+237,worksheet,when u r old,3,Difficult,Difficult,Difficult,Difficult
+238,worksheet,when u r old,4,Challenging,Challenging,Challenging,Challenging
+239,worksheet,when u r old,5,Moderate,Moderate,Moderate,Moderate
+240,worksheet,when u r old,6,Moderate,Moderate,Moderate,Moderate
+241,worksheet,wind in the willows,3,Difficult,Difficult,Difficult,Difficult
+242,worksheet,wind in the willows,4,Challenging,Challenging,Challenging,Challenging
+243,worksheet,wind in the willows,5,Moderate,Moderate,Moderate,Moderate
+244,worksheet,wind in the willows,6,Moderate,Moderate,Moderate,Moderate
+245,worksheet,wizard,3,Challenging,Moderate,Challenging,Challenging
+246,worksheet,wizard,4,Moderate,Moderate,Moderate,Moderate
+247,worksheet,wizard,5,Moderate,Moderate,Easy,Moderate
+248,worksheet,wizard,6,Easy,Easy,Easy,Easy
+249,mocktest,the hobbit,3,Difficult,Difficult,Challenging,Difficult
+250,mocktest,the hobbit,4,Challenging,Challenging,Moderate,Challenging
+251,mocktest,the hobbit,5,Moderate,Moderate,Moderate,Moderate
+252,mocktest,the hobbit,6,Moderate,Moderate,Easy,Moderate
+253,mocktest,metamorphosis,3,Difficult,Difficult,Extremely Difficult,Difficult
+254,mocktest,metamorphosis,4,Challenging,Challenging,Difficult,Challenging
+255,mocktest,metamorphosis,5,Challenging,Moderate,Challenging,Challenging
+256,mocktest,metamorphosis,6,Moderate,Moderate,Moderate,Moderate
+257,mocktest,notre-dame,3,Extremely Difficult,Extremely Difficult,Extremely Difficult,Extremely Difficult
+258,mocktest,notre-dame,4,Extremely Difficult,Difficult,Difficult,Difficult
+259,mocktest,notre-dame,5,Difficult,Difficult,Moderate,Difficult
+260,mocktest,notre-dame,6,Moderate,Moderate,Moderate,Moderate
+261,mocktest,sleepy hollow,3,Difficult,Difficult,Challenging,Difficult
+262,mocktest,sleepy hollow,4,Challenging,Challenging,Moderate,Challenging
+263,mocktest,sleepy hollow,5,Moderate,Challenging,Moderate,Moderate
+264,mocktest,sleepy hollow,6,Moderate,Moderate,Moderate,Moderate
+265,mocktest,those winter,3,Challenging,Challenging,Difficult,Challenging
+266,mocktest,those winter,4,Moderate,Moderate,Challenging,Moderate
+267,mocktest,those winter,5,Moderate,Moderate,Moderate,Moderate
+268,mocktest,those winter,6,Easy,Easy,Moderate,Easy
+269,mocktest,JANE EYRE,3,Difficult,Difficult,Difficult,Difficult
+270,mocktest,JANE EYRE,4,Challenging,Challenging,Challenging,Challenging
+271,mocktest,JANE EYRE,5,Moderate,Moderate,Moderate,Moderate
+272,mocktest,JANE EYRE,6,Moderate,Moderate,Moderate,Moderate
+273,mocktest,DORIAN,3,Extremely Difficult,Extremely Difficult,Extremely Difficult,Extremely Difficult
+274,mocktest,DORIAN,4,Extremely Difficult,Extremely Difficult,Extremely Difficult,Extremely Difficult
+275,mocktest,DORIAN,5,Difficult,Difficult,Difficult,Difficult
+276,mocktest,DORIAN,6,Difficult,Challenging,Difficult,Difficult
+277,mocktest,dorian gray,3,Extremely Difficult,Extremely Difficult,Extremely Difficult,Extremely Difficult
+278,mocktest,dorian gray,4,Extremely Difficult,Extremely Difficult,Extremely Difficult,Extremely Difficult
+279,mocktest,dorian gray,5,Difficult,Difficult,Difficult,Difficult
+280,mocktest,dorian gray,6,Difficult,Challenging,Difficult,Difficult

@@ -1,0 +1,778 @@
+Id,Source,PassageName,QuestionId,QuestionText,QuestionDifficulty
+1,worksheet,1984,1,What time of the day is the story set?,2
+2,worksheet,1984,2,Which word best describes the wind outside?,3
+3,worksheet,1984,3,Which one of these statements is true?,2
+4,worksheet,1984,4,Why did Winston ignore the elevator?,2
+5,worksheet,1984,5,What direction do the posters on each floor face?,1
+6,worksheet,1984,6,Which one of these statements are false?,2
+7,worksheet,1984,7,What was the voice in Winstons flat speaking about?,2
+8,worksheet,1984,8,What word best replaces distinguishable on line 21?,3
+9,worksheet,1984,9,Which description best describes Winston?,3
+10,worksheet,1984,10,How does the description of the outside world affect the reader?,4
+11,worksheet,1984,11,What writing technique is commanding corner?,3
+12,worksheet,1984,12,What effect is created when the writer makes only the posters have colour?,4
+13,worksheet,1984,13,Why does the writer use the word babbling to describe the way the telescreen talks?,4
+14,worksheet,1984,14,"1984 was written in 1948. In a way, the last paragraph sounds like its been written recently. Explain why some things sound modern.",5
+15,worksheet,alice,1,How does Alice find holding the baby?,1
+16,worksheet,alice,2,The baby is described to keep doubling itself up and straightening itself out again (line X)? What does this show us about the babys movements?,2
+17,worksheet,alice,3,What did Alice first think of the baby after she figured out how to hold it?,1
+18,worksheet,alice,4,Why does Alice hold the baby by its right ear and left foot?,2
+19,worksheet,alice,5,"Before grunting, what noise did the baby make?",1
+20,worksheet,alice,6,Why does Alice tell the baby off for grunting?,2
+21,worksheet,alice,7,Why is the word very in italics? (line X)?,3
+22,worksheet,alice,8,What does Alice mean by Mind now! (line X)?,2
+23,worksheet,alice,9,What does it was neither more nor less than a pig (line X) mean?,1
+24,worksheet,alice,10,Why does Alice let the baby down?,1
+25,worksheet,alice,11,Why is I think (line X) used at the end of the sentence instead of the beginning?,4
+26,worksheet,alice,12,"According to the text, what does Alice think of children?",3
+27,worksheet,alice,13,Why is Cat capitalised? (line X)?,2
+28,worksheet,alice,14,How does Alice approach the cat?,2
+29,worksheet,alice,15,Why does Alice speak rather timidly to the Cheshire Cat?,2
+30,worksheet,alice,16,Which word best describes the Cheshire Cat?,3
+31,worksheet,alice,17,Why is a hyphen used at the end of Alices speech in line X?,4
+32,worksheet,alice,18,Then it doesnt matter where you go. Why does the Cat say this?,3
+33,worksheet,anne,1,Who should've been sowing turnip seed on the big red brook field?,2
+34,worksheet,anne,2,Describe Matthew Cuthbert's journey to Bright River.,4
+35,worksheet,anne,3,What did the girl at the train station do when instructed to go into the ladies waiting room?,3
+36,worksheet,anne,4,Who did Matthew Cuthbert initially expect to meet at the train station?,1
+37,worksheet,anne,5,What was Matthew's reaction to the mix-up at the train station?,3
+38,worksheet,anne,6,How would you describe the stationmaster's attitude towards the situation?,4
+39,worksheet,anne,7,Why was Matthew Cuthbert uncomfortable approaching the girl at the train station?,5
+40,worksheet,anne,8,What does 'scope for imagination' mean in the context it was used?,4
+41,worksheet,anne,9,How does the author portray the character of Matthew Cuthbert?,5
+42,worksheet,anne,10,What kind of atmosphere does the author create in the opening scene at Green Gables?,5
+43,worksheet,baskervilles,1,"Mr. Sherlock Holmes, who was usually very late in the mornings, save upon those not infrequent occasions when he was up all night, was seated at the breakfast table. What does this suggest?",2
+44,worksheet,baskervilles,2,Where did James Mortimer leave the stick?,1
+45,worksheet,baskervilles,3,What was it that Watson thought Sherlock could not see him doing?,2
+46,worksheet,baskervilles,4,Which one of these statements are true?,3
+47,worksheet,baskervilles,5,"Since we have been so unfortunate as to miss him and have no notion of his errand, this accidental souvenir becomes of importance. What does Sherlock mean when he says this?",3
+48,worksheet,baskervilles,6,"following as far as I could the methods of my companion, What does this suggest?",2
+49,worksheet,baskervilles,7,"Having read the text fully, which of these statements is true about why Sherlock says Good! and Excellent! when he is listening to Watsons guesses?",4
+50,worksheet,baskervilles,8,What makes Watson believe the stick to belongs to someone who works in the country?,2
+51,worksheet,baskervilles,9,"It may be that you are not yourself luminous, but you are a conductor of light. Some people without possessing genius have a remarkable power of stimulating it. I confess, my dear fellow, that I am very much in your debt. What does this suggest about Sher",3
+52,worksheet,baskervilles,10,What was Sherlock indifferent towards?,3
+53,worksheet,baskervilles,11,Which word best describes how the stick makes Sherlock feel?,1
+54,worksheet,baskervilles,12,Why does Watson have a feeling of self-importance?,3
+55,worksheet,baskervilles,13,Which one of these statements are True?,2
+56,worksheet,baskervilles,14,What reason does Sherlock suggest that Dr. Mortimer was presented with the stick?,2
+57,worksheet,baskervilles,15,Why could the Dr. not have been on the staff at the hospital?,4
+58,worksheet,baskervilles,16,Which word best replaces the word errand?,1
+59,worksheet,baskervilles,17,What does deduction mean?,2
+60,worksheet,baskervilles,18,What does erroneous mean?,2
+61,worksheet,black beauty,1,What information is suggested from reading the first paragraph?,2
+62,worksheet,black beauty,2,What is not mentioned as a reason why the narrator considers themselves handsome?,3
+63,worksheet,black beauty,3,Why was the narrator not sold until they were four years old?,2
+64,worksheet,black beauty,4,What was the purpose of Squire Gordon examining the narrator?,3
+65,worksheet,black beauty,5,Why did the master want to break in the narrator?,2
+66,worksheet,black beauty,6,Which one definition best describes what breaking in means?,4
+67,worksheet,black beauty,7,What pair of items or tasks were not mentioned as training for breaking in?,3
+68,worksheet,black beauty,8,What was the narrator already used to as a colt?,1
+69,worksheet,black beauty,9,How did the master get the narrator to wear the bit and bridle?,3
+70,worksheet,black beauty,10,What does till I began to look for the oats and the saddle (line 40-41) suggest about the narrator?,4
+71,worksheet,black beauty,11,Which one option best describes the relationship between the master and the narrator?,4
+72,worksheet,black beauty,12,How did the narrator feel about carrying his master around?,4
+73,worksheet,black beauty,13,"What do you think about breaking in horses, as it as been described in Black Beauty?",5
+74,worksheet,brazilian,1,What adventure did Theodore Roosevelt decide to take on after losing his bid for the United States Presidency?,2
+75,worksheet,brazilian,2,Who is Father Zahm and what is his relationship with Theodore Roosevelt?,3
+76,worksheet,brazilian,3,Where did Father Zahm propose Theodore Roosevelt go after his presidency?,3
+77,worksheet,brazilian,4,Where did Theodore initially want to go instead of South America?,2
+78,worksheet,brazilian,5,What was Theodore's plan after receiving invitations from Argentina and Brazil?,4
+79,worksheet,brazilian,6,Why did Theodore contact the American Museum of Natural History prior to his trip?,5
+80,worksheet,brazilian,7,What was the original purpose of Father Zahm's visit to Frank Chapman at the museum?,4
+81,worksheet,brazilian,8,What was the reaction of the museum authorities when they found out about Theodore's trip?,3
+82,worksheet,brazilian,9,What particular area of the journey intrigued the museum authorities the most?,4
+83,worksheet,brazilian,10,What role did the Natural History Museum agree to play in Theodore's trip?,5
+84,worksheet,charlottes,1,At what time of day is this chapter set?,1
+85,worksheet,charlottes,2,What season does this story occur in?,1
+86,worksheet,charlottes,3,Which is the most likely reason Ferns mother chooses to say do away with it instead of kill it?,3
+87,worksheet,charlottes,4,Why does Fern change her sneakers?,2
+88,worksheet,charlottes,5,Why does John Arable look almost ready to cry?,3
+89,worksheet,charlottes,6,What animal is bacon made from?,1
+90,worksheet,charlottes,7,Was Fern certain her father would bring the pig back?,4
+91,worksheet,charlottes,8,What does Ferns father think of his decision to let her have the pig?,3
+92,worksheet,charlottes,9,What is meant by the word injustice (line 26)?,2
+93,worksheet,charlottes,10,What is meant by the word untimely (line 42)?,2
+94,worksheet,court life,1,What was the parrot first taught to say?,1
+95,worksheet,court life,2,Why did the gentleman teach the parrot to say 'Viva la Republica!'?,2
+96,worksheet,court life,3,What happened to the gentleman in charge of the parrot?,3
+97,worksheet,court life,4,Who was the Queen that the parrot was initially supporting?,3
+98,worksheet,court life,5,How did the author relate to the Queen and the King as mentioned in the story?,4
+99,worksheet,court life,6,What does the author compare the royalty life to?,4
+100,worksheet,court life,7,What was the author's perspective of the royal life?,5
+101,worksheet,court life,8,What impact did the revolution of '68 have on the authors life and the parrot's life?,5
+102,worksheet,dorian,1,In whose residence does this passage take place?,1
+103,worksheet,dorian,2,Which of the following best describes Alans initial assessment of Dorian?,3
+104,worksheet,dorian,3,To whom is it a matter of life and death?,4
+105,worksheet,dorian,4,Why might the author have decided to use Dorians given name and not Alans?,5
+106,worksheet,dorian,5,Which of the following words is closest in meaning to strained (line 8)?,2
+107,worksheet,dorian,6,Why doesnt Dorian finish his sentence in line 11?,3
+108,worksheet,dorian,7,How did Alan once feel about Dorians horrible secrets (line 14)?,3
+109,worksheet,dorian,8,What is the favour Dorian wants from Alan?,1
+110,worksheet,dorian,9,"Why does Dorian say, I was waiting for you to call me Dorian (line 21)?",4
+111,worksheet,dorian,10,Alan suggests that he would not even raise a finger (line 22). This is an example of,4
+112,worksheet,dorian,11,monstrous confession (line 23). What does the word monstrous tell us about Alans opinion of the confession?,2
+113,worksheet,dorian,12,What is meant by peril (line 24)?,2
+114,worksheet,dorian,13,"Why does Alan say, How dare you ask me, of all men in the world (lines 30)?",5
+115,worksheet,dorian,14,"What does Alan think when Dorian tells him, It was suicide (line 26)?",3
+116,worksheet,dorian,15,"Dorian says, Whatever my life is, he had more to do with the making or the marring of it than poor Harry has had. (lines 35-36) What does the word marring suggest about Lord Henry Wottons influence?",4
+117,worksheet,dorian,16,Why is Alan certain that Dorian will be arrested?,4
+118,worksheet,dorian,17,"What type of words are the following? intended (line 4), stir (line 10), decline (line 13), induce (line 33), hang (line 49)",1
+119,worksheet,dorian,18,In lines 57-59 Dorian carefully writes down what he wants to say instead of speaking and then walks over to the window. Why does he choose to do this?,5
+120,worksheet,dorian,19,"What type of words are the following? searching (line 4), infinite (line 7), mad (line 20), bowed (line 48), pale (line 61)",2
+121,worksheet,dorian,20,What type of word is hollow (line 63)?,1
+122,worksheet,dorian,21,"How many verbs can you count in the sentence beginning on line 64: After two or three minutes of terrible silence, ?",3
+123,worksheet,dorian,22,Which word might equally convey the meaning of alternative (line 66)?,1
+124,worksheet,dorian,23,"Dorian says, If you dont help me, I will send it. But you are going to help me. It is impossible for you to refuse now. I tried to spare you. (lines 68-69). What do these statements suggest?",4
+125,worksheet,dorian,24,"Dorian tells many lies while trying to convince Alan to help him. Which of the following, from the information provided in the passage, are we certain is TRUE ?",5
+126,worksheet,dorian,25,"Despite the grave situation, Dorian frequently makes witty remarks in the conversation. Which of the following is a display of wit?",3
+127,worksheet,dorian,26,Which of the following is closest in meaning to dictate (line 71)?,2
+128,worksheet,dreams of a giant life,1,How does the narrator look back?,2
+129,worksheet,dreams of a giant life,2,What is the main feeling at the end of the first verse?,3
+130,worksheet,dreams of a giant life,3,What does The equal waters of a lovely bay mean?,4
+131,worksheet,dreams of a giant life,4,Which word would best replace placid?,2
+132,worksheet,dreams of a giant life,5,What poetic technique has the poet used?,4
+133,worksheet,dreams of a giant life,6,What is making the giant gleam?,3
+134,worksheet,dreams of a giant life,7,"What does I saw below me all the water lie/Expecting something, and that thing was I mean?",5
+135,worksheet,dreams of a giant life,8,Why does the poet separate I stood alone?,3
+136,worksheet,dreams of a giant life,9,What time of the day is it in the poem?,2
+137,worksheet,dreams of a giant life,10,"What writing technique is Pure, perfect and profound?",3
+138,worksheet,dreams of a giant life,11,What would best replace the word 'wayfaring'?,4
+139,worksheet,dreams of a giant life,12,What does the word 'perforate' mean?,2
+140,worksheet,dreams of a giant life,13,What does the sentence And it dared the storms of fate mean?,4
+141,worksheet,dreams of a giant life,14,What poetic technique is 'storms of fate'?,4
+142,worksheet,dreams of a giant life,15,Why did the two boats sink?,3
+143,worksheet,dreams of a giant life,16,Who was the voice of?,4
+144,worksheet,dreams of a giant life,17,Which of these statements are true?,5
+145,worksheet,dreams of a giant life,18,Which summary best describes the poem?,4
+146,worksheet,economics,1,What does the term 'economics' mean?,1
+147,worksheet,economics,2,What does 'economy' represent in terms of relationships?,2
+148,worksheet,economics,3,What is the role of the Government in the economy?,3
+149,worksheet,economics,4,"What do the households represent, and what are their responsibilities in the economy?",3
+150,worksheet,economics,5,How do businesses contribute to the economy?,4
+151,worksheet,economics,6,What is meant by 'fiscal policy'?,3
+152,worksheet,economics,7,What is the Budget and who is responsible for its announcement?,3
+153,worksheet,economics,8,Why is taxing important for the Government?,2
+154,worksheet,economics,9,What influences the decision of a Household to either spend or save their money?,4
+155,worksheet,economics,10,Why do countries cooperate with each other in terms of the economy?,5
+156,worksheet,fauntleroy,1,Who gave a slip of paper to whom?,2
+157,worksheet,fauntleroy,2,What is Cedric's new name?,1
+158,worksheet,fauntleroy,3,What original name did Dick refer to Cedric as?,3
+159,worksheet,fauntleroy,4,Who is Mr. Havisham?,2
+160,worksheet,fauntleroy,5,How does Dick feel about Cedric leaving?,3
+161,worksheet,fauntleroy,6,What gift did Cedric give to Mr. Hobbs?,2
+162,worksheet,fauntleroy,7,What was inscribed in the gift from Cedric to Mr. Hobbs?,4
+163,worksheet,fauntleroy,8,Who is expected to invite Mr. Hobbs to the Castle?,5
+164,worksheet,fauntleroy,9,Why does Cedric's mom appear upset?,4
+165,worksheet,fauntleroy,10,What is the final sentiment Cedric expresses about their old house?,3
+166,worksheet,frankenstein,1,Which of these descriptions best describes the demands of the work?,3
+167,worksheet,frankenstein,2,Which option best describes how the narrator feels about his work?,2
+168,worksheet,frankenstein,3,Which of these statements are false?,4
+169,worksheet,frankenstein,4,What does the narrator suggest was the biggest influence for continuing his work?,3
+170,worksheet,frankenstein,5,Every night I was oppressed by a slow fever. What writing technique is this?,2
+171,worksheet,frankenstein,6,Which of these statements are true?,4
+172,worksheet,frankenstein,7,With an anxiety that almost amounted to agony. What does this line suggest?,2
+173,worksheet,frankenstein,8,What clue suggests that the narrator had spent a long time in the evening working?,1
+174,worksheet,frankenstein,9,The rain pattered dismally against the panes. What writing technique has the writer used here?,2
+175,worksheet,frankenstein,10,What or who is the narrator describing as a catastrophe?,4
+176,worksheet,frankenstein,11,"Read the description of the body from lines 21 to 31, what option best fits with the description?",3
+177,worksheet,frankenstein,12,Why did the narrator deprive himself of health and rest?,3
+178,worksheet,frankenstein,13,What happened as soon as the narrator achieved his goal?,2
+179,worksheet,frankenstein,14,What genre would you say this is?,1
+180,worksheet,frankenstein,15,Can you find evidence to help support your answer?,5
+181,worksheet,frankenstein,16,How would you describe the narrator? (3 marks),4
+182,worksheet,friendship,1,What does the author imply about the term 'friend' in the opening sentence?,2
+183,worksheet,friendship,2,"According to the text, what should occur before a person is considered a friend?",3
+184,worksheet,friendship,3,What issues does the author identify with trusting everybody or trusting nobody?,4
+185,worksheet,friendship,4,Why does the author believe 'love of bustle' isn't the same as industry?,1
+186,worksheet,friendship,5,"What does the author want to communicate with the phrase 'Some men shrink into dark corners, to such a degree that they see darkly by day'?",5
+187,worksheet,friendship,6,What role does nature play in reconciling oppositions in the author's view?,3
+188,worksheet,friendship,7,Why does the author suggest discussing problems with nature?,4
+189,worksheet,friendship,8,"What does it mean to regard a friend as loyal, according to the author?",2
+190,worksheet,friendship,9,How does the author suggest approaching a new friendship?,2
+191,worksheet,friendship,10,"What are the dangers of revealing too much or too little, as per the author's advice?",4
+192,worksheet,frost,1,What does 'The Frost' refer to in the text?,2
+193,worksheet,frost,2,What does the sequence CCCC represent in the text?,3
+194,worksheet,frost,3,What could be the meaning of the series of letters?,4
+195,worksheet,frost,4,Can you guess what CACC might symbolise in the text?,3
+196,worksheet,frost,5,What does ACAA in the sequence represent?,3
+197,worksheet,frost,6,How many series of four letters are in the text?,2
+198,worksheet,frost,7,Can you infer any pattern in the sequence of four letters?,4
+199,worksheet,frost,8,Is there a sequence that repeats exactly in the text?,3
+200,worksheet,frost,9,"What could be the significance of the closing statement '2 easy, 8 medium, 2 hard'?",4
+201,worksheet,frost,10,Can you guess why the text is structured in this coded format?,5
+202,worksheet,frost,11,What do you think of when you see the code CAC?,3
+203,worksheet,frost,12,How do the series of four letters connect with 'The Frost'?,5
+204,worksheet,gatsby,1,What kind of music was played at Gatsby's party?,2
+205,worksheet,gatsby,2,How often did caterers come to Gatsby's house?,3
+206,worksheet,gatsby,3,Describe the transportation to and from Gatsby's party?,4
+207,worksheet,gatsby,4,How did most guests receive an invitation to Gatsby's party?,5
+208,worksheet,gatsby,5,What was the author's experience with receiving an invitation?,3
+209,worksheet,gatsby,6,What activities took place at Gatsby's party?,2
+210,worksheet,gatsby,7,How does the author describe Gatsby's garden during the party?,3
+211,worksheet,gatsby,8,What was the scene like inside Gatsby's house?,4
+212,worksheet,gatsby,9,Who signed the author's invitation to Gatsby's party?,4
+213,worksheet,gatsby,10,What is the overall mood of Gatsby's party?,3
+214,worksheet,gatsby,11,By when did the orchestra arrive at Gatsby's party?,2
+215,worksheet,gatsby,12,How does the author describe the interactions between guests?,4
+216,worksheet,gatsby,13,"In the context of Gatsbys parties, what is the significance of the Rolls-Royce and the station wagon?",5
+217,worksheet,gatsby,14,What can you infer about Gatsby from the way his parties were conducted?,5
+218,worksheet,gatsby,15,What preparations were made the day after the parties?,2
+219,worksheet,gibson,1,What is the aliens' weakness as mentioned in the passage?,1
+220,worksheet,gibson,2,What colors do the aliens' eyes glow when they use their laser beams?,1
+221,worksheet,gibson,3,What happens to the aliens after they have used their laser beam?,2
+222,worksheet,gibson,4,What is the dagger of the miniature aliens used for apart from being a weapon?,3
+223,worksheet,gibson,5,What role does the 'commander' alien play according to the passage?,3
+224,worksheet,gibson,6,How does Gibson Skyler suggest delivering the saltwater to the aliens?,2
+225,worksheet,gibson,7,What is the purpose of the saltwater fountain in the proposed fortress?,2
+226,worksheet,gibson,8,Why does Gibson Skyler state it is vital to find a stronghold built from the sturdiest materials?,4
+227,worksheet,gibson,9,What is the primary concern regarding the water pistol?,4
+228,worksheet,gibson,10,What is the main purpose of Gibson Skyler writing this letter?,5
+229,worksheet,growth,1,What are the names of the two individuals being compared in the passage?,1
+230,worksheet,growth,2,What is the key difference between Greg and Frankle?,2
+231,worksheet,growth,3,What do these two different mindsets sit on the opposite sides of?,2
+232,worksheet,growth,4,Explain the reaction of Greg and Frankle when they failed the test?,3
+233,worksheet,growth,5,How does the Growth Mindset perceive complex challenges?,3
+234,worksheet,growth,6,What is the effect of the Fixed mindset on individuals?,3
+235,worksheet,growth,7,How can cultivating a Growth mindset help Frankle?,4
+236,worksheet,growth,8,"According to the passage, how can a Growth Mindset be cultivated?",4
+237,worksheet,growth,9,What role does feedback play in promoting a Growth Mindset?,4
+238,worksheet,growth,10,Highlight the importance of a Growth Mindset as stated in the passage?,5
+239,worksheet,gulliver,1,What caused the crew to spot the rock late?,2
+240,worksheet,gulliver,2,How did the narrator and the crew get away from their ship?,2
+241,worksheet,gulliver,3,What do you think the phrase spent with labour (line 7) means?,3
+242,worksheet,gulliver,4,What line in the first paragraph means they did nothing but wait and see?,4
+243,worksheet,gulliver,5,Which of these statements is true?,3
+244,worksheet,gulliver,6,What word would best replace the word abate (line 15) ?,3
+245,worksheet,gulliver,7,What was the reason for the narrator not spotting any houses?,2
+246,worksheet,gulliver,8,What was not mentioned as a reason for being so tired?,3
+247,worksheet,gulliver,9,What word best replaces the word stir (line 24),2
+248,worksheet,gulliver,10,Which one of these statements is true?,3
+249,worksheet,gulliver,11,How tall were the tiny human creatures?,1
+250,worksheet,gulliver,12,What season was it during the story?,1
+251,worksheet,gulliver,13,How far did the crew row?,1
+252,worksheet,gulliver,14,How far did the narrator walk in the water?,1
+253,worksheet,honeybees,1,What is the role of honey bees in the ecosystem?,1
+254,worksheet,honeybees,2,Who is the ruler of the hive?,2
+255,worksheet,honeybees,3,What is the function of pollen for honey bees?,2
+256,worksheet,honeybees,4,What differentiates the queen bee from other bees in the hive?,3
+257,worksheet,honeybees,5,What are the roles of worker bees in the hive?,3
+258,worksheet,honeybees,6,Why are drones considered auxiliary members of the colony?,2
+259,worksheet,honeybees,7,What are some of the reasons why honey bee numbers have been decreasing over the years?,4
+260,worksheet,honeybees,8,How can we help honey bees?,1
+261,worksheet,honeybees,9,What is the lifespan of the queen bee?,2
+262,worksheet,honeybees,10,What happens to the drones when they achieve their one goal of mating with the queen?,3
+263,worksheet,honeybees,11,What purposes does the nectar serve for honey bees?,2
+264,worksheet,honeybees,12,How can worker bees live longer than their usual six weeks lifespan?,5
+265,worksheet,honeybees,13,What happens to drones during times of scarce food and high population?,4
+266,worksheet,honeybees,14,What is the role of the queen's pheromones within the hive?,3
+267,worksheet,honeybees,15,What kind of plants or herbs can you grow to help honey bees?,2
+268,worksheet,honeybees,16,What are the consequences for plant species if honey bees go extinct?,4
+269,worksheet,honeybees,17,What is the social structure of a bee colony?,2
+270,worksheet,honeybees,18,What are 'bee pockets' used for?,3
+271,worksheet,honeybees,19,What changes happen in the queen bee's egg production throughout the year?,4
+272,worksheet,honeybees,20,How does the queen bee influence the mood and communication within the hive?,5
+273,worksheet,huck,1,Which of the following is true,2
+274,worksheet,huck,2,Who are the scoundrels?,2
+275,worksheet,huck,3,Which of the following must be false?,3
+276,worksheet,huck,4,How does Huck feel about having helped Jim get his freedom?,3
+277,worksheet,huck,5,Why was Huck scared?,3
+278,worksheet,huck,6,Which of the following is a reason why Huck thinks it isnt his fault that hes wicked?,4
+279,worksheet,huck,7,What is the everlasting fire (line 30)?,1
+280,worksheet,huck,8,Why did Huck shiver (line 31)?,2
+281,worksheet,huck,9,Huck uses a lot of incorrect grammar. What is the correct past tense of kneeled down?,1
+282,worksheet,huck,10,Why couldnt Huck pray?,4
+283,worksheet,huck,11,What was Huck going to pray about?,4
+284,worksheet,huck,12,How does Huck feel immediately after writing the letter?,3
+285,worksheet,huck,13,Why did Huck start thinking after writing his letter?,4
+286,worksheet,huck,14,What best describes Hucks opinion on slavery?,5
+287,worksheet,huck,15,Which of the following best describes Huck and Jims relationship?,3
+288,worksheet,i have a dream,1,What writing technique is used in the phrase It came as a joyous daybreak to end the long night of captivity (line 6-7)?,4
+289,worksheet,i have a dream,2,How long has it been since slavery ended?,2
+290,worksheet,i have a dream,3,What did the cheque (line 15) or note (line 17) promise to everyone?,3
+291,worksheet,i have a dream,4,Where was the promise for equal rights written?,3
+292,worksheet,i have a dream,5,Which of the following is true?,3
+293,worksheet,i have a dream,6,Which of the following is a promise of democracy?,3
+294,worksheet,i have a dream,7,When do the whirlwinds of revolt (line 45) mentioned in the speech occur?,4
+295,worksheet,i have a dream,8,How does Martin Luther King want to gain justice?,4
+296,worksheet,i have a dream,9,Who came to listen to the speech?,2
+297,worksheet,i have a dream,10,Which of the following is not mentioned in the speech?,4
+298,worksheet,i have a dream,11,Are black people allowed to vote in New York?,4
+299,worksheet,i have a dream,12,Which state does Martin Luther King mention is especially racist?,1
+300,worksheet,i have a dream,13,Why does Martin Luther King repeat the phrase I have a dream?,2
+301,worksheet,i have a dream,14,What is Martin Luther Kings dream?,5
+302,worksheet,i have a dream,15,Which is closest in meaning to being free (line 118)?,3
+303,worksheet,jabberwocky,1,What is the Jabberwocky?,3
+304,worksheet,jabberwocky,2,Who warns the son about the Jabberwock?,2
+305,worksheet,jabberwocky,3,What does the son use to kill the Jabberwock?,2
+306,worksheet,jabberwocky,4,How does the son feel after killing the Jabberwock?,4
+307,worksheet,jabberwocky,5,What other creatures are mentioned in the poem besides the Jabberwock?,5
+308,worksheet,jabberwocky,6,Where did the son rest before fighting the Jabberwock?,4
+309,worksheet,jabberwocky,7,What is the mood of the poem?,3
+310,worksheet,jabberwocky,8,How does the Jabberwock enter the scene?,3
+311,worksheet,jabberwocky,9,Why is the poem called a nonsense poem?,1
+312,worksheet,jabberwocky,10,What did the son do with the Jabberwock's head?,3
+313,worksheet,JANE EYRE,1,What book is Jane reading?,1
+314,worksheet,JANE EYRE,2,"Who are Lizzy, Georgy and Joan to Jane?",2
+315,worksheet,JANE EYRE,3,How did Jane initially avoid detection?,2
+316,worksheet,JANE EYRE,4,Why did Jane leave her hiding place?,2
+317,worksheet,JANE EYRE,5,How does Jane interact with John?,3
+318,worksheet,JANE EYRE,6,Why does Jane elaborate on John's bullying?,3
+319,worksheet,JANE EYRE,7,What term best describes Jane's behavior?,2
+320,worksheet,JANE EYRE,8,Why is John's bullying not stopped by others?,3
+321,worksheet,JANE EYRE,9,What is Jane wondering just before John strikes?,3
+322,worksheet,JANE EYRE,10,What item did John use to hit Jane?,4
+323,worksheet,JANE EYRE,11,What does Jane say to John after he hits her?,3
+324,worksheet,JANE EYRE,12,How would you describe Jane's perspective on John?,3
+325,worksheet,JANE EYRE,13,Who is entitled to own the house?,1
+326,worksheet,JANE EYRE,14,Where did Jane get hurt?,2
+327,worksheet,JANE EYRE,15,What comparison had Jane silently made before announcing aloud?,4
+328,worksheet,JANE EYRE,16,What caused Jane's terror to give way to other feelings?,3
+329,worksheet,JANE EYRE,17,Why didn't Mrs. Reed punish John for his action?,4
+330,worksheet,JANE EYRE,18,How is John's 'bellowed out aloud' described?,4
+331,worksheet,JANE EYRE,19,How accustomed is Jane to being subservient to John?,3
+332,worksheet,JANE EYRE,20,What word best describes John's book?,2
+333,worksheet,JANE EYRE,21,How would you describe John's action when attacking?,4
+334,worksheet,JANE EYRE,22,What animal is used as a metaphor for Jane?,4
+335,worksheet,JANE EYRE,23,What best describes Jane's habitual obedience to John?,3
+336,worksheet,JANE EYRE,24,Why wouldn't the servants intervene?,3
+337,worksheet,JANE EYRE,25,What part of speech is 'Rat!'?,4
+338,worksheet,JANE EYRE,26,Identify the adverbs in the paragraph describing the attack.,5
+339,worksheet,JANE EYRE,27,What literary device is used in comparing John to Roman emperors?,5
+340,worksheet,JANE EYRE,28,Identify the instance of onomatopoeia in the text.,5
+341,worksheet,JANE EYRE,29,What is the descriptive word for the nature of John?,4
+342,worksheet,jekyll,1,Who is the visitor that comes to retrieve the drawer?,1
+343,worksheet,jekyll,2,What is the reaction of the visitor when he sees the contents of the drawer?,2
+344,worksheet,jekyll,3,What colour does the compound turn after the visitor adds the powders to the red tincture?,3
+345,worksheet,jekyll,4,How is Dr. Lanyon's emotions depicted throughout the passage?,4
+346,worksheet,jekyll,5,Who was revealed to be the visitor after drinking the mixture?,2
+347,worksheet,jekyll,6,What is the demeanor of the visitor when asking to take the glass and leave Dr. Lanyon's house?,3
+348,worksheet,jekyll,7,Describe the transformation of the visitor after drinking from the glass.,5
+349,worksheet,jekyll,8,Who was the visitor revealed to be the murderer of?,3
+350,worksheet,jekyll,9,What emotion is Dr. Lanyon left with after the visitor's revelation?,4
+351,worksheet,jekyll,10,What offer does the visitor present to Dr. Lanyon before revealing his identity?,3
+352,worksheet,lion,1,Which description best fits the description of the house,2
+353,worksheet,lion,2,Which of these options are false?,3
+354,worksheet,lion,3,"In the text it says as everyone had expected that they would, what does this mean?",3
+355,worksheet,lion,4,And then a whole series of rooms that led into each other. What does this mean?,2
+356,worksheet,lion,5,- all except Lucy. Why do you think the author highlighted Lucy here?,2
+357,worksheet,lion,6,Why did Lucy stay behind?,3
+358,worksheet,lion,7,Which of these statements are true?,4
+359,worksheet,lion,8,Which of these descriptions best suit Lucy,2
+360,worksheet,lion,9,What is the effect caused when the writer states But she could feel it. on line XXX?,3
+361,worksheet,little women,1,What is Pilgrims Progress (line 3)?,1
+362,worksheet,little women,2,Why does the writer use the word scribbled (line 3)?,2
+363,worksheet,little women,3,Why did the name catch Beths eye (line 4)?,2
+364,worksheet,little women,4,Why was Beth sure tears had fallen on the little paper (line 4)?,1
+365,worksheet,little women,5,What gift does the writer of the poem want (line 21)?,3
+366,worksheet,little women,6,Who is the serene and saintly presence (line 13)?,2
+367,worksheet,little women,7,Which writing techniques are used in prison-house of pain (line 26)?,4
+368,worksheet,little women,8,What is meant by the path being green in the phrase made the path of duty/ Green beneath your willing feet. (lines 29-39)?,5
+369,worksheet,little women,9,Which of the following best describes how the poem made Beth feel?,2
+370,worksheet,little women,10,Why was Beths sister on the rug?,1
+371,worksheet,little women,11,Who is Jo?,1
+372,worksheet,little women,12,Who wrote the poem My Beth?,2
+373,worksheet,little women,13,Which of the following is closest in meaning to feeble (line 51)?,3
+374,worksheet,little women,14,What type of word is  comfort  (line 61)?,2
+375,worksheet,little women,15,Which of the following lines of the poem tells Beth that she has helped Jo (line 61),5
+376,worksheet,little women,16,What does Beth tell Jo to do?,3
+377,worksheet,little women,17,When does Beth die?,2
+378,worksheet,little women,18,Why is the fire out for the first time in many months (line 79)?,3
+379,worksheet,lochinvar,1,What is the meaning of 'Lochinvar' in the passage?,2
+380,worksheet,lochinvar,2,Who is the young Lochinvar described in the story?,3
+381,worksheet,lochinvar,3,How does Lochinvar enter the Netherby Hall?,2
+382,worksheet,lochinvar,4,What is the bride's reaction when Lochinvar drinks the wine?,3
+383,worksheet,lochinvar,5,How can the Lochinvar's daring nature be described?,5
+384,worksheet,lochinvar,6,What happened at the end of the poem?,4
+385,worksheet,lochinvar,7,What does the young Lochinvar come to do at the bridal ceremony according to the bride's father's question?,2
+386,worksheet,lochinvar,8,What does Lochinvar's response to the bride's father tell you about his feelings and intentions?,3
+387,worksheet,lochinvar,9,What is the sentiment of the bride-maidens about the marriage?,2
+388,worksheet,lochinvar,10,What happens when Lochinvar and the lady reach the hall door?,1
+389,worksheet,lochinvar,11,What challenges do the men face in trying to retrieve the lost bride?,4
+390,worksheet,lochinvar,12,What is the overall theme of the poem?,5
+391,worksheet,lost_in_the_woods,1,What should you first do if you find yourself lost in the woods?,1
+392,worksheet,lost_in_the_woods,2,What is the 'lost signal' described in the passage?,3
+393,worksheet,lost_in_the_woods,3,What is the main purpose of building three separate fires?,2
+394,worksheet,lost_in_the_woods,4,How can you blaze your trail if no trees are present?,4
+395,worksheet,lost_in_the_woods,5,Why should you keep your fire going all night if you are lost in the woods?,3
+396,worksheet,lost_in_the_woods,6,What does the North Star indicate when you are lost?,5
+397,worksheet,lost_in_the_woods,7,"According to the passage, what precautions should you take if you have to spend the night in the wilderness?",5
+398,worksheet,lost_in_the_woods,8,What is the importance of not letting fear consume you when youre lost?,2
+399,worksheet,lost_in_the_woods,9,Why is it important to extinguish the fire before leaving the ground?,4
+400,worksheet,lost_in_the_woods,10,What is the advantage of remaining in one spot all night rather than wandering around in the dark?,3
+401,worksheet,lost treasure,1,Who were the main characters of the story?,1
+402,worksheet,lost treasure,2,Why did Susan and Blake explore the hills mainly when the leaves grew brown?,2
+403,worksheet,lost treasure,3,What was the name of the pirate mentioned in the story?,1
+404,worksheet,lost treasure,4,Why did Red Herring Hook decide to hide his treasure?,3
+405,worksheet,lost treasure,5,What was the age of Red Herring Hook when he found a village to reside?,3
+406,worksheet,lost treasure,6,What did Susan and Blake find in the hills?,2
+407,worksheet,lost treasure,7,Who told Susan and Blake about the Lost Treasure story?,2
+408,worksheet,lost treasure,8,What happened just as Susan and Blake were about to open the treasure?,4
+409,worksheet,lost treasure,9,Why didn't Susan and Blake explore the hills during summer and winter?,4
+410,worksheet,lost treasure,10,What were the reactions of the other students when they heard about the Lost Treasure?,5
+411,worksheet,magic city,1,How do we know that something is not right with Philip?,2
+412,worksheet,magic city,2,How do we know Philip is in a strange place?,2
+413,worksheet,magic city,3,The line from the passage is an example where the writer speaks directly to the reader,3
+414,worksheet,magic city,4,Why did Philip need to be careful where he was walking?,1
+415,worksheet,magic city,5,"What does it mean when the writer says 'He had made three arches, one beyond another'?",3
+416,worksheet,magic city,6,Which word could replace the 'accustomed' in the text?,3
+417,worksheet,magic city,7,"How does the writer want you to feel when they write, 'whichever way you turned, a long pillared corridor lay in front of you'?",3
+418,worksheet,magic city,8,Which of these statements are true?,3
+419,worksheet,magic city,9,"In paragraph four we get a clue as to why Philip is here, what clue is that?",4
+420,worksheet,magic city,10,"'The silver pillars had begun to give out a faint soft glow', what does this mean?",2
+421,worksheet,magic city,11,Why does Philip feel that he is lucky?,2
+422,worksheet,magic city,12,Why did he not need to ask which part of the city Lucy went to?,4
+423,worksheet,magic city,13,Which option best describes why Philip was getting lost?,2
+424,worksheet,magic city,14,Which word could be used to replace the word mortifying,1
+425,worksheet,marathon,1,What is the estimated training time for a marathon for most runners?,2
+426,worksheet,marathon,2,What lifestyle changes are advised to improve marathon performance?,3
+427,worksheet,marathon,3,What are the different types of runs necessary for marathon training?,3
+428,worksheet,marathon,4,How does a 'threshold run' contribute to marathon training?,4
+429,worksheet,marathon,5,Why is the 'easy run' a vital part of the weekly training schedule?,2
+430,worksheet,marathon,6,What is the importance of sleep during marathon training?,3
+431,worksheet,marathon,7,What is the purpose and goal of the long run?,3
+432,worksheet,marathon,8,Why should sugary drinks and fatty snacks be avoided during training?,3
+433,worksheet,marathon,9,What is the ultimate goal of marathon training?,4
+434,worksheet,marathon,10,What is the significance of time in 'long run' and 'easy run'?,4
+435,worksheet,matilda,1,What does the poet mean when they say stretch ones eyes,3
+436,worksheet,matilda,2,How is Matildas aunt different from Matilda?,1
+437,worksheet,matilda,3,What had saved the aunts life?,3
+438,worksheet,matilda,4,Why did Matilda call the Fire Brigade?,2
+439,worksheet,matilda,5,Which one of these options are true?,2
+440,worksheet,matilda,6,Why does the poet call the fire brigade the gallant band?,3
+441,worksheet,matilda,7,Which word best describes how the firefighters were feeling before the fire?,2
+442,worksheet,matilda,8,Which phrase makes the fire fighters seem like an animal?,4
+443,worksheet,matilda,9,Which description best explains how we know there a lot of firefighters,2
+444,worksheet,matilda,10,How were the crowd feeling as they watched the firefighters?,2
+445,worksheet,matilda,11,What does it mean when the poet writes They ran their ladders through a score of windows,3
+446,worksheet,matilda,12,When did the firefighters go home?,2
+447,worksheet,matilda,13,Which of these statements are true? Choose two options.,5
+448,worksheet,matilda,14,Why shouldnt we tell lies?,1
+449,worksheet,matilda,15,What do you think was the poets main intention for the poem?,3
+450,worksheet,matilda,16,What does the word Deprivation (line 37) mean from the way it has been used?,4
+451,worksheet,matilda,17,What does it mean when the poet writes but all in vain!? (line 46),3
+452,worksheet,matilda,18,What technique is used when the poet writes pouring in (line 16),5
+453,worksheet,meg,1,What were Jane's emotions as she returned home?,3
+454,worksheet,meg,2,What was Jane's reaction when little Julie hugged her?,2
+455,worksheet,meg,3,What was the relationship between Jane and the tall lad carriying her satchels?,4
+456,worksheet,meg,4,What was Jane's impression of her father when she saw him in the garden?,3
+457,worksheet,meg,5,Why did Jane's father want her to go with Dan to the Colorado mountains?,2
+458,worksheet,meg,6,How is Jane's character depicted in the story?,5
+459,worksheet,meg,7,How did Dan help Jane in continuing her studies according to their father?,4
+460,worksheet,meg,8,What is the significance of the garden for Jane's father?,3
+461,worksheet,meg,9,What can be inferred about Gerald by the fact he works as an errand boy and brings home his pay every night?,3
+462,worksheet,meg,10,What are the conflict and the central themes depicted in the passage?,5
+463,worksheet,northern_lights,1,Which word best describes the way Lord Asriel speaks?,2
+464,worksheet,northern_lights,2,When did Lord Asriel arrive?,1
+465,worksheet,northern_lights,3,What does the phrase it was clear where the power lay mean?,3
+466,worksheet,northern_lights,4,"Who would Lyra feel was her family, if she knew what a family was?",4
+467,worksheet,northern_lights,5,What best describes the Scholars attitudes towards Lyra?,3
+468,worksheet,northern_lights,6,What is it traditional for the Master to do?,1
+469,worksheet,northern_lights,7,Why does Lyra choose to find a more comfortable position under the sizzle of the frying butter and the hum of talk?,2
+470,worksheet,northern_lights,8,What best describes the kind of robe Lyra decided to sit on?,1
+471,worksheet,northern_lights,9,What does Lyra think of Tartars?,2
+472,worksheet,northern_lights,10,What does Lyra think of the smell of frying poppies?,1
+473,worksheet,northern_lights,11,Where will Asriel be going immediately after the conversation?,1
+474,worksheet,northern_lights,12,Why is it skilful of her uncle to move the Master closer to Lyra and next to the librarian?,3
+475,worksheet,northern_lights,13,Why did Lord Asriel go to the North?,4
+476,worksheet,northern_lights,14,What is meant by the word courteous (line 14)?,1
+477,worksheet,northern_lights,15,What is meant by the word rough (line 8)?,1
+478,worksheet,nothing gold,1,What is the main theme of the poem?,3
+479,worksheet,nothing gold,2,What is the meaning of 'Nothing gold can stay'?,4
+480,worksheet,nothing gold,3,What does the poet compare to the 'early leaf'?,2
+481,worksheet,nothing gold,4,What does 'So Eden sank to grief' symbolize?,5
+482,worksheet,nothing gold,5,What does the poet mean when he says 'Natures first green is gold'?,4
+483,worksheet,nothing gold,6,What is the underlying emotion expressed in the poem?,3
+484,worksheet,nothing gold,7,What image does the phrase 'dawn goes down to day' create?,2
+485,worksheet,nothing gold,8,What does the poet mean by 'Her hardest hue to hold'?,4
+486,worksheet,nothing gold,9,How does the poem progress from the start to the end?,5
+487,worksheet,nothing gold,10,What is the tone of the poem?,3
+488,worksheet,oliver twist -master,1,Why do you think Dickens described the master as fat and healthy?,2
+489,worksheet,oliver twist -master,2,Why is Oliver described as a rebel for asking for more?,3
+490,worksheet,oliver twist -master,3,"The master aimed a blow at Olivers head with the ladle; pinioned him in his arm; and shrieked aloud for the beadle. From this sentence, what is suggested happened in this scene?",4
+491,worksheet,oliver twist -master,4,Which description best fits Mr. Bumble?,1
+492,worksheet,oliver twist -master,5,What was Olivers punishment?,3
+493,worksheet,oliver twist -master,6,Was Olivers punishment appropriate for what he done? What does it suggest about those who carried out the punishment?,5
+494,worksheet,oliver twist -master,7,"by tying one end of his pocket-handkerchief to a hook in the wall, and attaching himself to the other. What is inferred in this line?",5
+495,worksheet,oliver twist -master,8,Why was Oliver not able to hang himself?,2
+496,worksheet,oliver twist -master,9,Which best describes how Oliver felt in the room?,2
+497,worksheet,oliver twist -room,1,Which word in the sentence is a verb? One or two women ladled the gruel at mealtimes.,1
+498,worksheet,oliver twist -room,2,Why did the bowls never need washing?,2
+499,worksheet,oliver twist -room,3,What does occasions of public rejoicing mean?,3
+500,worksheet,oliver twist -room,4,How long had the boys been starving for?,1
+501,worksheet,oliver twist -room,5,Which of these statements are true?,3
+502,worksheet,oliver twist -room,6,Which of these statements are false?,3
+503,worksheet,oliver twist -room,7,What reason best describes why the boys licked the fingers?,2
+504,worksheet,oliver twist -room,8,Why was the tall boy not used to that sort of thing?,4
+505,worksheet,oliver twist -room,9,What does it mean that a council was held?,2
+506,worksheet,oliver twist -room,10,What happened when the council was held?,2
+507,worksheet,oliver twist -room,11,Why do you think they chose someone in this way?,3
+508,worksheet,oliver twist -room,12,What effect is created by Dickens telling us the boys were hungry enough to eat each other?,5
+509,worksheet,oliver twist -room,13,What is the cooks uniform?,1
+510,worksheet,oliver twist -room,14,Oliver is described as reckless with misery. What does this mean?,4
+511,worksheet,oliver twist -room,15,"If you were a child living with Oliver, how would you feel?",4
+512,worksheet,patagonia,1,What type of vessel was the author travelling in?,1
+513,worksheet,patagonia,2,What was the condition of the captain during the journey?,2
+514,worksheet,patagonia,3,What was the reaction of the passengers when the ship started experiencing trouble?,3
+515,worksheet,patagonia,4,Who stepped forward to prevent the sailors from abandoning the ship?,4
+516,worksheet,patagonia,5,How did the ship manage to escape from the perilous situation?,5
+517,worksheet,peter,1,What directions did Peter give to Wendy for the way to Neverland?,1
+518,worksheet,peter,2,How did Peter and his companions get their food?,3
+519,worksheet,peter,3,Why was falling asleep in the air dangerous?,2
+520,worksheet,peter,4,What did Wendy notice about Peter's way of getting food?,4
+521,worksheet,peter,5,Describe the game 'Follow my Leader' that they played.,3
+522,worksheet,peter,6,What did John want Peter to stop doing during the game 'Follow my Leader'?,4
+523,worksheet,peter,7,How did Peter save Michael when he fell from the sky?,5
+524,worksheet,peter,8,Why could Peter sleep in the air without falling?,5
+525,worksheet,peter,9,How did Peter's mood and interest affect the others?,5
+526,worksheet,peter,10,Why was the method of feeding that Peter used unusual?,3
+527,worksheet,pollyanna,1,Why is Miss Polly hurriedly moving around on this particular morning?,2
+528,worksheet,pollyanna,2,What was Nancy's response when Miss Polly talked to her while she was washing dishes?,3
+529,worksheet,pollyanna,3,Why was Nancy working in Miss Polly's kitchen?,4
+530,worksheet,pollyanna,4,What did Miss Polly ask Nancy to do?,2
+531,worksheet,pollyanna,5,What was Nancy's reaction to the news about Miss Polly's niece coming to live with them?,3
+532,worksheet,pollyanna,6,Why did Miss Polly seem reluctant to welcome her niece?,5
+533,worksheet,pollyanna,7,What was the content of the letter Miss Polly received?,4
+534,worksheet,pollyanna,8,"Who did Miss Polly's sister Jennie choose to marry, and why?",5
+535,worksheet,pollyanna,9,How did Miss Polly feel about her duty towards her niece?,3
+536,worksheet,pollyanna,10,How did life change for Nancy after she started working for Miss Polly?,4
+537,worksheet,rebecca,1,What was Mr. Jeremiah Cobb's job in the story?,2
+538,worksheet,rebecca,2,Why was the little girl traveling in the stage coach?,4
+539,worksheet,rebecca,3,What was the little girl's chief responsibility during the journey?,3
+540,worksheet,rebecca,4,What does the mother mean by saying the girl is 'journey-proud'?,5
+541,worksheet,rebecca,5,How did the mother prepare the girl for the journey?,3
+542,worksheet,rebecca,6,What details suggest that the journey may be a short one for the little girl?,4
+543,worksheet,rebecca,7,Why does the mother warn the girl to sit quiet and not cause Mr. Cobb any trouble?,2
+544,worksheet,rebecca,8,What hints are given about the little girl's personality?,5
+545,worksheet,rebecca,9,What was Mr. Cobb's attitude towards his passenger?,3
+546,worksheet,rebecca,10,How does the author describe the day of the journey?,1
+547,worksheet,sea fever,1,What does the speaker long for in the poem?,3
+548,worksheet,sea fever,2,What does 'a star to steer her by' mean in the context of the poem?,4
+549,worksheet,sea fever,3,What is the meaning of 'spume' as used in the poem?,2
+550,worksheet,sea fever,4,What might 'the call of the running tide' symbolize or represent?,5
+551,worksheet,sea fever,5,How does the author describe the sea life?,3
+552,worksheet,sea fever,6,What does the word 'rover' refer to?,1
+553,worksheet,sea fever,7,What does 'the wind's like a whetted knife' metaphor suggest?,4
+554,worksheet,sea fever,8,How does the author use imagery to describe the sea and sky?,5
+555,worksheet,sea fever,9,"What kind of lifestyle is the speaker longing for, based on the poem?",4
+556,worksheet,sea fever,10,What does 'a merry yarn' mean in the context of the poem?,2
+557,worksheet,secret garden,1,What was the object Mary found buried in the soil?,1
+558,worksheet,secret garden,2,Why was the earth freshly turned up?,1
+559,worksheet,secret garden,3,What does Mary speculate the key might open?,2
+560,worksheet,secret garden,4,Why does Mary want to get into the locked garden?,3
+561,worksheet,secret garden,5,How is her life in India different from her current situation?,3
+562,worksheet,secret garden,6,Why did Mary decide to always carry the key around?,2
+563,worksheet,secret garden,7,What is Mary's feeling towards the ivy covering the wall?,2
+564,worksheet,secret garden,8,What changes in Mary has the air from the moor caused?,4
+565,worksheet,secret garden,9,Why was the flower-bed bare of flowers?,1
+566,worksheet,secret garden,10,How did living in a house with a hundred mysteriously closed rooms affect Mary?,4
+567,worksheet,sense,1,Who inherited the Norland Estate and money after Mr. Henry Dashwood's uncle's death?,2
+568,worksheet,sense,2,What promise did Mr. John Dashwood make on Mr. Henry Dashwoods deathbed?,3
+569,worksheet,sense,3,How did Mrs. John Dashwood and her husband treat Mr. Henry Dashwood's widow and daughters?,3
+570,worksheet,sense,4,What is Mrs. John Dashwood's opinion on the aid her husband plans to give his half sisters?,4
+571,worksheet,sense,5,What was Mr. Dashwoods father's last request to him?,2
+572,worksheet,sense,6,Why does Mrs. John Dashwood argue against giving money to her husband's half sisters?,4
+573,worksheet,sense,7,What was the compromise offer proposed by Mrs. John Dashwood?,3
+574,worksheet,sense,8,How does Mr. John Dashwood justify the fulfilment of his promise?,5
+575,worksheet,shiba,1,What animal are Shiba Inus often mistaken for?,1
+576,worksheet,shiba,2,Why were the Shiba Inus nearly extinct during World War II?,3
+577,worksheet,shiba,3,What led to the modern-day popularity of the Shiba Inus?,2
+578,worksheet,shiba,4,What are the two main reasons families worldwide have begun to adopt Shibas more frequently?,2
+579,worksheet,shiba,5,What is the general personality of a Shiba Inu?,2
+580,worksheet,shiba,6,What is the origin of the Shiba Inu?,3
+581,worksheet,shiba,7,What is the Shiba Inu's approach to cleanliness?,2
+582,worksheet,shiba,8,How did the Shiba Inu become a national treasure in Japan?,4
+583,worksheet,shiba,9,How do Shiba Inus show their loyalty to their families?,4
+584,worksheet,shiba,10,How did Shiba Inus spread all over the world after World War II?,5
+585,worksheet,snowy river,1,Who is the man from Snowy River?,2
+586,worksheet,snowy river,2,What is the significance of the colt from old Regret?,4
+587,worksheet,snowy river,3,How is the man's horse described in the poem?,3
+588,worksheet,snowy river,4,What are the characteristics of the Snowy River riders according to the poem?,4
+589,worksheet,snowy river,5,Who is Clancy of the Overflow?,3
+590,worksheet,snowy river,6,Why did the old man initially advise the man from Snowy River to stay away from the hills?,4
+591,worksheet,snowy river,7,What is the theme of the poem?,5
+592,worksheet,snowy river,8,Why was the man from Snowy River eventually allowed to join the pursuit?,3
+593,worksheet,snowy river,9,What did the old man order the riders to do?,2
+594,worksheet,snowy river,10,Describe the setting of the poem.,2
+595,worksheet,sonnet 18,1,What does the author mean by 'compare thee to a summer's day'?,3
+596,worksheet,sonnet 18,2,What does the word 'temperate' mean in the context of this poem?,4
+597,worksheet,sonnet 18,3,Who or what does the 'darling buds of May' refer to?,3
+598,worksheet,sonnet 18,4,What is meant by 'summer's lease hath all too short a date'?,4
+599,worksheet,sonnet 18,5,How is the 'eye of heaven' portrayed in the poem?,2
+600,worksheet,sonnet 18,6,What does the phrase 'his gold complexion dimm'd' suggest?,3
+601,worksheet,sonnet 18,7,"Explain the line 'By chance, or nature's changing course untrimm'd'",5
+602,worksheet,sonnet 18,8,What is the meaning of 'thy eternal summer shall not fade'?,3
+603,worksheet,sonnet 18,9,Who or what does 'death brag thou wander'st in his shade' refer to?,4
+604,worksheet,sonnet 18,10,Explain 'When in eternal lines to time thou grow'st',5
+605,worksheet,sonnet 18,11,"What does the line 'So long as men can breathe, or eyes can see' suggest?",2
+606,worksheet,sonnet 18,12,How does the final line provide a conclusion to the poem?,3
+607,worksheet,stopping by,1,Who does the speaker think owns the woods?,2
+608,worksheet,stopping by,2,What is peculiar to the speaker's horse?,3
+609,worksheet,stopping by,3,Why is the speaker stopping by the woods?,2
+610,worksheet,stopping by,4,What sounds are mentioned in the passage?,3
+611,worksheet,stopping by,5,What obligations does the speaker have?,4
+612,worksheet,stopping by,6,What time of year is it?,4
+613,worksheet,stopping by,7,What does the speakers horse do to show its confusion?,5
+614,worksheet,stopping by,8,Why wont the owner of the woods see the speaker stopping there?,1
+615,worksheet,stopping by,9,How far does the speaker have to travel before he can rest?,3
+616,worksheet,stopping by,10,What does the speaker find attractive about the woods?,2
+617,worksheet,this is going to hurt,1,What have Adams parents still not forgiven him for?,1
+618,worksheet,this is going to hurt,2,Why did the author quit their job?,2
+619,worksheet,this is going to hurt,3,Which of the following is not true?,3
+620,worksheet,this is going to hurt,4,Which of these two words describe being a junior doctor?,2
+621,worksheet,this is going to hurt,5,What does Adam think about his training portfolio diary entries?,3
+622,worksheet,this is going to hurt,6,What is this book going to be about?,1
+623,worksheet,this is going to hurt,7,What is meant by the word remotely (line 13)?,2
+624,worksheet,this is going to hurt,8,What is meant by the word extreme (line 17)?,1
+625,worksheet,THOSE WINTER,1,What is the main setting of the story?,1
+626,worksheet,THOSE WINTER,2,Who is the main character?,1
+627,worksheet,THOSE WINTER,3,What problem does the main character face?,2
+628,worksheet,THOSE WINTER,4,How does the character try to resolve their problem?,2
+629,worksheet,THOSE WINTER,5,What is the climax of the story?,3
+630,worksheet,THOSE WINTER,6,What is the resolution of the story?,3
+631,worksheet,THOSE WINTER,7,What is the theme of the story?,3
+632,worksheet,THOSE WINTER,8,What was the main character's motivation?,3
+633,worksheet,THOSE WINTER,9,What is the significance of the title?,4
+634,worksheet,THOSE WINTER,10,Describe the character development throughout the story.,4
+635,worksheet,THOSE WINTER,11,How does the story's setting contribute to the plot?,4
+636,worksheet,THOSE WINTER,12,Describe a major conflict in the story and how it was resolved.,4
+637,worksheet,THOSE WINTER,13,What is the perspective of the story?,2
+638,worksheet,THOSE WINTER,14,What are some important symbols in the story and what do they represent?,5
+639,worksheet,THOSE WINTER,15,How does the author's use of language impact the story?,5
+640,worksheet,THOSE WINTER,16,What is the emotional impact of the story?,4
+641,worksheet,THOSE WINTER,17,How is foreshadowing used in the story?,5
+642,worksheet,tom sawyer,1,What task was Tom Sawyer undertaking on the Saturday morning?,1
+643,worksheet,tom sawyer,2,How did Tom initially feel about his task of whitewashing the fence?,2
+644,worksheet,tom sawyer,3,What did Tom want from Ben Rogers?,1
+645,worksheet,tom sawyer,4,How does Tom convince Ben to whitewash the fence?,3
+646,worksheet,tom sawyer,5,What did Tom exchange the whitewashing task for with the other boys?,2
+647,worksheet,tom sawyer,6,How does Tom's status change over the course of the day?,2
+648,worksheet,tom sawyer,7,What is the 'Big Missouri' that Ben is imitating?,3
+649,worksheet,tom sawyer,8,How does Tom use manipulation to his advantage in this story?,5
+650,worksheet,tom sawyer,9,What does Tom's ability to convince others to do his work say about his character?,4
+651,worksheet,tom sawyer,10,What theme does this passage from The Adventures of Tom Sawyer explore?,3
+652,worksheet,tyger,1,What is the tiger described as in the poem?,1
+653,worksheet,tyger,2,What does 'sinews' refer to in the poem?,1
+654,worksheet,tyger,3,What does the author question about the creation of the tiger?,3
+655,worksheet,tyger,4,What elements are used to describe the tiger's creation process?,4
+656,worksheet,tyger,5,What does 'dare frame thy fearful symmetry' signify?,5
+657,worksheet,tyger,6,Who does the author refer to when he says 'Did He who made the lamb make thee'?,3
+658,worksheet,tyger,7,What is the general tone and mood of the poem?,4
+659,worksheet,tyger,8,Why does the author use the word 'dread' to describe the tiger's creation?,5
+660,worksheet,tyger,9,"What does the repetition of the phrase 'Tiger, tiger, burning bright' signify?",4
+661,worksheet,tyger,10,Who could the immortal hand or eye belong to in the context of the poem?,5
+662,worksheet,umami,1,What does the Japanese word 'Umami' translate to in English?,1
+663,worksheet,umami,2,How many different tastes can be recognized by our tongue?,1
+664,worksheet,umami,3,Who discovered the 'Umami' flavour and how?,3
+665,worksheet,umami,4,Why are sweet tastes typically more enticing to humans?,2
+666,worksheet,umami,5,What is the role of salt in enhancing the Umami flavor?,2
+667,worksheet,umami,6,Name some foods that are naturally rich in umami.,1
+668,worksheet,umami,7,What cooking methods are often used to extract umami flavor?,3
+669,worksheet,umami,8,How does the addition of umami impact the level of salt needed in certain foods?,4
+670,worksheet,umami,9,What did Ikeda invent that can be added during cooking to enhance the flavor of a dish?,2
+671,worksheet,umami,10,What is the significance of detecting bitter flavors according to the evolution of taste receptors?,4
+672,worksheet,voyage,1,What was the weather on the first of April?,1
+673,worksheet,voyage,2,List three items the protagonist had in his balloon car.,3
+674,worksheet,voyage,3,What happened to the protagonist shortly after he left the Earth?,4
+675,worksheet,voyage,4,What were the protagonist's sensations upon recovering consciousness?,5
+676,worksheet,voyage,5,Why did the protagonist secure a cat in the car?,4
+677,worksheet,voyage,6,What was the protagonist's reaction to the hurricane of fire and gravel?,2
+678,worksheet,voyage,7,What saved the protagonist from his fall?,5
+679,worksheet,voyage,8,Why were the protagonist's fingernails black?,3
+680,worksheet,voyage,9,What caused the balloon to whirl round and round with sickening velocity?,4
+681,worksheet,voyage,10,What was the protagonist's chief anxiety?,1
+682,worksheet,war of the worlds,1,What caught the speaker's attention from the Martians' cylinder?,3
+683,worksheet,war of the worlds,2,What emotions was the narrator battling with as they observed the Martians?,4
+684,worksheet,war of the worlds,3,How does the narrator describe the spectators who were also observing the Martians?,3
+685,worksheet,war of the worlds,4,What did the speaker and their neighbour say to each other during their brief interaction?,5
+686,worksheet,war of the worlds,5,How did the crowd's behavior change as the dusk set in?,3
+687,worksheet,war of the worlds,6,Why did the narrator move toward the pit?,4
+688,worksheet,war of the worlds,7,What happened when there was a flash of light from the pit?,2
+689,worksheet,war of the worlds,8,Describe the smoke or flame that came out of the pit.,2
+690,worksheet,war of the worlds,9,What does the term 'attenuated horns' refer to in the context of this passage?,5
+691,worksheet,war of the worlds,10,How did the arrival of new spectators from Woking affect the scene?,4
+692,worksheet,when u r old,1,What does the author suggest the reader to do in line 2?,2
+693,worksheet,when u r old,2,What is the 'pilgrim soul' referring to in line 7?,4
+694,worksheet,when u r old,3,What emotion is evoked in line 10?,3
+695,worksheet,when u r old,4,What does 'And hid his face amid a crowd of stars' metaphorically suggest in line 12?,5
+696,worksheet,when u r old,5,Who might the 'one man' in line 7 suggest?,4
+697,worksheet,when u r old,6,What does the 'sorrows of your changing face' mean in line 8?,3
+698,worksheet,when u r old,7,Why might the speaker suggest to read this book slowly?,3
+699,worksheet,when u r old,8,What does 'your moments of glad grace' in line 5 refer to?,4
+700,worksheet,when u r old,9,What is the significance of the glowing bars mentioned in line 9?,5
+701,worksheet,when u r old,10,What feeling or mood is conveyed in the last four lines of the poem?,5
+702,worksheet,wind in the willows,1,The sky is described as steely (line 1). Why did the author describe the sky in this way?,3
+703,worksheet,wind in the willows,2,"On line 1, why did the author use the word slipped to describe the action?",2
+704,worksheet,wind in the willows,3,The author personifies the trees. How does he personify them?,3
+705,worksheet,wind in the willows,4,Till they could riot in rich masquerade as before. What does this line mean?,4
+706,worksheet,wind in the willows,5,"Copses, dells, quarries and all hidden places, which had been mysterious mines for exploration. What technique has the author used here?",4
+707,worksheet,wind in the willows,6," now exposed themselves and their secrets pathetically, and seemed to ask him to overlook their shabby poverty. What does this suggest about the trees current appearance?",2
+708,worksheet,wind in the willows,7,Which of these statements about the wood is true?,4
+709,worksheet,wind in the willows,8,What option do you think best describes what the wood looked like previously?,3
+710,worksheet,wind in the willows,9,There was nothing to alarm him at first entry. Why does the writer do this?,3
+711,worksheet,wind in the willows,10,Which of these things did not startle the character ?,2
+712,worksheet,wind in the willows,11,Which description best describes how the atmosphere of the woods changed?,4
+713,worksheet,wind in the willows,12,Which of these words used in the text mean that the trees were getting closer to the character?,2
+714,worksheet,wind in the willows,13,"The dusk advanced on him steadily, rapidly, gathering in behind and before; and the light seemed to be draining away like flood-water What effect does the writer create when he writes this?",4
+715,worksheet,wind in the willows,14,telling himself cheerfully not to begin imagining things why does the character try to do this?,4
+716,worksheet,wind in the willows,15,Which of these could not be used to describe the face?,2
+717,worksheet,wind in the willows,16,"On line XXX, why does the narrator say yes!no!yes!?",3
+718,worksheet,wizard,1,Why did the Wicked Witch send the Winged Monkeys after the travellers?,3
+719,worksheet,wizard,2,How did the travellers lose their way?,1
+720,worksheet,wizard,3,Why couldn't the Scarecrow and the Tin Woodman sleep?,4
+721,worksheet,wizard,4,What is Dorothy's suggestion when they realise they are lost?,2
+722,worksheet,wizard,5,Who gave Dorothy the whistle she used to call the field mice?,5
+723,worksheet,wizard,6,What did the Queen of the Mice notice about Dorothy?,4
+724,worksheet,wizard,7,What charm did the Queen of the Mice suggest Dorothy could use?,1
+725,worksheet,wizard,8,Why were the Mice afraid of the Winged Monkeys?,2
+726,worksheet,wizard,9,What words were written inside Dorothy's Golden Cap?,3
+727,worksheet,wizard,10,Who responded to Dorothy's incantation?,1
+728,worksheet,wizard,11,What were the first words Dorothy said when standing on her left foot?,3
+729,worksheet,wizard,12,What happened after Dorothy said the final words of the charm?,2
+730,mocktest,the hobbit,1,Who called for the gathering?,1
+731,mocktest,the hobbit,2,What is the first purpose mentioned for the gathering?,2
+732,mocktest,the hobbit,3,How old is the person who called the gathering?,3
+733,mocktest,the hobbit,4,What is the second purpose mentioned for the gathering?,2
+734,mocktest,the hobbit,5,Why were the Sackville-Bagginses insulted during the speech?,3
+735,mocktest,the hobbit,6,What happened immediately after the final announcement was made?,4
+736,mocktest,the hobbit,7,What did Frodo do after the gathering?,4
+737,mocktest,the hobbit,8,What was left in the hall after the gathering?,2
+738,mocktest,the hobbit,9,Who was Dora Baggins in relation to Bilbo and Frodo?,4
+739,mocktest,the hobbit,10,How was Hugo Bracegirdle known in the community?,5
+740,mocktest,jane eyre,1,Who hid Jane in the beginning of the story?,1
+741,mocktest,jane eyre,2,Who is John Reed?,1
+742,mocktest,jane eyre,3,What was Jane doing behind the curtain?,1
+743,mocktest,jane eyre,4,Why was Jane afraid of standing before John Reed?,2
+744,mocktest,jane eyre,5,What did John Reed do to Jane when he found her hiding?,2
+745,mocktest,jane eyre,6,What is Jane's relationship with John Reed's family?,3
+746,mocktest,jane eyre,7,Why is Jane often bullied by John Reed?,3
+747,mocktest,jane eyre,8,What historical figures does Jane compare John Reed to?,4
+748,mocktest,jane eyre,9,"What was the reaction of Eliza, Georgiana and Mrs. Reed to the altercation?",4
+749,mocktest,jane eyre,10,Where was Jane taken after the altercation and what happened to her there?,5
+750,mocktest,jane eyre,11,What is the significance of 'the red-room' mentioned at the end of the passage?,5
+751,mocktest,sleepy hollow,1,What does the author mean by describing the Dutch valleys as 'nooks of still water'?,4
+752,mocktest,sleepy hollow,2,What kind of person was Ichabod Crane described to be?,3
+753,mocktest,sleepy hollow,3,What was the condition of Ichabod Crane's schoolhouse?,2
+754,mocktest,sleepy hollow,4,What did Ichabod Crane do to win the favor of the mothers in the village?,2
+755,mocktest,sleepy hollow,5,What were some of the other jobs that Ichabod Crane had besides being a schoolmaster?,2
+756,mocktest,sleepy hollow,6,How did Ichabod Crane entertain himself after school hours?,4
+757,mocktest,sleepy hollow,7,What was the nature of Ichabod Crane's credulity and interest in tales of the supernatural?,5
+758,mocktest,sleepy hollow,8,What was the reaction of Sleepy Hollow's residents to Ichabod Crane's singing?,3
+759,mocktest,sleepy hollow,9,How did Ichabod Crane defend himself against his fears?,5
+760,mocktest,sleepy hollow,10,Why was Ichabod Crane esteemed by the women in the neighborhood?,3
+761,mocktest,those winter,1,Who is the main character in the story?,1
+762,mocktest,those winter,2,What does the author mean by 'blueblack cold'?,3
+763,mocktest,those winter,3,Why does the speaker wake early on Sundays?,2
+764,mocktest,those winter,4,What is the role of the father in the story?,2
+765,mocktest,those winter,5,What does the phrase 'No one ever thanked him' imply?,4
+766,mocktest,those winter,6,Why did the speaker fear 'the chronic angers of that house'?,5
+767,mocktest,those winter,7,What emotions are evoked by the speaker's indifference to his father?,4
+768,mocktest,those winter,8,Why did the speaker's father polish his good shoes?,3
+769,mocktest,those winter,9,What does the phrase 'loves austere and lonely offices' mean?,5
+770,mocktest,those winter,10,How does the weather play a significant role in the story?,3
+771,mocktest,those winter,11,From whose perspective is the story told?,1
+772,mocktest,those winter,12,What is the speaker's mood upon waking?,3
+773,mocktest,those winter,13,What does the word 'austere' refer to in this context?,4
+774,mocktest,those winter,14,How is the father's character described in the story?,2
+775,mocktest,those winter,15,What is the overarching theme of the story?,5
+776,mocktest,those winter,16,What is the significance of the setting in the story?,2
+777,mocktest,those winter,17,Does the speaker display any signs of regret?,4
